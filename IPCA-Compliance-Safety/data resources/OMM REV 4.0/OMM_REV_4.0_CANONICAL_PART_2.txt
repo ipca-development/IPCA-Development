@@ -1,0 +1,1286 @@
+ORGANIZATION MANAGEMENT MANUAL (OMM) – REVISION 4.0
+
+PART 2 – COMPLIANCE MONITORING MANAGEMENT
+
+0. OUTLINE
+
+	1.	COMPLIANCE MONITORING POLICY
+ 1.1 Compliance Monitoring Policy
+ 1.2 Relevant External Standards
+ 1.3 Internal Standards and Procedures
+ 1.4 Policy Deployment
+  1.4.1 Annual Company Goals
+	2.	CONCEPT OF COMPLIANCE MONITORING SYSTEM
+ 2.1 Purpose of the Compliance Monitoring System
+ 2.2 Overview of the Compliance Monitoring System
+ 2.3 Core Elements of the Compliance Monitoring System
+ 2.4 Organization Changes
+	3.	ORGANIZATION, RESPONSIBILITIES AND DUTIES
+ 3.1 EuroPilot Center – ATO Organigram
+ 3.2 Duties and Responsibilities
+  3.2.1 Accountable Manager
+  3.2.2 HOT, CFI, CTKI, CAM and FSTD Manager
+  3.2.3 Compliance Monitoring Manager / Auditor
+   3.2.3.1 Requirements
+   3.2.3.2 Duties and Responsibilities
+  3.2.4 Compliance Monitor / Auditor Training (Initial & Recurrent)
+	4.	COMPLIANCE MONITORING INSPECTIONS
+ 4.1 Inspection Procedure
+ 4.2 Inspection Scopes
+	5.	COMPLIANCE MONITORING AUDITS
+ 5.1 Audit Procedure
+  5.1.1 Audit Planning
+   5.1.1.1 Audit Checklist
+  5.1.2 Performance of the Audit
+   5.1.2.1 Interviews
+   5.1.2.2 Observation of activities
+   5.1.2.3 Review and Examination
+  5.1.3 Reporting
+   5.1.3.1 Initiating of measures
+  5.1.4 Follow-up of corrective actions
+ 5.2 Qualification of Auditors
+  5.2.1 Auditor Independence
+  5.2.2 Code of Ethics
+ 5.3 Audit Scope
+ 5.4 Classification of Audit Findings
+ 5.5 List of Auditors
+	6.	QTG RUNNING, QTG CHECKING AND FLY-OUT PROCEDURES
+ 6.1 Procedure
+  6.1.1 FSTD Audit Planning
+   6.1.1.1 FSTD Audit Checklist
+  6.1.2 Execution of the FSTD Audit
+   6.1.2.1 QTG Tests
+  6.1.3 Reporting
+   6.1.3.1 Initiating of measures
+  6.1.4 Follow-up of corrective actions
+  6.1.5 Dossier for recurrent evaluation
+ 6.2 Qualification of FSTD Auditors
+  6.2.1 Auditor Independence
+  6.2.2 Code of Ethics
+ 6.3 Audit Scope
+ 6.4 Classification of FSTD Audit Findings
+	7.	FEEDBACK AND REPORTING
+ 7.1 General
+ 7.2 Kind of Reports
+  7.2.1 Flight Training Comment Form
+  7.2.2 Theoretical Training Comment Form
+  7.2.3 FSTD Defect Reporting System
+	8.	CONTRACTOR / SUPPLIER MANAGEMENT
+ 8.1 Evaluation of contractors / suppliers
+ 8.2 Supervision of contractors / suppliers
+  8.2.1 Initial Evaluation / Audit
+  8.2.2 Recurrent Audit
+	9.	MANAGEMENT EVALUATION
+ 9.1 Purpose of Management Evaluation
+ 9.2 Process of Management Evaluation
+ 9.3 Data to be evaluated
+	10.	COMPLIANCE MONITORING SYSTEM TRAINING AND PROMOTION
+ 10.1 Initial Training
+ 10.2 Recurrent Training
+ 10.3 Compliance Monitoring System Training Records
+	11.	DOCUMENT CONTROL
+ 11.1 Control of Specifications / Prescriptive Documents
+ 11.2 Control of Compliance Monitoring System Records
+ 11.3 EDP Back-up Concept
+	12.	FSTD COMPLIANCE MONITORING MEASURES
+ 12.1 Purpose
+ 12.2 FSTD Metrics
+  12.2.1 FSTD Actual Operating Time
+  12.2.2 FSTD Defects
+  12.2.3 FSTD Availability
+  12.2.4 Mean Time Between Failures
+  12.2.5 FSTD Reliability
+  12.2.6 FSTD Major Issues	
+	13.	REGULATORY CHANGES FOLLOW-UP PROCEDURES
+ 13.1 Phase 1 – Actively Monitoring Regulatory Changes
+ 13.2 Phase 2 – Analyzing Changes
+ 13.3 Phase 3 – Drafting Bulletin & Action Planning
+ 13.4 Phase 4 – Closing
+
+
+
+
+1. COMPLIANCE MONITORING POLICY
+
+1.1 Compliance Monitoring Policy
+
+The Accountable Manager has the overall responsibility for the EuroPilot Center Compliance Monitoring System and states the following Compliance Monitoring Policy:
+
+“The EuroPilot Center Compliance Monitoring System ensures the continuous aim of providing Personalized Flight Training in the most efficient and economic way possible, with only the most advanced Training Methods and Training Aids available with the ultimate goal of achieving the highest level of safety.”
+
+By applying the EuroPilot Center Compliance Monitoring System we ensure the continued compliance the applicable Belgian Regulations.
+
+Maria A. Paz
+Accountable Manager
+EuroPilot Center
+
+
+
+1.2 Relevant External Standards
+
+The following external standards apply:
+
+• EASA PART FCL
+• EASA PART ORA
+• EASA CS FSTD
+• Belgian Regulations
+• AIP
+
+
+
+1.3 Internal Standards and Procedures
+
+• EuroPilot Center OM
+• EuroPilot Center OMM
+• EuroPilot Center TM
+• FSTD Master Qualification Test Guide
+
+
+
+1.4 Policy Deployment
+
+
+
+1.4.1 Annual Company Goals
+At latest by December 31, the Accountable Manager publishes the Annual Company Goals based on the Compliance Monitoring policy. It states the budgets, target training figures and milestones for the next year. It forms the basis for the yearly strategy adjustment.
+
+2. CONCEPT OF COMPLIANCE MONITORING SYSTEM
+
+
+
+2.1 Purpose of the Compliance Monitoring System
+
+The Compliance Monitoring System, as described in this Manual, established by the EuroPilot Center Accountable Manager:
+
+• monitors the compliance, implementation, effectiveness and efficiency of EuroPilot Center’s specific policies, standards and procedures for training and FSTD operations;
+• ensures a systematic recording and analysis of non-compliances and occurrences;
+• ensures a systematic implementation and monitoring of corrective actions;
+• ensures an evaluation of the overall effectiveness of the organization in achieving stated objectives.
+
+The principles and procedures stated in this chapter shall be adhered to by all EuroPilot Center involved students and personnel.
+
+The Compliance Monitoring System is structured to be in compliance with EASA Part FCL, Part ORA, all other relevant Subparts and CS-FSTD.
+
+
+
+2.2 Overview of the EuroPilot Center Compliance Monitoring System
+
+TCMM Total Compliance Monitoring Management
+TCMM for continuous improvement
+
+Compliance Assurance
+Compliance Control
+Compliance Inspection
+
+• Whole operation involved
+• Compliance Monitoring Strategy
+• Team Work
+• Staff Improvement
+• Involves Customer and Suppliers
+
+• Compliance Monitoring System including Audits
+• Compliance Monitoring costing
+• Problem Solving
+• Compliance Monitoring Planning
+
+• Compliance Monitoring Requirements and Standards
+• Process Performance
+• Statistical Methods
+• Error Detection
+• Rectification
+
+
+
+2.3 Core Elements of the Compliance Monitoring System
+
+Elements – Responsible – Explanation – Reference
+
+Policy
+• Accountable Manager
+• Commitment Compliance Monitoring
+• CMM Chapter 2
+
+Strategy / Resources / Annual Goals
+• Accountable Manager
+• Review of Company Strategy based on Management Evaluation
+• Definition of annual budget and goals
+• CMM Chapter 2
+
+Facilities / Flight Training / Theoretical Knowledge Training / Training Procedures / Flight Safety / Flight duty and rest / Aircraft Maintenance / FSTD Operations
+• Head of Training
+• Chief Flight Instructor
+• Chief TK Instructor
+• CAM
+• FSTD Manager
+
+• Definition of internal standards
+• Ensuring conformity with internal standards and requirements by means of control and supervision (inspections) of the daily activities
+• Analysis of feedback and reports
+• Supervision of the relevant subcontractors
+• Initiation and monitoring of implemented actions
+
+• OMM
+• OM
+• TM
+• CAME
+• CMM Chapter 5
+• CMM Chapter 8
+• CMM Chapter 9
+• FSTD MQTG
+
+Feedback and Reporting
+• All EuroPilot Center personnel
+• Identifies and reports divergences, non-conformities and chances
+• CMM Chapter 8
+
+Audits
+• Compliance Monitoring Manager
+• Compliance Monitoring Auditor
+
+• Independent Compliance Monitoring Auditors monitor the adherence to standards and requirements by means of Compliance Monitoring Audits
+• CMM Chapter 6
+
+Inspections
+• Head of Training
+• Chief Flight Instructor
+• Chief TK Instructor
+• CAM
+• FSTD Manager
+• Compliance Monitoring Manager
+
+• Ensuring conformity with internal standards and requirements by means of control and supervision (inspections) of the daily activities
+• CMM Chapter 5
+
+Data Evaluation
+• Accountable Manager
+• Head of Training
+• Chief Flight Instructor
+• Chief TK Instructor
+• CAM
+• FSTD Manager
+• CMM Manager
+
+• Evaluation of data in the specific field of activity to identify trends and systematic gaps
+• Conclusions resulting from the Data Evaluation
+• CMM Chapter 10
+
+
+
+2.4 Organization Changes
+
+The following changes affect the terms of approval of the ATO and are subjected to prior approval from the BCAA:
+
+• the name of the organization;
+• the organization’s principal place of business;
+• the organization’s scope of activities;
+• additional locations of the organization;
+• the accountable manager;
+• any of the persons referred to in ORA.GEN.210(a) and (b);
+• the organization’s documentation as required by this Part, safety policy and procedures;
+• the facilities.
+
+The Accountable Manager is responsible for sending out a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail.
+
+The header of the e-mail must contain:
+“Change Request: ORGANIZATION, TITLE OF CHANGE”
+(e.g. Change Request: ORGANIZATION, Principal Place of Business).
+
+We refer to the updated Management of Change Procedure outlined in OMM Part 3, Chapter 5.9.
+
+
+3. ORGANIZATION, RESPONSIBILITIES AND DUTIES
+
+
+
+3.1 EuroPilot Center – ATO Organigram
+
+We refer to the OM, Part 1, Chapter 2.1.2.
+
+
+
+3.2 Duties and Responsibilities
+
+EuroPilot Center’s organizational structure (organogram) and the Compliance Monitoring System related roles, duties, responsibilities, accountabilities and authorities of managing staff are described in the below paragraphs.
+
+
+
+3.2.1 Accountable Manager
+The duties and responsibilities of the Accountable Manager are described in the OM Part 1, Chapter 2.
+
+The Compliance Monitoring System related duties and responsibilities of the Accountable Manager are:
+
+• having the corporate authority for ensuring that all operations and maintenance activities can be financed and carried out to the standard required by the BCAA;
+• establishing a formal written Compliance Monitoring Policy Statement;
+• having the overall responsibility for the organization’s Compliance Monitoring System, including the frequency, format and structure of the internal management evaluation activities;
+• having the ultimate responsibility to provide for the necessary resources for the implementation of corrective actions.
+
+
+
+3.2.2 HOT, CFI, CTKI, CAM and FSTD Manager
+The duties and responsibilities of the Head of Training, Chief Flight Instructor, Chief Theoretical Knowledge Instructor, Continuing Airworthiness Manager and FSTD Manager are described in the OM, Part 1, Chapter 2.
+
+The Compliance Monitoring System related duties and responsibilities of these postholders are:
+
+• supervising their respective field of activities and conduct / document inspections;
+• implementing corrective actions;
+• conducting periodical data evaluations as an input to the management evaluation.
+
+
+
+3.2.3 Compliance Monitoring Manager / Auditor & Assistant Compliance Monitoring Manager / Auditor
+
+
+
+3.2.3.1 Requirements
+The following experience/qualifications are required for a Compliance Monitoring Manager / Auditor and Assistant Compliance Monitoring Manager / Auditor within EuroPilot Center:
+
+• Has extensive knowledge of Aviation Rules and Regulations (including FSTD’s);
+• Preferably hold or have held a Commercial (or Airline Pilot License);
+• Has been a Compliance Monitoring Manager for an Aviation Organization for at least 1 year; or
+• Has been an Assistant Compliance Monitoring Manager within EuroPilot Center for 1 year; or
+• Has extensive experience in auditing techniques; or
+• Has attended the Compliance Monitoring Manager / Auditor Course (e.g. internal course or through an entity such as JAATO);
+• Possesses sound managerial skills;
+• Speaks, writes and understands the English language.
+
+
+
+3.2.3.2 Duties and Responsibilities
+The duties and responsibilities of the Compliance Monitoring Manager / Assistant Compliance Monitoring Manager are:
+
+• having direct access to the Accountable Manager;
+• having access to all parts of the organization and, if required, any subcontractor’s organization;
+• verification performed by independent Compliance Monitoring Assurance Activities in the fields of Training, Maintenance and FSTD operations that the standards required by the BCAA, and any additional requirements defined by the organization, are adequate and are being carried out under the supervision of the relevant responsible managers;
+• monitoring the implementation and completion of corrective actions;
+• providing the management with an independent assessment of corrective actions, implementation and completion;
+• evaluation of the effectiveness of corrective actions through the follow-up process;
+• conducting periodical data evaluations as an input to the management evaluation.
+
+An Assistant Compliance Monitoring Manager shall have the same duties as the Compliance Monitoring Manager and should provide support to the Compliance Monitoring Manager in executing his duties. The final responsibility however lies with the Compliance Monitoring Manager.
+
+
+
+3.2.4 Compliance Monitor / Auditor Training (Initial & Recurrent)
+Has received a course from an experienced Compliance Monitoring Manager in the following topics:
+
+• Basic Aviation Management Systems (minimum 1h00);
+• Compliance Monitoring Audits & Audit Techniques (minimum 1h00);
+• The Audit Planning Process (minimum 2h00);
+• Interview & Questioning techniques (minimum 1h00);
+• Evaluation and Reporting of Audit Findings (minimum 1h00);
+• The Corrective Actions and Close-out Process (minimum 1h30).
+
+Or has attended the same course through another entity (e.g. JAATO) and has provided EuroPilot Center with an appropriate Certificate of Training.
+
+In addition, the applicant shall be trained on:
+
+• compliance monitoring system procedures within EuroPilot Center (minimum 1h00);
+• EuroPilot Center manuals and document control procedures (minimum 1h00);
+• EuroPilot Center ATO OMM and OM procedures (minimum 1h00);
+• EuroPilot Center audit techniques and code of conduct of the compliance auditor (minimum 1h00);
+• EuroPilot Center audit reporting and recording (minimum 1h00);
+• FSTD management and FSTD auditing techniques (minimum 1h00).
+
+Practical training shall consist of conducting at least three supervised audits with an experienced Compliance Monitoring Manager.
+
+All training shall be logged in the E-gle system by the Compliance Monitoring Manager.
+
+Recurrent training does not apply to Compliance Monitoring Managers / Auditors.
+
+4. COMPLIANCE MONITORING INSPECTIONS
+
+The Compliance Monitoring Inspection is an instant inspection to observe a particular event, action or document in order to verify whether the established procedures and requirements are followed during the accomplishment of that event, and whether the required standards are achieved.
+
+
+
+4.1 Inspection Procedure
+
+The Compliance Monitoring Inspector shall fulfill at least the following:
+
+• being familiar with the type of training conducted;
+• having knowledge of FSTD requirements and operation;
+• having knowledge of the maintenance of aircraft.
+
+Step | Remarks | Tool | Responsibility
+	1.	Planning and preparations
+• ad-hoc planning;
+• study relevant procedures;
+• consider feedback and reporting system.
+Tool: /
+Responsibility: CMM / Inspector
+	2.	Execution
+Tool: /
+Responsibility: Inspector
+	3.	Reporting
+• performed inspections are recorded on a list of inspections to ensure coverage of all scopes.
+Tool: Compliance Monitoring Audit Plan
+Responsibility: CMM
+	4.	Initiation of measures
+• in case of need, preventive and corrective action shall be initiated.
+Tool: List of Pending Items
+Responsibility: AM / CMM
+	5.	Monitoring
+• verify implementation of measures.
+Tool: /
+Responsibility: AM / CMM
+
+
+
+4.2 Inspection Scopes
+
+Note 1: Please refer to OMM Annex 26 – Regulatory Changes Notifications
+Note 2: Please refer to OMM Annex 27 – Regulatory Changes Checklist
+
+Scope | Main | US Satellite | Frequency | Responsibility
+
+01 Actual Flight Training | Yes | Yes | Yearly | CFI
+02 Actual Theory Training | Yes | Yes | Yearly | CTKI
+03 Training Standards | Yes | Yes | Yearly | HOT
+04 Maintenance of Aircraft | Yes | Yes | Yearly | CAM
+05 Technical Standards | Yes | Yes | Yearly | CAM
+06 Maintenance of FSTD | Yes | No | Yearly | FSTD Manager
+07 Technical Standards FSTD | Yes | No | Yearly | FSTD Manager
+08 Actual FSTD Operation | Yes | No | Yearly | FSTD Manager
+09 Safety Features FSTD | Yes | No | Yearly | FSTD Manager
+10 Regulatory Changes | Yes | Yes | Monthly | CMM
+
+
+
+5. COMPLIANCE MONITORING AUDITS
+
+The Compliance Monitoring Audit procedure is applied to achieve a systematic and independent revision of the Compliance Monitoring Standards within EuroPilot Center.
+
+This is to secure that the level of training, established flight safety standards, instructions and regulations are complied with and that the performance is satisfactory and efficient.
+
+The Compliance Monitoring Audits are conducted for the following purposes:
+
+• to determine the conformity or non-conformity of the EuroPilot Center Compliance Monitoring System elements with specified requirements;
+• to determine the effectiveness of the implemented Compliance Monitoring System in meeting specified Compliance Monitoring objectives;
+• to provide the Auditee with an opportunity to improve the Compliance Monitoring System;
+• to ensure that the applicable BCAA requirements are met.
+
+
+
+5.1 Audit Procedure
+
+The Compliance Monitoring Assurance Program includes a defined audit schedule and a periodic review cycle.
+
+The schedule is flexible and allows unscheduled audits when certain trends are identified.
+
+Follow-up audits are scheduled when necessary to verify that corrective actions were carried out and that they were effective.
+
+All parts of the operation shall be reviewed within 12 months in accordance with the program, unless an extension of the audit period is accepted by the BCAA.
+
+All requirements as well as company standards shall be reviewed under each part covered by scheduled and unscheduled audits.
+
+Regulatory Compliance Monitoring System Audits are conducted in accordance with the Compliance Monitoring Audit Schedule, covering the audit periods.
+
+The actual time when the audit of an area is performed shall not differ more than 3 months (one quarter of a year) from the planned date in the Compliance Monitoring Audit Schedule.
+
+The schedule shall be re-evaluated on a yearly basis.
+
+The schedule shall assure that every audit area shall be covered within a period of 12 months.
+
+The Accountable Manager or the Compliance Monitoring Manager may increase the frequency of the audits, but they are not entitled to decrease the frequency without the acceptance from the BCAA.
+
+In case of an organization change in a significant way (change of company name, location, management), an audit has to be performed within 45 calendar days after implementation of the new structure.
+
+In case of:
+• any major change to, any failure of or any major safety issue with a Qualified Flight Training Device;
+• any deactivation or relocation of a Qualified Flight Training Device;
+
+the BCAA must be informed.
+
+The current issue of the Compliance Monitoring Audit Schedule is presented in Annex 1 to this part.
+
+
+
+5.1.1 Audit Planning
+
+Each audit shall be planned and may cover one or more areas in the Compliance Monitoring Audit Schedule.
+
+The plan shall generally refer to the relevant requirements, standards or procedures stated in the EuroPilot Center Manuals.
+
+The management of the area due for audit (the Auditee) shall be informed in due time before the audit starts, with a minimum of two weeks.
+
+The notice can be given in writing or by e-mail.
+
+A Compliance Monitoring Audit Plan shall be used and must be issued for each audit element, including specified questions and issues referring to the applicable EuroPilot Center documents.
+
+The Compliance Monitoring Audit Plan shall cover at least:
+
+• date;
+• place;
+• time schedule;
+• scope of the audit;
+• audit areas;
+• auditor;
+• auditee.
+
+
+The Compliance Monitoring Audit Plan shall cover at least:
+
+• Date
+• Place
+• Time Schedule
+• Scope of the audit
+• Audit Areas
+• Auditor
+• Auditee
+
+Step | Remarks | Tool | Responsibility
+	1.	Planning
+• Establishing the Audit Plan
+• Considering former:
+
+	•	Audit Plan
+	•	Changes in the organisation
+	•	Changes in regulatory requirements
+	•	Changes in the activities
+	•	Trends
+• Follow-up Audits when necessary
+• Studying the relevant Procedures
+• Considering Feedback and Reporting System
+• Creating/editing the Audit Checklist
+• Assigning Auditors (if applicable)
+
+• The Audit Plan
+• Audit Checklists
+• List of Pending Items
+• List of Auditors
+• OMM, OM, TM
+
+• CMM
+	2.	Execution
+• By means of the following techniques:
+
+	•	Interviews
+	•	Witnessing of activities
+	•	Examination of records
+
+• The Audit Checklists
+
+• CMM
+	3.	Reporting and Initiating Corrective Actions
+• Classifying of Findings
+• Producing the Non Conformity Report (NCR)
+• Initiating preventive and corrective action if required
+• Who, What, Due Date?
+• Producing the Compliance Monitoring Audit Report (CMAR)
+
+• The Audit Checklists
+• Notes
+• The Non Conformity Report (NCR)
+• The Compliance Monitoring Audit Report (CMAR)
+
+• AM
+• CMM
+	4.	Follow-up of Corrective Actions
+• Verify the implementation of corrective actions
+
+• The Compliance Monitoring Audit Report (CMAR)
+
+• AM
+• CMM
+
+
+
+
+5.1.1.1 Audit Checklist
+
+The Auditor is responsible to develop checklists prior to each audit.
+
+The Checklist shall be developed as a high-level and low-level checklist.
+
+The high-level checklist will cover all relevant Authorities’ regulations as required by EASA and the BCAA.
+
+The low-level checklist will cover all other requirements such as company regulations, manuals, internal procedures and agreements.
+
+
+
+5.1.2 Performance of the Audit
+
+The Compliance Monitoring Audit starts with a meeting with the Auditee(s) in order to go deeper into the Compliance Monitoring Audit Plan, organize the time schedule and persons to interview.
+
+As a general rule, the audit should minimize the disturbance of ongoing training activities.
+
+
+
+5.1.2.1 Interviews
+
+The interview shall be performed with the person concerned, as prior agreed upon.
+
+Notes can be taken and findings will be recorded, if applicable.
+
+
+
+5.1.2.2 Observation of activities
+
+Observation of activities and conditions may be included in the audit as deemed necessary by the Compliance Monitoring Auditor.
+
+
+
+5.1.2.3 Review and Examination
+
+The review of documentation includes contracts, company manuals, instructions etc.
+
+The examination of records contains adequate samples of inspection records, reports etc.
+
+The Auditor shall use these records to be guided towards problem areas or problems which are caused by a weakness in the system or process itself.
+
+Previous audit reports shall be reviewed in order to examine corrective actions.
+
+
+
+5.1.3 Reporting
+
+All non-conformities shall be analyzed by the Compliance Monitoring Auditor with the purpose to find the root cause of the finding.
+
+These shall be specified in the Compliance Monitoring Audit Report (CMAR).
+
+The Non-Conformity Report (NCR) or a copy of a used Audit Checklist with comments shall be sent together with the enclosed copy of the CMAR to the Auditee within a maximum period of 7 working days after the audit was completed.
+
+Reference is made to Annex 2 – NCR.
+
+
+
+5.1.3.1 Initiating of measures
+
+Within 7 working days after sending the audit result to the Auditee, the Compliance Monitoring Manager shall contact the Auditee with the purpose of discussing the audit results and decide upon the following issues:
+
+• agreed corrective actions;
+• compliance date for the corrective actions.
+
+The Auditee shall propose the corrective actions to be taken and the Auditor has to agree.
+
+
+
+5.1.4 Follow-up of corrective actions
+
+All observations shall be numbered and listed in the Compliance Monitoring Audit Report (CMAR).
+
+A time limit for corrective actions shall be stipulated.
+
+It is the responsibility of the Compliance Monitoring Manager to agree on a time limit for corrective actions.
+
+It is the responsibility of the Auditee to execute the agreed corrective actions within the stipulated timeframe.
+
+The Compliance Monitoring Manager is responsible to follow up that the corrective actions were executed in time and to evaluate the effectiveness of those actions.
+
+The normal time limit should not exceed two months.
+
+If the corrective action includes a comprehensive project or equivalent, the time limit may be extended.
+
+If for some reason no action is taken within the agreed time limit, it is the responsibility of the Auditee to report this to the Compliance Monitoring Manager and to ask for agreement of a new time limit.
+
+An acceptable reason for the delay should be provided.
+
+The Compliance Monitoring Manager has to inform the Accountable Manager who will take the decision about an extension of the time limit.
+
+If no action is taken within the extended time limit, it is the responsibility of the Compliance Monitoring Manager to inform the Civil Aviation Authorities accordingly and suggest an acceptable solution.
+
+When an audit finding has been sufficiently taken care of, the audit finding shall be declared ‘closed’ by the Compliance Monitoring Manager and this shall be noted in the CMAR.
+
+
+
+5.2 Qualification of Auditors
+
+We refer to the qualifications for Compliance Monitoring Managers / Auditors & Assistant Compliance Monitoring Managers / Auditors under Chapter 3.2.3.
+
+We refer to the training requirements under Chapter 3.2.4.
+
+
+
+5.2.1 Auditor Independence
+
+The Auditor shall be independent with regard to functional connection to the area subject of the audit.
+
+The Auditor shall be given full access to the documentation and any other relevant information to perform the audit.
+
+
+
+5.2.2 Code of Ethics
+
+The following rules of ethics apply to all EuroPilot Center audit activities:
+
+• the Auditor shall perform his duties in true confidentiality, sincerity and honesty;
+• the Auditor shall have appropriate respect for the Auditee concerned;
+• all information regarding the respective audit shall never be communicated to persons not involved in the audit;
+• all reported findings must be based on well-documented facts. Personal judgements must be clearly separated from facts. Only actual observations may be reported;
+• Auditors should minimize the disturbance of the ongoing training activities during the performance of the audit.
+
+
+
+5.3 Audit Scope
+
+The audit scopes are defined in the Audit Plan, which is held as a separate document to ensure the flexibility for recording the audits performed and for scheduling additional audits.
+
+Reference is made to Annex 1.
+
+
+
+5.4 Classification of Audit Findings
+
+Findings resulting from audits have to be classified as follows:
+
+• Level 1: Safety is affected, no further (training) operation / activity allowed until closure of finding;
+• Level 2: Safety might be affected, finding to be closed within 2 months;
+• Level 3: Safety not affected, but of importance for the company. Finding to be closed within due date (to be agreed upon).
+
+The Auditor determines the classification of the audit finding.
+
+
+
+5.5 List of Auditors
+
+We refer to OMM Annex 23 – List of Auditors.
+
+
+
+6. QTG RUNNING, QTG CHECKING AND FLY-OUT PROCEDURES
+
+
+
+6.1 Procedure
+
+The FSTD Compliance Monitoring Assurance Program includes a defined FSTD audit schedule and a periodic review cycle.
+
+The schedule is flexible and allows unscheduled audits when certain trends are identified.
+
+FSTD follow-up audits are scheduled when necessary to verify that corrective actions were carried out and that they were effective.
+
+All parts of the FSTD operation shall be reviewed within 12 months in accordance with the program, unless an extension of the audit period is accepted by the Civil Aviation Authorities.
+
+All requirements as well as company standards shall be reviewed under each part covered by scheduled and unscheduled audits.
+
+FSTD Compliance Monitoring System Audits are conducted in accordance with the FSTD Compliance Monitoring Audit Schedule, covering the audit periods.
+
+The actual time when the audit of an area is performed shall not differ more than 3 months (one quarter of a year) from the planned date in the FSTD Compliance Monitoring Audit Schedule.
+
+The FSTD schedule shall be re-evaluated on a yearly basis.
+
+The schedule shall assure that every audit area shall be covered within a period of 12 months.
+
+The Accountable Manager (or the FSTD Compliance Monitoring Manager) may increase the frequency of the audits, but they are not entitled to decrease the frequency without the acceptance from the BCAA.
+
+If the FSTD operation changes in a significant way, an audit has to be performed within 45 calendar days after implementation of the new structure.
+
+The current issue of the FSTD Audit Schedule is presented in Annex 4 to this part.
+
+7. FEEDBACK AND REPORTING
+
+
+
+7.1 General
+
+Any hazard having the potential to cause damage or injury, or to threaten the viability of the EuroPilot Center organization has to be reported, in order to get analysed and eliminated to finally increase the level of safety.
+
+Hazards and incidents shall be reported in case:
+
+• something can be done to improve safety;
+• other aviation personnel could learn from the report;
+• the system did not work as expected.
+
+IF IN DOUBT, REPORT IT!
+
+
+
+7.2 Kind of Reports
+
+
+
+7.2.1 Flight Training Comment Form
+The Flight Training Comment Form shall be used by the Flight Instructor for the purpose of documenting student training issues/problems with regard to Flight Training.
+
+Reference is made to Chapter 1.5 of the EuroPilot Center Training Manual.
+
+
+
+7.2.2 Theoretical Training Comment Form
+The Theoretical Training Comment Form shall be used by the Ground Instructor for the purpose of documenting student training issues/problems with regard to Theoretical Training.
+
+Reference is made to Chapter 1.5 of the EuroPilot Center Training Manual.
+
+
+
+7.2.3 FSTD Defect Reporting System
+The FSTD Defect Reporting System shall be used to report any FSTD defect.
+
+The system consists of an online password-protected web-application that can be accessed via:
+
+For the BE/FNPT-014:
+http://customers.europilotcenter.be
+
+For the BE/FNPT-024:
+http://techlog.alsim.com
+
+For the BE/FNPT-028:
+http://techlog.alsim.com
+
+For the BE/FNPT-014, defects (Squawks) can be reported as:
+
+• Level A – urgent, no further training possible;
+• Level B – urgent, training can be continued;
+• Level C – not urgent, training can be continued.
+
+For the BE/FNPT-024 and BE/FNPT-028, defects can be reported as:
+
+• Blocking – urgent, no further training possible;
+• Unblocking – training can be continued.
+
+
+
+8. CONTRACTOR / SUPPLIER MANAGEMENT
+
+
+
+8.1 Evaluation of contractors / suppliers
+
+EuroPilot Center has dedicated specific services to contractors. These contractors shall be evaluated on a continuous basis by the respective Manager. Hereto he shall produce a written document where all details concerning Compliance Monitoring are stated.
+
+These contracting activities can take place in the following areas:
+
+• Training
+• Facilities
+• Assessments
+• Maintenance
+• CAMO
+
+The most important prerequisite for EuroPilot Center contractor’s / supplier’s evaluation is a clear definition of the relevant Compliance Monitoring / safety requirements and demands. These requirements and demands need to be explicitly stated in the underlying written agreement between EuroPilot Center and the respective contractors / suppliers.
+
+In order to achieve reliable control of contracted services agreed upon, the standards and procedures shall be continuously monitored by EuroPilot Center.
+
+In addition, a Compliance Monitoring Audit on the contractor / supplier shall be performed on a two-yearly basis.
+
+Before the use of a new contractor / supplier, an initial evaluation audit needs to take place.
+
+
+
+8.2 Supervision of contractors / suppliers
+
+
+
+8.2.1 Initial Evaluation / Audit
+Before initiating an Evaluation / Audit of a contractor / supplier, the Accountable Manager must be satisfied about the financial and safety aspects of the cooperation.
+
+If the contractor / supplier is judged to be reliable, the Evaluation / Audit will be conducted as follows:
+	1.	Review of the Compliance Monitoring system elements such as organization, procedures and relevant documentation including Authority approvals / certificates and manuals;
+	2.	Physical inspection of the contractor’s / supplier’s facilities and equipment.
+
+
+
+8.2.2 Recurrent Audit
+Recurrent audits of all contractors / suppliers shall be conducted every 2 years or earlier in case of findings, to monitor if contracted activities are carried out in accordance with the applicable contract.
+
+The contract should clearly state the responsibilities of both parties.
+
+A copy of the signed contract must be sent to the BCAA prior to the start of the contracted activities.
+
+
+
+9. MANAGEMENT EVALUATION
+
+
+
+9.1 Purpose of Management Evaluation
+
+The management evaluation is a comprehensive, systematic review by the management to evaluate:
+
+• the overall effectiveness of the organization;
+• the achievement of stated objectives;
+• the effectiveness of the Compliance Monitoring System;
+• the operational policies and procedures.
+
+By means of this data evaluation, negative trends and major weaknesses can be identified and corrected by dealing with their root causes.
+
+
+
+9.2 Process of Management Evaluation
+
+The Compliance Monitoring Manager has a Compliance Meeting with the Accountable Manager on a monthly basis to discuss the results of Audit Findings, discuss corrective actions, and follow up on corrective action closures.
+
+The minutes of the meeting will be recorded in the Pipedrive CRM system, identically to the procedure described for other meetings held.
+
+Step | Remarks | Tool | Responsibility
+	1.	Perform Data Evaluation
+• Monthly*
+• Periodical evaluation of received reports
+• Identification of trends and systematic deviations
+• Suggestion of additional measures
+
+• Data to be evaluated (See 10.3)
+• Responsible Managers (see 10.3)
+	2.	Establish management review report
+• Consolidate the results of data evaluation
+• Evaluate fulfilment of annual goals
+• Evaluate the overall effectiveness of the organisation
+• Decide upon measures and necessary resources
+• Initiate measures
+
+• List of Pending Items
+• AM
+	3.	Monitor implementation of measures
+• Verify completion and success of initiated measures
+
+• List of Pending Items
+• AM
+
+
+
+9.3 Data to be evaluated
+
+The following sources of information and criteria are analyzed and evaluated according to the respective frequency:
+
+The following sources of information and criteria are analyzed and evaluated according to the respective frequency. The reports of the individual responsible managers will be collated into the Management Review Report and discussed during the Management Review Meeting. Corrective and preventive actions are initiated and tracked on the list of Pending Items.
+
+Step | Criteria / Source data | Frequency
+
+Accountable Manager
+• Achievement of annual goals
+• Overall effectiveness of the organization
+• Monthly
+
+Compliance Monitoring manager
+• Status of the implementation and effectiveness
+• Audit results
+• Inspection results
+• 6 months
+
+Head of Training
+• Results from Progress checks and Examinations
+• Theoretical Training Comment Form
+• Flight Training Comment Form
+• Customer satisfaction
+• 6 months
+
+Chief Flight Instructor
+• Trainee Feedback
+• Theoretical Training Comment Form
+• Flight Training Comment Form
+• 6 months
+
+Chief TK Instructor
+• Trainee Feedback
+• Theoretical Training Comment Form
+• Flight Training Comment Form
+• 6 months
+
+Continuing Airworthiness Manager
+• Technical Logs
+• Effectiveness of Maintenance Program
+• 6 months
+
+FSTD Manager
+• Technical Logs (FSTD)
+• Effectiveness of FSTD Maintenance Program
+• QTG Test reports
+• 6 months
+• 3 months for QTG Test Reports
+
+
+
+10. COMPLIANCE MONITORING SYSTEM TRAINING AND PROMOTION
+
+The goal of the Compliance Monitoring System is to raise awareness among all EuroPilot Center personnel and students on all levels towards accident prevention, flight safety and Compliance Monitoring. The Compliance Monitoring Manager establishes the necessary training tools and records.
+
+
+
+10.1 Initial Training
+
+Every new EuroPilot Center employee will, within respect of his or her function, be introduced to the EuroPilot Center Compliance Monitoring System by the Compliance Monitoring Manager by means of a self-study course.
+
+
+
+10.2 Recurrent Training
+
+Recurrent Training is based on safety and Compliance Monitoring related conclusions, experiences and changes, resulting from evaluation of data gathered by the implemented Compliance Monitoring Assurance Program.
+
+The responsible person decides upon the form of training (self-study course, hand-outs, class room training, e-mail, computer based training).
+
+
+
+10.3 Compliance Monitoring System Training Records
+
+All Compliance Monitoring Training shall be recorded in the E-Gle Online System by the applicable Manager.
+
+Source | Responsibility for Training
+
+Compliance Monitoring System Documentation Changes
+• Compliance Monitoring Manager
+
+Feedback and Reports
+• Relevant Manager
+
+Compliance Monitoring Audits
+• Compliance Monitoring Manager
+
+Management Evaluation
+• Accountable Manager
+
+Compliance Monitoring Goals / Company Goals
+• Accountable Manager
+
+FSTD Audits
+• FSTD Compliance Monitoring Manager
+
+
+
+11. DOCUMENT CONTROL
+
+
+
+11.1 Control of Specifications / Prescriptive Documents
+
+For all internal Standards and Procedures, EuroPilot Center ensures that the current versions are available in the right time at the right place. The amendment procedure of the OM, TM and QTG is specified in the introduction part of the respective manual.
+
+
+
+11.2 Control of Compliance Monitoring System Records
+
+Records are documents or data stating results achieved, or providing evidence of activities performed. To ensure an authorized and quick access to records, they have to be:
+
+• Properly identified
+• Systematically stored for the period required
+• Destroyed after storage period in a controlled manner
+
+Document | Responsibility | Place of Storage | Storage
+
+Management Evaluation Report
+• AM
+• EPC Administration Archives
+• 5 Years
+
+Individual Feedback Reports
+• EPC Administration Archives
+• 5 Years
+
+Compliance Monitoring Audit Reports (CMAR)
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+Non Conformity Reports (NCR)
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+List of Inspections Performed
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+Employees Introduction Certificate
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+Compliance Monitoring Training Attendance Record
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+List of Pending Items
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+Audit Checklists
+• CMM
+• EPC Administration Archives
+• 5 Years
+
+QTG Test Reports
+• FSTD CMM
+• EPC Administration Archives
+• 5 Years
+
+
+
+11.3 EDP Back-up Concept
+
+For all electronic files and documents, if any, EuroPilot Center shall provide a back-up in accordance with EASA ORA.GEN.220 and ORA.ATO.120:
+
+• The responsibility for such back-up lies with the Accountable Manager;
+• The back-ups will be taken on a Quarterly basis;
+• The back-ups will be stored in a different location from that containing the working data and in an environment that ensures they remain in good condition. The EuroPilot Center Administration archives will satisfy this requirement, currently located at Antwerp Airport Office 2.
+
+• All data should be kept for a period of at least 5 years:
+a) details of ground, flight, and simulated flight training given to individual students;
+b) detailed and regular progress reports from instructors including assessments, and regular progress flight tests and ground examinations; and
+c) information on the licenses and associated ratings and certificates of the students, including the expiry dates of medical certificates and ratings.
+
+• When hardware or software changes take place, special care should be taken that all necessary data continues to be accessible for at least 5 years.
+
+• Other data then the one specified above, should be kept for a period of at least 5 years.
+
+
+
+12. FSTD COMPLIANCE MONITORING MEASURES
+
+
+
+12.1 Purpose
+
+For the purpose of measuring the effectiveness of the FSTD Compliance Monitoring System, EuroPilot Center applies simplified performance measures that can be monitored against the FSTD Compliance Monitoring Objectives. These measures, referred to as Metrics can be reviewed by the BCAA as part of their oversight of Compliance Monitoring System and will be examined for each FSTD on an annual basis.
+
+The FSTD Compliance Monitoring Objectives are published in the Annual Company Goals by the Accountable Manager.
+
+
+
+12.2 FSTD Metrics
+
+All FSTD times must be recorded in the Annual FSTD Logbook. We refer to Annex 5.
+
+
+
+12.2.1 FSTD Actual Operating Time
+The actual time the FSTD is operational, recorded in the FSTD Logbook under column “A-TIME” (meaning Actual Operating Time).
+
+
+
+12.2.2 FSTD Defects
+
+An FSTD defect is any unanticipated occurrence which causes an operationally significant period during which the FSTD cannot be used within the specified tolerances.
+
+FSTD defects will result in Training Sessions Interruptions and consequently result in a Downtime Period.
+
+The Downtime Period will be recorded in the FSTD Logbook under the column “D-TIME” (meaning Downtime) in case of a scheduled Training Session Interruption caused by an FSTD Defect.
+
+The total number of FSTD defects leading to a Training Session Interruption, resulting in a Downtime Period must be recorded at the bottom of each FSTD Logbook page.
+
+
+
+
+12.2.3 FSTD Availability
+
+The FSTD availability is determined on a yearly basis by the ratio of Actual Operating Time compared to Specified Operating Time.
+
+The Specified Operating Time can be calculated by the sum of the total time of column “A-TIME” and the total time of column “D-TIME”.
+
+The FSTD Availability can be calculated by the following formula:
+
+Annual Actual Operating Time
+FSTD AVAILABILITY = —————————— × 100
+Annual Specified Operating Time
+
+Note: the FSTD Availability is one of the FSTD Compliance Monitoring Objectives.
+
+
+
+
+12.2.4 Mean Time Between Failures
+
+The FSTD Mean Time Between Failures is determined on a yearly basis by the ratio of the Actual Operating Time and the number of FSTD Defects.
+
+It can be calculated by the following formula:
+
+Actual Operating Time
+FSTD MEAN TIME BETWEEN FAILURES = ——————————
+Number of FSTD Defects
+
+
+
+12.2.5 FSTD Reliability
+
+The FSTD reliability is the probability that the specific installation operates within the specified tolerances and refers to the probability that the facility will operate for a specified period of time.
+
+It corresponds to the Mean Time Between Failure value.
+
+Note: the FSTD Reliability is one of the FSTD Compliance Monitoring Objectives.
+
+Factors which affect MTBF and hence facility reliability are:
+
+• Inherent equipment reliability;
+• Degree and type of redundancy;
+• Reliability of the serving utilities such as power and telephone or control lines;
+• Degree and Compliance Monitoring of maintenance;
+• Environmental factors such as temperature and humidity.
+
+
+
+
+12.2.6 Major FSTD Issues
+
+In case of an FSTD:
+
+• Major change;
+• Relocation;
+• Deactivation;
+• Major failure;
+• Major safety issue associated with the installation.
+
+The BCAA shall be informed by e-mail immediately by the FSTD Compliance Monitoring Manager and discuss the appropriate actions required.
+
+
+
+
+13. REGULATORY CHANGES FOLLOW-UP PROCEDURES
+
+The purpose of the below Regulatory follow-up procedure is to maintain compliance with ORA.GEN.135.
+
+By integrating a monthly Regulatory Change follow-up procedure, the CMM will be required to perform the following tasks:
+
+• Enroll in the official EASA and FAA Online Notification Services (we refer to Annex 26 for more details).
+• Daily, receives/collects all Regulatory changes relevant to the ATO (we refer to Annex 26 for a detailed overview of all relevant Regulations pertaining to the organization in Belgium and the USA).
+• As part of the Scope, executes a manual verification of the Regulations relevant to the ATO (we refer to Annex 26).
+• Publishes a “Regulatory Changes Bulletin” on a monthly basis which should be sent to the AM, HT and SM via e-mail.
+• Depending on a) the nature; and/or b) the urgency of a future Regulatory Change, the CMM can call for a “Regulatory Change Meeting“, to be attended by the AM, HT and SM.
+• Creation of an “Action Plan Proposal” to the AM, HT and SM.
+
+The process consists of 4 phases:
+
+PHASE 1 – Actively Monitoring Regulatory Changes
+PHASE 2 – Analyzing Changes
+PHASE 3 – Drafting Bulletin & Action Planning
+PHASE 4 – Closing
+
+
+
+13.1 Phase 1 – Actively Monitoring Regulatory Changes
+
+
+• Login to PipeDrive and Click on “Projects”.
+• From the Dropdown list on the right, select the “CMM - Regulatory Changes” -Project.
+• Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+• Select the “Regulator Changes” Template.
+• Name the Project as per following convention: “Regulatory Changes: MM/YYYY” (e.g. Regulatory Changes: 02/2023”).
+• Enter “Start Date” (Should be the first day of the month).
+• Enter “End Date” (Should be the last day of the month).
+• Select Label” In Progress”.
+• Perform the checklist items under the “PLAN” section of the Project.
+• When receiving relevant regulatory changes containing a PDF file or other document, the CMM must upload this document via the “FILES” section of the Project.
+• Upon receiving relevant regulatory changes via ANY official SOURCE, a note must be made in the “NOTES” Section of the Project, including comments.
+• When receiving relevant e-mails from official sources, they should be linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+
+
+
+13.2 Phase 2 – Analyzing Changes
+
+• Go to the Project section in Pipedrive to obtain all the data collected during Phase 1.
+• Move the Project to Phase 2.
+• Start with the Analysis Process based on the PLAN Checklist for this Phase.
+• Update the overview of all relevant Regulatory Changes in the “NOTES” section of the Project, already made during Phase 1.
+
+
+
+13.3 Phase 3 – Drafting Bulletin & Action Planning
+
+
+• Go to the Project section in Pipedrive.
+• Move the Project to Phase 3.
+• Execute the PLAN Checklist for this Phase.
+• Start drafting the “Regulatory Changes Bulletin” via de “EMAILS” section of the Project by creating a new e-mail via the Template Menu. Select the “Regulatory Change Bulletin” template.
+• Create an Action Plan via the “PLAN” Section.
+• Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+• Allocate the “TASK” to the responsible person within the organization and add a due-date (proposal).
+• Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+• Once the Regulatory Changes Bulletin (or Minutes of the Regulatory Changes Meeting, if held) has been drafted and the Action Plan is prepared under the PLAN section, send the e-mail to the AM, HT, SM.
+
+
+
+13.4 Phase 4 – Closing
+
+• After either the “Regulatory Changes Bulletin” or the Minutes of “Regulatory Changes Meeting” have been reviewed by the AM, HT and SM, feedback obtained shall be used to update the Action Plan via the “PLAN” Section.
+• Based on the deadlines for each Action item, the CMM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+• The CMM ensures all Task Items are closed and “archives” the Project.
+

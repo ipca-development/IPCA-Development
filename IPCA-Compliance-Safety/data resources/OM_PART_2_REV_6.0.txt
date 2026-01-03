@@ -1,0 +1,1320 @@
+Part 2 - Technical
+AIRCRAFT DESCRIPTIVE NOTES
+The aircraft used for Flight Training within EuroPilot Center are:
+
+Cessna C172SP - G1000
+The C172SP (Skyhawk) is an all metal, four-place, high wing, single-engine aircraft equipped with tricycle landing gear and is designed for general utility and training purposes.
+
+
+Engine
+Number of engines: 1
+Engine manufacturer: Textron Lycoming
+Engine model number: IO-360-L2A
+Engine type: Normally aspirated, direct drive, air-cooled, horizontally opposed, fuel injected, four cylinder engine with 360.0 cu.in. displacement.
+Horsepower rating and engine speed: 180 rated BHP at 2700 RPM
+Propeller
+Propeller manufacturer: McCauley Propeller Systems Propeller Model Number: 1A170E/JHA7660
+Number of blades: 2
+Propeller diameter: 76 inches
+Propeller type: Fixed pitch
+
+Fuel
+Approved fuels: AVGAS 100LL or AVGAS 100
+Total capacity: 56.0 U.S.GALLONS
+Total usable: 53.0 U.S. GALLONS
+Total capacity each tank: 28.0 U.S.GALLONS
+Total usable each tank: 26.5 U.S. GALLONS
+Oil
+Approved oil (All temperatures): W100 or equivalent (refer to maintenance)
+Oil sump capacity: 8,0 US QUARTS
+Total oil capacity: 9,0 US QUARTS
+Dimensions
+Wingspan: 11 m
+Wing area: 16,16 square meter
+Length: 8,3 m
+Tail height: 2,5 m
+Propeller ground clearance: 28,6 cm
+Minimum turn radius: 8,4 m
+Masses
+Standard Empty Mass: 755 Kg
+Maximum Useful Load (Traffic Load + Usable Fuel): 405 Kg
+Maximum Ramp Mass (Normal Category): 1.160 Kg
+Maximum Ramp Mass (Utility Category): 1.000 Kg
+Maximum Take Off Mass (Normal Category): 1.156 Kg
+Maximum Take Off Mass (Utility Category): 998 Kg
+Maximum Landing Mass (Normal Category): 1.156 Kg
+Maximum Landing Mass (Utility Category): 998 Kg
+
+Diamond DA42
+The Diamond DA42 is a composite, four-place, low wing, multi-engine aircraft equipped with tricycle landing gear and is designed for general utility and training purposes.
+
+
+
+
+
+
+
+
+2950 mm
+(9 ft 8 in)
+
+
+Engine
+Number of engines: 2
+Engine manufacturer: Continental
+Engine model number: CD-135
+Engine type: Liquid-cooled, four-cylinder, four stroke Diesel-cycle engine with wet sump lubrication. Inline construction, common rail direct injection. Reduction gear (1:1.69)
+Horsepower rating and engine speed: 135 HP at 2.300 RPM per engine.
+Propellers
+Propeller manufacturer: MT-Propeller
+Number of blades: 3
+Propeller type: Constant speed, feathering.
+Propeller diameter: 187 cm.
+Propeller pitch angle: 12 degrees (low pitch), 15 degrees (start lock), 81 degrees (feathered)
+
+Fuel
+Approved fuels: JET A-1 (ASTM D 1655), Jet A (ASTM D 1655), Jet Fuel No. 3 (GB6537-94), Diesel (EN 590) and blends of the the previous mentioned fuel grades.
+Total capacity without auxiliary tanks: 52.0 U.S.GALLONS
+Total usable without auxiliary tanks: 50.0 U.S. GALLONS
+Total capacity with auxiliary tanks: 79.4 U.S.GALLONS
+Total usable with auxiliary tanks: 76.4 U.S. GALLONS
+Total capacity each main tank: 26.0 U.S.GALLONS
+Total usable each main tank: 25 U.S. GALLONS
+Total capacity each auxiliary tank: 13.7 U.S.GALLONS
+Total usable each auxiliary tank: 13.2 U.S. GALLONS
+Oil/Coolants
+Approved engine oil: Shell Helix Ultra 5W-30, 5W-40, Aeroshell Oil Diesel 10W-40 or equivalent (Refer to maintenance).
+Approved Gearbox Oil: Shell EP 75W90 API GL-4, Shell Spirax GSX 75W-80
+Approved coolant: Water/BASF Glysantin Protect Plus/G48
+Dimensions
+Wingspan: 13,42 m
+Wing area: 16,29 square meter
+Length: 8,56 m
+Tail height: 2,49 m
+Masses
+Minimum flight mass: 1.250 kg
+Maximum take off mass: (without MAM 42-088)1.700 kg, (with MAM 42-088) 1.785 kg
+Maximum zero fuel mass: (with OAM 42-188 and OAM 42-195) 1.674 kg
+Maximum landing mass: (without MAM 42-088) 1.700 kg, (with MAM42-195 1.785 kg
+Maximum load in nose bagage compartment: 30 kg
+Maximum load in cabin bagage extension: 18 kg
+Maximum load, cabin bagage compartment and bagage extension together: 45 kg
+
+AIRCRAFT HANDLING
+Checklists
+Use of Checklists
+
+The standard way of operating the aircraft in single pilot operations is by means of checklists: There are 3 types of checklists:
+Scan flows
+Read and do
+2. Recall
+
+Scan flows
+A scan flow is basically performed from Top to Bottom and from Left to Right.
+Every single instrument and switch in the cockpit will be checked in a logical order and the necessary actions will be performed related to that particular phase of flight.
+Scan flows can be performed both on the ground and in flight.
+Read and Do
+An item will be read out, thereafter the required action will be performed.
+Read and Do checklists are ONLY performed on the ground (with the exception of specific Emergency Checklists).
+
+Recall
+Recall Checklists are performed by heart. All in-flight checklists are Recall. Therefore all Recall Checklists must be known by heart at all times.
+Note: all of the above checklists must be carried out loud and clear (not in silence). Checklists are announced by e.g. “Before Start Checklist” and finished by e.g. “Before Start Checklist Completed”.
+
+Checklist Overview
+The following checklists will be performed:
+
+
+Checklist
+C172
+DA42
+
+
+
+
+
+
+a.
+External Inspection (Walk Around)
+X
+X
+
+
+
+
+
+
+b.
+Before Starting Engine
+X
+X
+
+
+
+
+
+
+c.
+Starting Engine
+X
+X
+
+
+
+
+
+
+d.
+After Start
+X
+X
+
+
+
+
+
+
+e.
+Taxi
+X
+X
+
+
+
+
+
+
+f.
+Before Take Off
+X
+X
+
+
+
+
+
+
+g.
+Line Up
+X
+
+
+
+
+
+
+
+h.
+Take Off
+X
+X
+
+
+
+
+
+
+i.
+After Take Off/Climb
+X
+X
+
+
+
+
+
+
+j.
+Cruise
+X
+X
+
+
+
+
+
+
+k.
+Descent/Approach
+X
+X
+
+
+
+
+
+
+l.
+Landing
+X
+X
+
+
+
+
+
+
+m
+Go Around
+X
+X
+
+
+
+
+
+
+n.
+After Landing
+X
+X
+
+
+
+
+
+
+o.
+Securing The Aircraft
+X
+X
+
+
+
+
+
+
+
+We refer to:
+OM Annex 03: Checklist Cessna 172SP
+OM Annex 04: Cross Reference List C172SP Checklist
+OM Annex 25: Checklist Diamond DA42
+Cross Reference List not applicable - No differences compared to the POH
+
+Standard Operating Procedures
+Cessna C172SP
+We refer to OM Annex 07: Standard Operating Procedures Cessna C172SP.
+Diamond DA42
+We refer to POH Section 4A, Normal Operating Procedures.
+
+Limitations
+
+All aircraft must be operated in accordance with the applicable operating limitations as described in the Pilot Operating Handbook (POH):
+For the C172SP - G1000 we refer to the POH, Part 2 - Operating Limitations:
+Airspeed Limitations - Chapter 2-4
+Airspeed Indicator Markings - Chapter 2-5
+Power plant Limitations - Chapter 2-6
+Power plant Instrument Markings - Chapter 2-7
+Weight Limits - Chapter 2-8
+Center Of Gravity Limits - Chapter 2-9
+Maneuver Limits - Chapter 2-10
+Flight Load Factor Limits - Chapter 2-11
+Fuel Limitations - Chapter 2-18
+Flap Limitations - Chapter 2-18
+System Limitations - Chapter 2-19
+G1000 Limitations - Chapter 2-20
+Placards - Chapter 2-23
+For the DA42 we refer to the POH, Section 1 - Limitations:
+Airspeed Limits: Page 2-4
+Airspeed indicator markings: Page 2-5
+Power plant limitations: Page 2-6
+Engine Instrument marking: Page 2-9
+Warning, caution and advisory alerts: Page 2-11
+Mass: Page 2-15
+Center of gravity: Page 2-17
+Approved Maneuvers: Page 2-18
+Maneuvering Load Factor: Page 19
+Operating altitude: Page 2-20
+Flight Crew: Page 20
+Kinds of operation: Page 2-20
+Fuel: Page 2-24
+Placards: 2-26
+Other limitations: 2-30 till 2-36
+
+Maintenance
+
+Maintenance Organisation Subcontractor
+Aircraft maintenance is provided in accordance with the applicable EASA regulations via the following subcontractor(s):
+For the C172SP’s and DA42:
+STYL AVIATION
+EASA Part M - Subpart F approved Luchthavenlei 1, PB 34
+Antwerp Airport - North Side 2100 Deurne
+Belgium
+Avionics:
+ASP AVIONICS
+EASA Part 145 Approved BE145.17 Vliegplein bus 1
+3600 Genk Belgium
+LAMBERT AIRCRAFT ENGINEERING
+Vliegveld 59
+8560 Wevelgem Belgium
+For the C172SP’s in the USA, Maintenance & Avionics:
+LA QUINTA AIR SERVICES
+FAA Certified Repair Station #LQ6R171N 86400 Lightning Street, Hangar T Thermal, California
+USA
+
+CAMO Subcontractor
+Continuing Airworthiness Management is provided in accordance with the applicable EASA regulations via the following subcontractor(s):
+For the C172SP and DA42:
+STYL AVIATION
+EASA Part M - Subpart F approved Luchthavenlei 1, PB 34
+Antwerp Airport - North Side 2100 Deurne
+Belgium
+
+Release to service after maintenance
+No aircraft can be released to service unless a certificate of release to service is issued at the completion of any maintenance, when satisfied that all maintenance required has been properly carried out by appropriate certified staff on behalf of the maintenance organization approved in accordance with Section A, Subpart F of EASA Part M.
+A certificate of release to service shall contain as a minimum:
+Basic details of the maintenance carried out;
+The date such maintenance was completed;
+The identity of the organization and/or person issuing the release to service, including the approval reference of the maintenance organization approved in accordance with Section A, Subpart F of EASA Part M and the certifying staff issuing such a certificate;
+The limitations to airworthiness or operations, if any.
+The aircraft certificate of release to service should also contain the following statement:
+“Certifies that the work specified except as otherwise specified was carried out in accordance with Part-M and in respect to that work the aircraft is considered ready for release to service”
+The release to service will be added to the Aircraft Journey Log.
+The Pilot In Command is responsible to verify the release to service document.
+As a safety measure, the Pilot In Command who performed the last flight before the aircraft was handed over to the maintenance organization, shall:
+Hand over both the Aircraft Journey Log + Aircraft Keys to the maintenance organization and;
+Attach the red Maintenance Alert Placard to the yoke/stick indicating: “MAINTENANCE ACTIONS PERFORMED - CHECK RELEASE BEFORE FLIGHT.”
+
+
+
+
+The maintenance organization will be informed not to remove the Maintenance Alert Placard. We refer te OM Annex 09 - Maintenance Alert Placard.
+
+Aircraft Journey Logs
+Logbook
+In accordance with NCO.GEN.150, each journey shall be retained for each flight, or series of flights, in the form of a journey log, or equivalent.
+The aircraft journey log, or equivalent, should include the following items, where applicable:
+aircraft nationality and registration;
+date;
+name of crew member(s);
+duty assignments of crew members, if applicable;
+place of departure;
+place of arrival;
+time of departure;
+time of arrival;
+hours of flight;
+nature of flight;
+incidents and observations (if any); and
+signature of the pilot-in-command.
+The Journey logs (Logbooks) provided by the country of registration of the relevant aircraft, fulfill the requirements of the above shall be used within EuroPilot Center.
+The aircraft journey log must be filled out by the flight instructor (or the student in case of solo flights).
+Electronic Dispatch/Check-In System
+The online scheduling system provides an electronic backup for the paper logbooks as mentioned under 2.5.1 and is used to record, distribute and communicate important flight data to the EuroPilot Center administration, including:
+Flight- and instruction times;
+Maintenance follow-up;
+Trouble report items (squawks);
+Fuel consumption;
+Instructor and Student duty times;
+Special remarks (e.g. landing fee’s);
+The system is network based, available on every public computer at the EuroPilot Center premises.
+Before each training session, the instructor is responsible for “dispatching” the flight by verifying the Hobbs and/or Tacho times entered by the previous pilot and the expected fuel and oil on board.
+Immediately after each training session, the instructor is responsible for “checking the flight in”. He should enter the Hobbs and/or Tacho times, the remaining fuel and oil, the flight- and ground instruction times and trouble report items (if any). This task may be delegated to an Operations Officer, but the final responsibility remains with the instructor.
+Note: The system automatically corrects for entry errors. If an error has been entered despite the auto-verification, the person responsible should contact the Operations Officer immediately, explaining the issue in order to rectify the error manually.
+
+Technical Logs
+Aircraft defect reporting
+All aircraft defects must be reported immediately before, during or after the flight by the Pilot In Command in the applicable paper Aircraft Trouble Report and via the electronic check in process as explained under. 2.5.2.
+Any deferred aircraft defect should be reported by the responsible maintenance engineer in the applicable paper and electronic Aircraft Trouble Report. When an item has been repaired, it must be signed off by the maintenance engineer including a description of the action taken.
+It remains the responsibility of the Pilot In Command to check the paper and electronic Trouble Report before each flight in order to assess the airworthiness requirements for the intended day/night/VFR or IFR operation.
+We refer to OM Annex 10: Trouble Report C172SP-G1000
+We refer to OM Annex 11: Trouble Report Robinson R44 - Raven I/II We refer to OM Annex 30: Trouble Report Diamond DA42
+Procedure in case of aircraft defects
+When a defect is discovered by the Pilot In Command
+Step 1 - The Pilot In Command shall first contact the applicable maintenance subcontractor as listed under 2.4.
+Step 2 - The authorized maintenance engineer will decide whether or not the defect seriously affects the flight safety or if it can be deferred.
+If the item can be deferred, the following procedure will apply:
+Step 1 - The Pilot In Command makes the entries in the paper and electronic Aircraft Trouble Report:
+Date: the date when the item was discovered.
+Entry by: name of the Pilot In Command
+Issue Description: A clear description of the defect.
+Step 2 - The Authorized maintenance engineer makes the following entries in the paper and electronic Aircraft Trouble Report:
+Maintenance Action: “Deferred To + Time Limit” (E.g “Deferred to next 100h inspection”)
+Date + Signature: Name, signature & date.
+The inoperative item shall be properly placarded.
+Step 3 - Refer to 2.6.2.3, Dispatch of an aircraft with deferred items
+
+When a defect is discovered by a Maintenance Engineer
+When a defect has been discovered by an authorized maintenance engineer and it has been determined that the defect will not seriously affect flight safety, it can be deferred as follows:
+Step 1 - The Authorized Maintenance Engineer makes the following entries in the paper and electronic Aircraft Trouble Report:
+Date: the date when the item was discovered.
+Entry by: name of the Pilot In Command
+Issue Description: A clear description of the defect.
+Maintenance Action: “Deferred To + Time Limit” (E.g “Deferred to next 100h inspection”)
+Date + Signature: Name, signature & date.
+The inoperative item shall be properly placarded.
+Dispatch of an aircraft with deferred items
+The aircraft shall only be dispatched when:
+The required Trouble Report entries have been made and are signed off by the authorized maintenance engineer;
+The required inoperative items are placarded by the maintenance engineer if required;
+The equipment required under NCO.IDE.A (Chapter 6) for the intended type of operation under VFR DAY/NIGHT or IFR has been met and the flight can be performed safely under the given conditions;
+The equipment required in accordance with the Kind of operations Equipment List (KOEL) found in the approved Aircraft Flight Manual (AFM) for the intended type of operation under VFR DAY/ NIGHT or IFR has been met and the flight can be performed safely under the given conditions;
+The purpose of the intended flight training mission can be met; and
+The Pilot in Command can ensure that the safety of the flight will never be in doubt when operating in the given flight conditions.
+
+Aircraft Weighing Procedures
+In accordance with NCO.POL.105, the mass and the CG of the aircraft have been established by actual weighing prior to initial entry into service. This information can be found in the Weight Report (Aircraft Documents) or Fleet Masses Document.
+Note: We refer to OM Annex 40 – Fleet Masses.
+The accumulated effects of modifications and repairs on the mass and balance shall be accounted for and properly documented. Such information shall be made available to the pilot-in-command.
+The aircraft shall be reweighed if the effect of modifications on the mass and balance is not accurately known.
+Weighing shall be accomplished by the manufacturer of the aircraft or by the approved maintenance organization as mentioned under 2.4.
+
+EMERGENCY PROCEDURES
+A detailed description of the individual Emergency Procedures of each aircraft can be found in the following tables.
+
+Emergency Procedures - C172SP - G1000
+
+#
+Description
+Reference
+ENGINE RELATED FAILURES
+1
+Engine Failure during Take off Roll
+POH - Chapter 3-6 / 3-25
+2
+Engine Failure after Vr (Sufficient RWY Available)
+POH - Chapter 3-6 / 3-25
+3
+Engine Failure after Vr (Insufficient RWY Available)
+POH - Chapter 3-6 / 3-25
+4
+Engine Failure during flight (<1500 ft AGL)
+POH - Chapter 3-6 / 3-26
+5
+Engine Failure during flight (>1500 ft AGL)
+POH - Chapter 3-7 / 3-26
+6
+Emergency Landing without Engine Power
+POH - Chapter 3-8 / 3-27
+7
+Precautionary Landing with Engine Power
+POH - Chapter 3-8 / 3-27
+8
+Ditching
+POH - Chapter 3-9
+9
+Loss of Engine Power during Take Off/Climb
+POH - Chapter 3-6 / 3-33
+10
+Loss of Engine Power during Flight
+POH - Chapter 3-6 / 3-33
+11
+Excessive Fuel Vapor
+POH - Chapter 3-34
+12
+Spark Plug Fouling
+POH - Chapter 3-33
+13
+Magneto Malfunction
+POH - Chapter 3-33
+14
+Engine Driven Fuel Pump Failure
+POH - Chapter 3-34
+15
+Low Oil Pressure during flight
+POH - Chapter 3-35
+16
+Oil Pressure Indicator U/S
+KOEL / POH - Chapter 7-32
+17
+High Oil Temperature during flight
+POH - Chapter 3-35
+18
+Oil Temperature Indicator U/S
+KOEL / POH - Chapter 7-33
+19
+RPM Indicator U/S
+KOEL / POH - Chapter 3-31
+20
+CHT Indicator U/S
+KOEL / POH - Chapter 7-34
+21
+Engine Crankcase Oil Dipstick Missing
+KOEL / POH - Chapter 8-14
+FIRE AND SMOKE
+22
+Engine Fire during Start On Ground
+POH - Chapter 3-10 / 3-28
+23
+Engine Fire in Flight
+POH - Chapter 3-11 / 3-28
+24
+Electrical Fire in Flight
+POH - Chapter 3-11 / 3-28
+
+#
+Description
+Reference
+25
+Cabin Fire
+POH - Chapter 3-12 / 3-28
+26
+Wing Fire
+POH - Chapter 3-13 / 3-28
+ICING ENCOUNTER
+27
+Inadvertent Icing Encounter during Flight
+POH - Chapter 3-14 / 3-31
+28
+Static Source Blockage
+POH - Chapter 3-32
+29
+Alternate Static Air Source System U/S
+KOEL/POH - Chapter 5-11/7-65
+30
+Alternate Induction Air System U/S
+KOEL / POH - Chapter 7-36
+LANDING GEAR - TIRES AND BRAKES
+31
+Landing with Flat Main Tire
+POH - Chapter 3-16
+32
+Landing with Flat Nose Tire
+POH - Chapter 3-16
+33
+Flap Position Indicator U/S
+KOEL / POH - Chapter 7-22
+34
+Brake Failure during Taxi
+POH - Chapter 7-46
+35
+Brake Failure during Landing
+POH - Chapter 7-46
+36
+Nose Wheel Steering Failure during Taxi
+POH - Chapter 7-21
+37
+Wheel Fairing Damaged or Broken
+POH - Chapter 7-23 / KOEL
+ELECTRICAL EQUIPMENT
+38
+Alternator Failure on the Ground
+POH - Chapter 3-19 / 3-36
+39
+Alternator Failure in the Air
+POH - Chapter 3-19 / 3-36
+40
+Main Battery Failure
+POH - Chapter 3-36
+41
+Main Ammeter Failure
+POH - Chapter 3-36 / KOEL
+42
+Standby Battery Failure
+POH - Chapter 3-36 / KOEL
+43
+Standby Ammeter Failure
+POH - Chapter 3-36 / KOEL
+FLIGHT INSTRUMENTS - G1000
+44
+G1000 - Air Data Computer Failure (ADC)
+POH - Chapter 3-21
+45
+G1000 - Attitude Heading Reference Failure (AHRS)
+POH - Chapter 3-21 / 3-29
+46
+G1000 - Transponder Failure (XPDR)
+KOEL / POH - Chapter 7-70
+47
+G1000 - Engine and Airframe Unit Failure (EAU)
+KOEL / POH - Chapter 7-70
+48
+G1000 - Magnetometer Failure
+KOEL / POH - Chapter 7-69
+49
+G1000 - Primary Flight Display Failure (PFD)
+KOEL / POH - Chapter 7-68
+50
+G1000 - PFD/MFD Bezel Lighting U/S
+KOEL / POH - Chapter 7-60
+
+#
+Description
+Reference
+51
+G1000 - PFD/MFD Backlight U/S
+KOEL / POH - Chapter 7-60
+52
+G1000 - Multi Function Display Failure (MFD)
+KOEL / POH - Chapter 7-68
+53
+G1000 - Cooling Fan Failure (FWD/AFT/PFD/MFD)
+KOEL / POH - Chapter 7-73
+54
+Vacuum Pump Failure
+KOEL / POH - Chapter 7-65
+55
+Vacuum Indicator Failure
+KOEL / POH - Chapter 7-65
+56
+Clock U/S
+KOEL / POH - Chapter 7-67
+57
+Magnetic Compass U/S
+KOEL
+LIGHTING
+58
+Switch and CB Panel Lighting U/S
+KOEL / POH - Chapter 7-60
+59
+Standby Instrument Backlighting U/S
+KOEL / POH - Chapter 7-60
+60
+Cockpit Floodlighting U/S
+KOEL / POH - Chapter 7-60
+61
+Navigation Light(s) U/S
+KOEL / POH - Chapter 7-59
+62
+Strobe Light(s) U/S
+KOEL / POH - Chapter 7-59
+63
+Beacon Light U/S
+KOEL / POH - Chapter 7-59
+64
+Taxi Light U/S
+KOEL / POH - Chapter 7-59
+65
+Landing Light U/S
+KOEL / POH - Chapter 7-59
+FLIGHT CONTROLS - AUTOFLIGHT
+66
+Flapless Approach and Landing
+POH - Chapter 5-24
+67
+Landing without Elevator Control
+POH - Chapter 3-28
+68
+Elevator Trim Failure
+POH - Chapter 3-22
+69
+Elevator Trim Indicator U/S
+POH - Chapter 3-22
+70
+Autopilot Trim Runaway - Trim Failure
+POH - Chapter 3-22
+71
+Autopilot U/S
+KOEL / POH - Chapter 7-31
+FUEL SYSTEM
+72
+Low Fuel Warning
+POH - Chapter 7-40
+73
+Electric Fuel Pump Failure
+KOEL / POH - Chapter 7-43
+74
+Fuel Quantity Indicator U/S
+KOEL / POH - Chapter 7-39
+75
+Fuel Filler Cap not sufficiently tightened
+POH - Chapter 4-24
+76
+Fuel Leak
+POH - Chapter 4-24
+77
+Fuel Contamination
+POH - Chapter 8-20 / 7-46
+
+#
+Description
+Reference
+78
+Fuel Flow Indicator U/S
+KOEL / POH - Chapter 7-41
+VHF COMMUNICATION
+79
+Loss of VHF Communication in VMC/IMC
+KOEL / POH - Chapter 7-75
+MISCELLANEOUS ISSUES
+80
+Unusual Attitude: (Nose high attitude)
+POH - Chapter 3-31
+81
+Unusual Attitude: (Nose low attitude)
+POH - Chapter 3-31
+82
+Spin Avoidance Procedure
+POH - Chapter 4-40
+83
+Stall Warning System U/S
+KOEL / POH - Chapter 7-67
+84
+Windshield Damaged
+POH - Chapter 4-39
+85
+Spiral Dive Recovery Procedure
+POH - Chapter 3-31
+86
+Pilot Incapacitation (Illness during Flight)
+Not in POH
+87
+Turbulence Encounter
+POH - Chapter 3-5 / 4-41
+88
+Thunderstorm Avoidance
+POH - Chapter 3-5
+89
+Seatbelt and/or Shoulder Harness U/S
+KOEL / POH - Chapter 7-25
+90
+GPS Signal Loss
+Not in POH
+91
+NAV1/NAV2 Failure
+Not in POH
+92
+ADF Failure
+Not in POH
+
+Emergency Procedures - DA42
+
+#
+Description
+Reference
+ENGINE RELATED FAILURES
+1
+L/R Engine Temperature
+POH Page 3-6
+2
+L/R Low/High Engine Oil Temperature
+POH Page 3-6 and 4B-7
+3
+L/R Low/High Oil Pressure
+POH Page 3-9 and 4B-8
+4
+L/R Low/High Gearbox Temperature
+POH Page 3-10 and 4B-9
+5
+L/R Low/High Fuel Temperature
+POH Page 3-11 and 4B-9
+6
+L/R Alternator Amperes
+POH page 3-12
+7
+L/R Starter fault
+POH Page 3-13
+8
+Engine failure during take off
+POH Page 3-29
+9
+Engine failure in flight
+POH Page 3-32
+10
+Landing with one engine inoperative
+POH Page 3-35
+11
+Going around with one engine inoperative
+POH Page 3-38
+12
+L/R Low/High RPM
+POH Page 4B-5
+13
+L/R Low/Hight coolant temperature
+POH Page 4B-6
+14
+L/R Engine Control Unit A/B (ECU) failure
+POH Page 4B-12
+15
+L/R Low Coolant Level
+POH Page 4B-17
+FIRE AND SMOKE
+16
+L/R Engine Fire
+POH Page 3-12
+17
+Engine fire on the ground
+POH Page 3-50
+18
+Engine fire during take off
+POH Page 3-51
+19
+Engine fire in flight
+POH Page 3-51
+20
+Electrical fire on the ground
+POH Page 3-52
+21
+Electrical fire in flight
+POH Page 3-54
+ICING ENCOUNTER
+22
+Unintentional flight into icing
+POH Page 3-59
+23
+Pitot heater failure
+POH Page 4B-18
+24
+Stall heater failure
+POH Page 4B-19
+25
+Alternate Static Air Valve U/S
+KOEL
+LANDING GEAR - TIRES AND BRAKES
+
+#
+Description
+Reference
+26
+Landing gear unsafe
+POH Page 3-41
+27
+Manual Extension of the landing gear
+POH Page 3-43
+28
+Landing with landing gear up
+POH Page 3-45
+29
+Landing with flat main tire
+POH Page 3-46
+30
+Brake failure
+POH Page 3-47
+31
+Hydraulic System failure
+POH Page 4B-26
+ELECTRICAL EQUIPMENT
+32
+Complete electrical system failure
+POH Page 3-48
+33
+High Current
+POH Page 3-49
+34
+Starter Malfunction
+POH Page 3-49
+35
+Low/High Voltage
+POH Page 4B-10 and 4B-15
+36
+L/R Alternator Failure
+POH Page 4B-16
+37
+Ammeter U/S
+KOEL
+38
+Voltmeter U/S
+KOEL
+39
+Emergency battery (for backup attitude and flood light) U/S
+KOEL
+FLIGHT INSTRUMENTS - G1000
+40
+Red crosses on PFD or MFD
+POH Page 3-14
+41
+Position Error
+POH Page 3-14
+42
+Attitude Failure
+POH Page 3-14
+43
+Airspeed Failure
+POH Page 3-14
+44
+Altitude Failure
+POH Page 3-15
+45
+Vertical Speed Failure
+POH Page 3-14
+46
+Heading Failure
+POH Page 3-15
+47
+Navigation Information Failure
+POH Page 3-16
+48
+PFD or MFD Display Failure
+POH Page 3-16
+49
+AHRS Failure
+POH Page 3-17
+50
+ADC Failure
+POH Page 3-18
+51
+Erroneous or loss of engine and fuel displays
+POH Page 3-19
+52
+Erroneous or loss of caution/warning annunciators
+POH Page 3-20
+53
+RAIM Unavailable
+POH Page 4B-22
+
+#
+Description
+Reference
+54
+AHRS Alignment
+POH Page 4B-23
+55
+Standby Altimeter U/S
+KOEL
+56
+Standby Airspeed Indicator U/S
+KOEL
+57
+Standby Attitude Indicator U/S
+KOEL
+58
+VOR-LOG-GP Receiver U/S
+KOEL
+59
+Second GPS Receiver U/S
+KOEL
+LIGHTING
+60
+Position lights U/S
+KOEL
+61
+Strobe lights (anti-collission) U/S
+KOEL
+62
+Landing Light U/S
+KOEL
+63
+Instrument Lighting U/S
+KOEL
+64
+Flood Light U/S
+KOEL
+FLIGHT CONTROLS
+65
+Stick Limit
+POH Page 4B-21
+66
+Flap failure
+POH Page 4B-24
+67
+Electric Rudder perdal adjustment failure
+POH Page 4B-25
+68
+Variable Elevator Stop U/S
+KOEL
+FUEL SYSTEM
+69
+Fuel supply failure
+POH Page 3-60
+70
+L/R Low Fuel Warning
+POH Page 4B-14
+71
+L/R Auxiliary Fuel tank empty
+POH Page 4B-20
+72
+L/R Fuel transfer failure
+POH Page 4B-34
+73
+Fuel Indicating System U/S
+KOEL
+VHF COMMUNICATION
+74
+Loss of VHF Communication in VMC/IMC
+
+MISCELLANEOUS ISSUES
+75
+Unlocked door
+POH Page 3-13
+76
+Defective propeller RPM regulating system
+POH Page 3-57
+77
+Recovery from an unintentional spin
+POH Page 3-61
+78
+Emergency Descent
+POH Page 3-62
+
+#
+Description
+Reference
+79
+Carbon Monoxide contamination
+POH Page 3-54
+80
+Precautionary approach and landing
+POH Page 4B-3
+81
+Canopy in cooling gap position
+POH Page 4B-5
+82
+Lightning strike
+POH Page 4B-32
+83
+Overweight landing
+POH Page 4B-33
+84
+Stall Warning System U/S
+KOEL
+85
+Safety Belt U/S
+KOEL
+
+RADIO AND NAVIGATION AIDS
+
+Cessna C172SP - G1000
+Cockpit layout
+
+
+1. MASTER Switch (ALT and BAT)
+19. Mixture Control Knob
+2. STBY BATT Switch
+20. Handheld Microphone
+3. STBY BATT Test Annunciator
+21. Fuel Shutoff Valve
+4. AVIONICS Switch (BUS 1 and BUS 2)
+22. Fuel Selector Valve
+5. Primary Flight Display
+23. 12V/10A Power Outlet
+6. Standby Airspeed Indicator
+24. Aux Audio Input Jack
+7. Audio Control Panel
+25. Elevator Trim Control Wheel And Position Indicator
+8. Standby Attitude Indicator
+26. Throttle Control Knob (With Friction Lock)
+9. Standby Altimeter
+27. Go-Around Button
+10. Multifunction Display
+28. ALT Static Air Valve Control
+11. ELT Remote Switch/Annunciator
+29. Yoke Mounted Map Light
+12. Flight Hour Recorder
+30 Parking Brake Handle
+13. Bendix/King KR87 ADF (not installed)
+31. Circuit Breaker Panel
+14. Microphone Button
+32. Electrical Switch Panel
+15. Glove Box
+33. MAGNETOS/START Switch
+16. Cabin Heat Control
+34. DIMMING Panel
+17. Cabin Air Control
+
+18. Wing Flap Control And Position Indicator
+
+
+G1000 Equipment
+The Cessna C172SP is equipped with a Garmin G1000 Integrated Avionics System.
+The Garmin G1000 Avionics System is an integrated flight control and navigation system. The system combines primary flight instruments, communications, aircraft system information and navigational information all displayed on two color displays. The G1000 system consists of the following pieces of equipment:
+2 Garmin Display Units (GDU)
+1 Audio Panel (GMA)
+2 Integrated Avionics Units (GIA) (including GPS/VHF NAV and COM, ADF and DME)
+1 Attitude and Heading Reference System (AHRS)
+1 Magnetometer - Flux Valve (GRS)
+1 Air Data Computer (GDC)
+1 Engine Monitor, Engine and Airframe Unit (GEA)
+1 Mode-S Transponder (GTX)
+1 Automatic Flight Control System (GFC)
+Proper training to all flight instructors and students is provided with respect to the G1000 system. A Computer Based Self Study Course (CBT) will be provided, including a familiarization session on the G1000 trainer.
+Schematic Basic G1000 System
+
+
+Diamond DA42
+Cockpit layout
+The Diamond DA42 is equipped with the following standard avionics:
+
+
+1. Electric Master Switch
+17. Circuit breakers
+2. Avionics Master Switch
+18. Backup Airspeed Indicator
+3. Engine Master Switches
+19. Backup artificial horizon
+4. Start Switch
+20. Backup Altimeter
+5. Pitot-/Stall Warning Heat Switch
+21. Emergency Compass
+6. Alternator Switches
+22. ELT Control Unit
+7. ECU Test Buttons
+23. Primary Flight Display (PFD)
+8. ECU Swap Switches
+24. Audio Amplifier/Intercom/Marker Beacon receiver
+9. Rotary buttons for instrument lighting and flood light
+25. Multi Function Display (MFD)
+10. Light Switches
+26. De-ice control panel
+11. Emergency Switch
+27. Autopilot Control Unit
+12. Flap Selector Switch
+28. Alt Air Lever
+13. Landing Gear Switch
+29. Landing Gear emergency extension lever
+14. Alternate Static Valve
+30. Oxygen pressure knob
+15. Microphone Socket
+31. Oxygen Control knob
+16. Ventilation Nozzles
+
+
+MINIMUM EQUIPMENT LIST (MEL)
+EuroPilot Center does not apply operational procedures in accordance with 2T155 and NCO.IDE.A.105 to dispatch an aircraft with inoperative equipment through a Minimum Equipment List (MEL).
+Alternatively, in accordance with Commission Regulation (EC) No. 2042/2003, M.A.403, any defect that hazards seriously the flight safety shall be rectified before further flight. Only the authorized certifying staff (maintenance engineers) can decide, whether an aircraft defect hazards seriously the flight safety and therefore decide when and which rectification action shall be taken before further flight and which defect rectification can be deferred.
+Any aircraft defect that would not hazard seriously the flight safety shall be rectified as soon as practicable, after the date the aircraft defect was first identified and within any limits specified in the maintenance data.
+Any defect not rectified before flight shall be recorded in the aircraft maintenance record system and all deferred defects should be made known to the pilot/flight crew via the paper and electronic trouble report as described under Paragraph 2.6.
+Deferred defects should be transferred by maintenance on to worksheets at the next appropriate maintenance check, and any deferred defect which is not rectified during the maintenance check, should be re- entered on to a new deferred defect record sheet.
+The original date of the defect should be retained. The necessary components or parts needed for the rectification of defects should be made available or ordered on a priority basis, and fitted at the earliest opportunity.
+Note: As EuroPilot Center has no MEL procedure in place, the decision to defer an aircraft defect cannot be taken by the Pilot In Command, but must be taken by an authorized maintenance engineer. The decision to dispatch the aircraft after an item has been deferred lies with the Pilot In Command.
+
+INSTRUMENTS, DATA AND EQUIPMENT
+
+Airplanes
+In accordance with NCO.IDE.A.100, the following Instruments and equipment, when required for the intended flight operations, shall be approved in accordance with the applicable airworthiness requirements if they are:
+Used by the flight crew to control the flight path;
+Used to comply with NCO.IDE.A.190 (Radio Communication Equipment requirements);
+Used to comply with NCO.IDE.A.195 (Navigation Equipment requirements);
+Installed in the airplane.
+The following items, when required for the intended flight operations, do not need an equipment approval:
+Spare fuses;
+Independent portable lights;
+An accurate time piece;
+First-aid kit;
+Survival and signaling equipment;
+Sea anchor and equipment for mooring; and
+Child restraint device.
+Instruments and equipment not required for the intended flight operations as well as any other equipment that is not required by other applicable Annexes, but is carried on a flight, shall comply with the following:
+The information provided by these instruments or equipment shall not be used by the flight crew to comply with any operational communication and/or navigational requirement; and
+The instruments and equipment shall not affect the airworthiness of the airplane, even in the case of failures or malfunction.
+Note: An example of this last category could be an Electronic Flight Bag (EFB).
+Instruments and equipment shall be readily operable or accessible from the station where the flight crew member that needs to use it is seated.
+All required emergency equipment shall be easily accessible for immediate use.
+Spare Electrical Fuses
+In accordance with NCO.IDE.A.110, a spare electrical fuse means a replaceable fuse in the flight crew compartment, not an automatic circuit breaker or circuit breakers in the electric compartments.
+When replaceable fuses are used in the aircraft: airplanes shall be equipped with spare electrical fuses, of the ratings required for complete circuit protection, for replacement of those fuses that are allowed to be replaced in flight.
+
+Operating Lights
+In accordance with NCO.IDE.A.115, airplanes operated at night shall be equipped with:
+An anti-collision light system;
+Navigation/position lights;
+A landing light;
+Lighting supplied from the airplane’s electrical system to provide adequate illumination for all instruments and equipment essential to the safe operation of the airplane;
+Lighting supplied from the airplane’s electrical system to provide illumination in all passenger compartments;
+An independent portable light for each crew member station.
+Equipment for operations under VFR/DAY
+In accordance with NCO.IDE.A.120, airplanes operated under VFR by day shall be equipped with:
+Magnetic heading;
+Time, in hours, minutes and seconds;
+Pressure altitude;
+Indicated airspeed.
+Equipment for operations under VFR/NIGHT
+In accordance with NCO.IDE.A.120, airplanes operated under VFR by night, shall be in addition to
+6.1.3 equipped with a means of measuring and displaying:
+Turn and slip;
+Attitude;
+Vertical speed; and
+Stabilized heading;
+And a means of indicating when the supply of power to the gyroscopic instruments is not adequate.
+Note: EuroPilot Center does not allow any training operation in IMC without being under IFR (therefor the requirement of having an operative pitot heater is not applicable for VFR DAY & NIGHT.
+Note: For VFR night flights that do not exceed 60 minutes duration, that take off and land at the same aerodrome, and that remain within 50 NM of that aerodrome, an equivalent means of complying with having a Turn and slip AND an Attitude Indicator are either:
+A turn and slip indicator only; or
+A turn co-ordinator only; or
+Both an Attitude Indicator and a Slip Indicator.
+
+Equipment for operations under IFR
+In accordance with NCO.IDE.A.125, airplanes operated under IFR shall be equipped with: A means of measuring and displaying the following:
+Magnetic heading;
+Time in hours, minutes and seconds;
+Pressure altitude;
+Indicated airspeed;
+Vertical speed;
+Turn and slip;
+Attitude;
+Stabilized heading;
+Outside air temperature;
+A means of indicating when the supply of power to the gyroscopic instruments is not adequate; and a means of preventing malfunction of the airspeed indicating system due to condensation or icing.
+Note: A means of measuring and displaying the time in hours, minutes and seconds may be a wrist watch capable of the same functions.
+Note: Individual equipment requirements may be met by combinations of instruments, by integrated flight systems or by a combination of parameters on electronic displays. The information so available to each required pilot should not be less than that required in the applicable operational requirements, and the equivalent safety of the installation should be approved during type certification of the airplane for the intended type of operation.
+Note: The means of measuring and indicating turn and slip, airplane attitude and stabilized airplane heading may be met by combinations of instruments or by integrated flight director systems, provided that the safeguards against total failure, inherent in the three separate instruments, are retained.
+Terrain Awareness System TAWS
+In accordance with NCO.IDE.A.130, a Terrain Awareness System is not applicable for training operations within EuroPilot Center.
+Flight crew Inter phone (Intercom) system
+In accordance with NCO.IDE.A.135, during flight training operations with students, two flight crew members are required, consequently a flight crew inter phone (Intercom) system, including headsets and microphones for use by all flight crew members shall be installed and must be operational.
+Note1: The flight crew inter phone system should not be of a handheld type
+Note2: Headset boom microphones should be of the noise cancelling type.
+Note 3: If the intention is to utilize noise cancelling earphones, the pilot-in-command should ensure that the earphones do not attenuate any aural warnings or sounds necessary for alerting the flight crew on matters related to the safe operation of the airplane.
+
+Seats, seat safety belts, restraint systems and child restraint devices
+In accordance with NCO.IDE.A.140, airplanes shall be equipped with:
+A seat or berth for each person on board who is aged 24 months or more;
+A seat belt on each passenger seat and restraining belts for each berth;
+A child restraint device (CRD) for each person on board younger than 24 months; and
+A seat belt with upper torso restraint system on each flight crew seat, having a single point release for airplanes having a C of A first issued on or after 25 August 2016.
+Note: It is EuroPilot Center’s policy not to take any passengers at an age younger than 24 months unless with special authorization from the Head of Training.
+First-aid kit
+In accordance with NCO.IDE.A.145, all airplanes shall be equipped with a first-aid kit:
+Readily accessible for use; and
+Kept up-to-date;
+Located inside the airplane cabin and indicated by a recognizable sign (Sticker)
+The location shall be briefed to all occupants of the airplane before the flight.
+The contents of the First Aid Kits will be, supplemented, based on the Internal Risk Assessment covering the entire scope of EuroPilot Center’s Training Operation, as follows:
+Appropriate medication, limited to: Anti-diarrhea, Anti-nausea, an Antihistamine: Diphenhydramine, Hydrocortisone cream, Pain Relievers: Paracetamol/Ibuprofen;
+Bandages (assorted sizes, including a triangular bandage);
+Burns dressings (large and small);
+Wound dressings (large and small);
+Adhesive dressings (assorted sizes);
+Antiseptic wound cleaner;
+Safety scissors;
+Disposable gloves;
+Disposable resuscitation aid; and
+Surgical Masks.
+To be kept up-to-date, the first-aid kit should be:
+Inspected periodically to confirm that contents are maintained a proper condition;
+Replenished at regular intervals, in accordance with instructions contained on their labels, or as circumstances warrant; and
+Replenished after use in-flight at the first opportunity where replacement items are available.
+IMPORTANT: Nothing of the medication enlisted above shall be advised nor administered by any staff member of EuroPilot Center. It is the responsibility of EuroPilot staff members to “inform" occupants of the airplane about the “availability” of these medications. The responsibility and decision whether or not to take any of these medications, rests solely by the occupant preferably advised by a Licensed Medical Practitioner.
+
+Supplemental Oxygen
+In accordance with NCO.OP.190 The pilot-in-command shall ensure that all flight crew members engaged in performing duties essential to the safe operation of an aircraft in flight use supplemental oxygen continuously whenever he/she determines that at the altitude of the intended flight the lack of oxygen might result in impairment of the faculties of crew members, and shall ensure that supplemental oxygen is available to passengers when lack of oxygen might harmfully affect passengers.
+In any other case when the pilot-in-command cannot determine how the lack of oxygen might affect all occupants on board, he/she shall ensure that:
+All crew members engaged in performing duties essential to the safe operation of an aircraft in flight use supplemental oxygen for any period in excess of 30 minutes when the pressure altitude in the the passenger compartment will be between 10.000 ft and 13.000 ft; and
+All occupants use supplemental oxygen for any period that the pressure altitude in the the passenger compartment will be above 13.000 ft.
+Pressurized airplanes
+No pressurized airplanes are operated at EuroPilot Center, consequently NCO.IDE.A.150 is not applicable.
+Non-pressurized airplanes
+In accordance with NCO.IDE.A.155 Non-pressurized airplanes operated when an oxygen supply is required in accordance with 6.1.10 above, shall be equipped with oxygen storage and dispensing apparatus capable of storing and dispensing the required oxygen supplies.
+Hand fire extinguishers
+Airplanes shall be equipped with at least one hand fire extinguisher:
+In the flight crew compartment; and
+In each passenger compartment that is separate from the flight crew compartment, except if the compartment is readily accessible to the flight crew.
+The type and quantity of extinguishing agent for the required fire extinguishers shall be suitable for the type of fire likely to occur in the compartment where the extinguisher is intended to be used and to minimise the hazard of toxic gas concentration in compartments occupied by persons.
+Marking of break-in points
+NCO.IDE.A.165 is not applicable for any airplane at EuroPilot Center.
+
+Emergency Locator Transmitters
+In accordance with NCO.IDE.A.170, Airplanes shall be equipped with:
+An ELT of any type, when first issued with an individual C of A on or before 1 July 2008;
+An automatic ELT, when first issued with an individual C of A after 1 July 2008; or
+A survival ELT (ELT(S)) or a personal locator beacon (PLB), carried by a crew member or a passenger, when certified for a maximum passenger seating configuration of six or less.
+Note: ELTs of any type and PLB’s shall be capable of transmitting simultaneously on 121,5 MHz and 406 MHz.
+Note: All batteries used in ELTs or PLBs should be replaced (or recharged, if the battery is rechargeable) when the equipment has been in use for more than 1 cumulative hour or in the following cases:
+With EASA form 1, replaced/recharged before the end of their useful life in accordance with the maintenance instructions;
+With no EASA form 1, replaced/recharged when 50 % of their useful life (or for rechargeable, 50 % of their useful life of charge) has expired;
+In PLB’s, replaced/recharged when 50 % of their useful life (or for rechargeable, 50 % of their useful life of charge) has expired;
+Not applicable to batteries unaffected during probable storage intervals.
+Note: The new expiry date for a replaced (or recharged) battery should be legibly marked on the outside of the equipment.
+Flight over water
+In accordance with NCO.IDE.A.175, the airplane shall be equipped with a life-jacket for each person on board (or equivalent individual floatation device) for each person on board younger than 24 months, that shall be worn or stowed in a position that is readily accessible from the seat or berth of the person for whose use it is provided:
+When operating the Cessna C172SP over water beyond gliding distance from land; or taking off or landing at an aerodrome or operating site where, in the opinion of the pilot-in-command, the take-off or approach path is so disposed over water that there would be a likelihood of a ditching;
+When operation the C172SP or DA42 at a distance away from land where an emergency landing is possible greater than that corresponding to 30 minutes at normal cruising speed or 50 NM, whichever is less.
+The pilot-in-command of an airplane operated at a distance away from land where an emergency landing is possible greater than that corresponding to 30 minutes at normal cruising speed or 50 NM, whichever is the lesser, shall determine the risks to survival of the occupants of the airplane in the event of a ditching, based on which he/she shall determine the carriage of:
+Equipment for making the distress signals;
+Life-rafts in sufficient numbers to carry all persons on board, stowed so as to facilitate their ready use in emergency; and
+Life-saving equipment, to provide the means of sustaining life, as appropriate to the flight to be undertaken.
+
+Survival equipment
+In accordance with NCO.IDE.A.180, when operating and airplane over areas in which search and rescue would be especially difficult, shall be equipped with such signaling devices and life-saving equipment, including means of sustaining life, as may be appropriate to the area overflown.
+Radio communication equipment
+In accordance with NCO.IDE.A.190, airplanes shall be equipped with radio communication equipment capable of conducting two-way communication with those aeronautical stations and on those frequencies to meet airspace requirements.
+Radio communication equipment shall provide for communication on the aeronautical emergency frequency 121,5 MHz.
+When more than one communication equipment unit is required, each shall be independent of the other or others to the extent that a failure in any one will not result in failure of any other.
+
+Navigation equipment
+In accordance with NCO.IDE.A.195, when the airplane is intended to be operated over routes that cannot be navigated by reference to visual landmarks, it shall be equipped with any navigation equipment necessary (ADF, VOR, GNSS) to enable it to proceed in accordance with:
+The ATS flight plan; if applicable; and
+The applicable airspace requirements.
+The airplanes shall have sufficient navigation equipment to ensure that, in the event of the failure of one item of equipment at any stage of the flight, the remaining equipment shall allow safe navigation, or an appropriate contingency action, to be completed safely.
+When the airplanes is intended to land in IMC, it shall be equipped with suitable equipment capable of providing guidance to a point from which a visual landing can be performed (ADF, VOR, ILS, GNSS). This equipment shall be capable of providing such guidance for each aerodrome at which it is intended to land in IMC and for any designated alternate aerodromes.
+For Performance Based Navigation (PBN) operations, the airplane shall meet the airworthiness certification requirements for the appropriate navigation specification.
+In accordance with NCO.OP.116, the Garmin G1000 POH supplement for the relevant Airplane states the required PBN navigation specification for use when PBN is required for the route or procedure to be flown. The aircraft is operated in conformance with the relevant navigation specification and limitations.
+Transponder
+In accordance with NCO.IDE.A.200, the airplane shall be equipped with a secondary surveillance radar (SSR) transponder with all the required capabilities, where required by the airspace being flown.

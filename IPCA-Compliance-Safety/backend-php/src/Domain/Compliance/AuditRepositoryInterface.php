@@ -13,4 +13,6 @@ interface AuditRepositoryInterface
     public function findAll(): array;
 
     public function findById(string $id): ?Audit;
+	
+	public function updateById(string $id, array $fields): void;
 }

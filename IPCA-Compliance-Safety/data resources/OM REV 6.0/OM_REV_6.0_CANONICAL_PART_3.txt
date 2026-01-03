@@ -1,0 +1,1100 @@
+OPERATIONS MANUAL (OM) – REVISION 6.0
+
+PART 3 – ROUTE
+
+0. OUTLINE
+
+1. PERFORMANCE
+1.1 Take Off
+1.2 Enroute / Cruise
+1.3 Landing
+
+2. FLIGHT PLANNING
+2.1 General
+2.2 The Preflight Preparation Checklist
+2.3 Planning Minima for VFR Training Flights
+2.4 Planning Minima for IFR Training Flights
+2.5 Weather and NOTAMS
+2.6 Passenger Briefing
+2.7 Fuel Calculations
+2.8 Minimum Safe Altitudes
+
+3. LOADING
+3.1 Mass and Balance
+3.2 Electronic Mass & Balance
+
+4. WEATHER MINIMA
+4.1 VFR Training Flights (Dual)
+4.2 IFR Training Flights (Dual)
+4.3 VFR Training Flights (Solo)
+4.4 Wind Limitations
+
+5. TRAINING AREA
+5.1 Training Aerodromes (including hazards)
+5.3 Training Area
+
+
+
+
+
+1. PERFORMANCE
+
+In accordance with NCO.POL.110, the PIC shall only operate the aircraft if the performance is adequate to comply with the applicable rules of the air and any other restrictions applicable to the flight, the airspace or the aerodromes or operating sites used, taking into account the charting accuracy of any charts and maps used.
+All the required and complementary performance information applicable to the individual aircraft is provided in the individual POH, Chapter 5.
+
+1.1 Take Off
+
+1.1.1 Take Off performance C172SP
+Since the only Take Off requirement for a Single Engine Airplane is the Field Length, the Pilot In Command must ensure that:
+When no stopway or clearway is available, the calculated Take Off distance when multiplied by
+1.25 must not exceed the Take Off Run Available (TORA) or;
+When a stopway and/or clearway is available, the calculated Take Off distance must:
+not exceed Take Off Run Available (TORA)
+when multiplied by 1,3 not exceed Accelerate Stop Distance Available (ASDA)
+when multiplied by 1.15, not exceed Take Off Distance Available (TODA)
+Note: Performance characteristics are provided for tailwind Take Offs with maximum 10 Kts. However, it is EuroPilot Center policy not to take off with tailwind.
+The Take Off distance for the C172SP can be determined via the tables in the POH, keeping in mind that distances shown are based on the short field technique. Conservative distances can be established by reading the chart at the next higher value of weight, altitude and temperature. The above mentioned safety margins need to be added.
+
+TOM
+1.156 Kg
+Chapter 5, Page 15 - Fig 5-5 (Sheet 1)
+TOM
+1.089 Kg
+Chapter 5, Page 16 - Fig 5-5 (Sheet 2)
+TOM
+1.000 Kg
+Chapter 5, Page 17 - Fig 5-5 (Sheet 3)
+
+1.1.2 Take Off performance DA42
+When no stopway or clearway is available, the calculated Take Off distance when multiplied by
+1.25 must not exceed the Take Off Run Available (TORA) or;
+When a stopway and/or clearway is available, the calculated Take Off distance must:
+not exceed Take Off Run Available (TORA)
+when multiplied by 1,3 not exceed Accelerate Stop Distance Available (ASDA)
+when multiplied by 1.15, not exceed Take Off Distance Available (TODA)
+Note: It is EuroPilot Center policy not to take off with tailwind.
+The Take Off distance for the DA42 can be determined via the tables in the POH. Conservative distances can be established by reading the chart at the next higher value of weight, altitude and temperature. The above mentioned safety margins need to be added.
+We refer to the DA42 POH, Section 5 - Performance.
+
+In addition to the field length requirements, a Multi Engine Airplane should also consider the obstacle clearance requirements:
+
+The pilot in command must ensure that take-off flight path should clear all obstacles by a vertical margin of at least 50 ft, or by a horizontal distance of at least 90 m plus 0,125 x D, where D is the horizontal distance travelled by the Airplane from the end of the take-off distance available or the end of the take-off distance if a turn is scheduled before the end of the take-off distance available except as provided in (b) and (c) below.
+For Airplanes with a wingspan of less than 60 m such as rhe DA42, a horizontal obstacle clearance of half the Airplane wingspan (6,71 meter) plus 60 m, plus 0,125 x D may be used.
+When showing compliance with this subparagraph it must be assumed that:
+The take-off flight path begins at a height of 50 ft above the surface at the end of the take-off distance required and ends at a height of 1 500 ft above the surface;
+The Airplane is not banked before the Airplane has reached a height of 50 ft above the surface, and that thereafter the angle of bank does not exceed 15°;
+Failure of the critical engine occurs at the point on the all engine take-off flight path where visual reference for the purpose of avoiding obstacles is expected to be lost;
+The gradient of the take-off flight path from 50 ft to the assumed engine failure height is equal to the average all- engine gradient during climb and transition to the en-route configuration, multiplied by a factor of 0,77; and
+The gradient of the take-off flight path from the height reached in accordance with subparagraph 4 above to the end of the take-off flight path is equal to the one engine inoperative en-route climb gradient shown in the Airplane Flight Manual.
+When showing compliance with subparagraph (a) above for those cases where the intended flight path does not require track changes of more than 15°, the Pilot in command need not consider those obstacles which have a lateral distance greater than:
+300 m, if the flight is conducted under conditions allowing visual course guidance navigation, or if navigational aids are available enabling the pilot to maintain the intended flight path with the same accuracy; or
+600 m, for flights under all other conditions.
+
+When showing compliance with subparagraph (a) above for those cases where the intended flight path requires track changes of more than 15°, the pilot in command need not consider those obstacles which have a lateral distance greater than:
+600 m for flights under conditions allowing visual course guidance navigation;
+900 m for flights under all other conditions.
+When showing compliance with subparagraphs (a), (b) and (c) above, the pilot in command must take account of the following:
+The mass of the Airplane at the commencement of the take-off run;
+The pressure altitude at the aerodrome;
+The ambient temperature at the aerodrome; and
+Not more than 50 % of the reported head-wind component or not less than 150 % of the reported tail-wind component.
+
+
+1.2 Enroute / Cruise
+
+1.2.1 Cruise performance C172SP
+The aircraft may not be assumed to be flying above the altitude at which a rate of climb of 300 ft/min is attained.
+The net gradient of descent, in the event of engine failure, shall be the gross gradient of descent increased by a gradient of 0.5%
+The maximum altitude at which a rate of climb of 300 ft/min is attained (Service Ceiling) is: 14.000 ft.
+Net gradient of descent can be determined under:
+Chapter 3, Page 26 - Fig 3-1 (Corresponds to: 10,97% or 6,26 degrees in zero wind conditions).
+Cruise Performance Tables can be found under:
+Chapter 5, Page 20 - Fig 5-8 (Sheet 1)
+Chapter 5, Page 21 - Fig 5-8 (Sheet 2) Cruise Range Profiles can be found under:
+Chapter 5, Page 22 - Fig 5-9
+Cruise Endurance Profiles can be found under:
+Chapter 5, Page 23 - Fig 5-10
+
+1.2.2 Cruise performance DA42
+The aircraft may not be assumed to be flying above the altitude at which a rate of climb of 300 ft/min is attained.
+The assumed en-route gradient with one engine inoperative shall be the gross gradient of descent or climb, as appropriate, respectively increased by a gradient of 0,5%, or decreased by a gradient of 0,5%.
+We refer to the DA42 POH, Section 5 - Performance.
+
+1.3 Landing
+
+1.3.1 Landing performance C172SP
+Since the only Landing requirement for a Single Engine aircraft is the Field Length, the Pilot In Command must ensure that:
+
+The landing distance, from a screen height of 50 ft, must not exceed 70 % of the Landing Distance Available (LDA), i.e. a factor of 1,43.
+If the landing surface is grass up to 20 cm long on firm soil, the landing distance should be multiplied by a factor of 1,15.
+If the METAR or TAF or combination of both indicate that the runway may be wet at the estimated time of arrival, the landing distance should be multiplied by a factor of 1,15.
+The landing distance should be increased by 5% for each 1% downslope. No allowance is permitted for upslope.
+
+The Landing Distance for the C172SP can be determined via the tables in the POH, keeping in mind that distances shown are based on the short field landing technique. The above mentioned safety margins need to be added.
+
+LM 1.156 Kg Chapter 5, Page 24 - Fig 5-11
+
+Note: It is EuroPilot Center policy not to land with tailwind.
+
+
+
+1.3.2 Landing performance DA42
+The landing distance, from a screen height of 50 ft, must not exceed 70 % of the Landing Distance Available (LDA), i.e. a factor of 1,43.
+If the landing surface is grass up to 20 cm long on firm soil, the landing distance should be multiplied by a factor of 1,15.
+If the METAR or TAF or combination of both indicate that the runway may be wet at the estimated time of arrival, the landing distance should be multiplied by a factor of 1,15.
+The landing distance should be increased by 5% for each 1% downslope. No allowance is permitted for upslope.
+
+The Landing Distance for the DA42 can be determined via the tables in the POH. The above mentioned safety margins need to be added.
+We refer to the DA42 POH, Section 5 - Performance.
+
+Note: It is EuroPilot Center policy not to land with tailwind.
+
+
+
+1.3.3 Take-off and landing climb requirements (Multi Engine Airplanes)
+In addition to the field length requirements, a Multi Engine Airplane should also consider take off and landing climb requirements:
+
+Take-off climb
+
+All engines operating:
+The steady gradient of climb after take-off must be at least 4% with:
+• Take-off power on each engine;
+• The landing gear extended except that if the landing gear can be retracted in not more than 7 seconds, it may be assumed to be retracted;
+• The wing flaps in the take-off position(s); and
+• A climb speed not less than the greater of 1,1 VMC and 1,2 VS1.
+
+One engine inoperative:
+The steady gradient of climb at an altitude of 400 ft above the take-off surface must be measurably positive with:
+• The critical engine inoperative and its propeller in the minimum drag position;
+• The remaining engine at take-off power;
+• The landing gear retracted;
+• The wing flaps in the take-off position(s); and
+• A climb speed equal to that achieved at 50 ft.
+
+The steady gradient of climb must be not less than 0,75 % at an altitude of 1 500 ft above the take-off surface with:
+• The critical engine inoperative and its propeller in the minimum drag position;
+• The remaining engine at not more than maximum continuous power;
+• The landing gear retracted;
+• The wing flaps retracted; and
+• A climb speed not less than 1,2 VS1.
+
+We refer to the DA42 POH, Section 5 - Performance, chapter 5.3.7.
+
+Landing climb
+
+All engines operating:
+The steady gradient of climb must be at least 2,5 % with:
+• Not more than the power or thrust that is available eight seconds after initiation of movement of the power controls from the minimum flight idle position;
+• The landing gear extended;
+• The wing flaps in the landing position; and
+• A climb speed equal to VREF.
+
+One engine inoperative:
+The steady gradient of climb must be not less than 0,75 % at an altitude of 1 500 ft above the landing surface with:
+• The critical engine inoperative and its propeller in the minimum drag position;
+• The remaining engine at not more than maximum continuous power;
+• The landing gear retracted;
+• The wing flaps retracted; and
+• A climb speed not less than 1,2 VS1.
+
+We refer to the DA42 POH, Section 5 - Performance, chapter 5.3.12.
+
+2. FLIGHT PLANNING
+
+2.1 General
+
+In accordance with NCO.OP.135 (a), before commencing a flight, the PIC shall ascertain by every reasonable means available that the space-based facilities (GNSS), ground and/or water facilities, including communication facilities and navigation aids available and directly required on such flight, for the safe operation of the aircraft, are adequate for the type of operation under which the flight is to be conducted.
+
+In accordance with NCO.OP.135 (b), before commencing a flight, the PIC shall be familiar with all available meteorological information appropriate to the intended flight.
+
+Preparation for a flight away from the vicinity of the place of departure, and for every flight under IFR, shall include at least:
+• A study of available current weather reports and forecasts; and
+• The planning of an alternative course of action to provide for the eventuality that the flight cannot be completed as planned, because of weather conditions.
+
+Further, in accordance with NCO.OP.175, before commencing take-off, the PIC shall be satisfied that:
+• According to the information available, the weather at the aerodrome or operating site and the condition of the runway or final approach and take-off areas (FATO’s) intended to be used would not prevent a safe take-off and departure; and
+• Applicable aerodrome operating minima will be complied with.
+
+In accordance with NCO.OP.205, before commencing an approach to land, the pilot-in-command shall be satisfied that:
+• According to the information available, the weather at the aerodrome or the operating site and the condition of the runway or final approach and take-off areas (FATO’s) intended to be used would not prevent a safe approach, landing or missed approach.
+
+As a reference, the below Preflight Preparation Checklist and paragraphs describe how to prepare a training flight.
+
+Students are required to be at the airport at least 30 minutes before the scheduled Off Block Time to prepare the flight. During the first two training sessions, the instructor will brief the student about the Preflight Preparation. From the third training mission on, the student is required to perform this tasks individually.
+
+Note: The student must be made aware of the fact that failure, late or inaccurate Preflight Preparation, may lead to the cancellation of the training flight.
+
+
+
+2.2 The Preflight Preparation Checklist
+
+Note: The checklist below has been included in the GarminPilot EFB Checklist.
+
+2.3 Planning Minima for VFR Training Flights
+
+In accordance with NCO.OP.160 (a) the PIC shall only commence or continue a VFR training flight if the latest available meteorological information indicates that the weather conditions:
+Along the route; and
+At the intended destination at the estimated time of use; will be at or above the applicable VFR operating minima.
+Note: The standard VMC minima under 4.1.1 will apply for all dual VFR training flights.
+
+
+
+2.4 Planning Minima for IFR Training Flights
+
+2.4.1 Meteorological Conditions
+In accordance with NCO.OP.160 (b) the PIC shall only commence or continue an IFR training flight towards the planned destination aerodrome if the latest available meteorological information indicates that at the estimated time of arrival, the weather conditions:
+At the destination are at or above the applicable aerodrome operating minima as described under 4.2; or
+At least one destination alternate aerodrome is at or above the applicable aerodrome operating minima described under 4.2.
+
+Note: If a flight contains VFR and IFR segments, the meteorological information referred to in 2.3 and 2.4 above and shall be applicable as far as relevant.
+
+2.4.2 Instrument Approach Operations
+In accordance with NCO.OP.142, the PIC shall ensure that sufficient means are available to navigate and land at the destination aerodrome or at any destination alternate aerodrome in the case of loss of capability for the intended approach and landing operation.
+
+2.4.3 Specification of Isolated Aerodromes
+In accordance with NCO.OP.105 for the selection of alternate aerodromes and the fuel policy, the PIC shall consider an aerodrome as an isolated aerodrome if the flying time to the nearest adequate destination alternate aerodrome is more than 60 minutes for airplanes with reciprocating engines.
+
+2.4.4 Take Off Alternate
+The PIC shall only commence an IFR training flight if the latest available meteorological information indicates that at the estimated time of arrival, the weather conditions at the departure aerodrome are at or above the applicable aerodrome operating minima as described under 4.2.
+Note: An immediate return to the departure aerodrome should always be possible.
+
+2.4.5 Destination Alternate
+In accordance with NCO.OP.140 the PIC shall specify at least one weather-permissible destination alternate aerodrome for an IFR flight in the flight plan, unless:
+The available current meteorological information indicates that, for the period from 1 hour before until 1 hour after the estimated time of arrival, or from the actual time of departure to 1 hour after the estimated time of arrival, whichever is the shorter period, the approach and landing may be made under visual meteorological conditions (VMC); or
+The place of intended landing is isolated and an IAP is prescribed for the aerodrome of intended landing; and available current meteorological information indicates that the following meteorological conditions will exist from 2 hours before to 2 hours after the estimated time of arrival:
+A cloud base of at least 1.000 ft above the minimum associated with the IAP; and
+Visibility of at least 5,5 km or of 4 km more than the minimum associated with the procedure.
+
+2.5 Weather and NOTAMS
+
+Only approved sources for Preflight Preparation, such as the METEO office at the airport and/or official websites (Skeyes) and our GarminPilot EFB app may be used. Carrying a hardcopy of current Weather and NOTAMS is no longer required.
+
+IMPORTANT! Prior to each flight, the student is required to send a copy of the Weather and NOTAMS as a PDF file via e-mail to:
+Him/herself; and
+His/her Flight Instructor; and
+Flightdocs@europilotcenter.be
+
+The use of the above electronic sources is mandatory. However, in case the data is not available in an electronic format, a paper-copy of the Weather and NOTAMS must be carried on board.
+
+2.5.1 Preflight Information Briefings
+A Preflight Briefing must be derived, containing at least:
+
+Weather data (METAR/TAF/SIGMET) for the:
+Departure Aerodrome
+Departure Alternate (if required)
+En-route Alternates
+Destination
+Destination Alternate(s)
+
+Weather Charts:
+(Low Level) Significant Weather Chart
+Upper Wind and Temperature Chart for the applicable Flight Levels
+
+NOTAMS for the:
+Applicable Area(s)
+Departure Aerodrome
+Departure Alternate (if required)
+En-route Alternates
+Destination
+Destination Alternate(s)
+
+Note: Special attention is required to the availability of Navigation Aids and Approach aids.
+Note: Daily Warnings for flights within the FIR EBBU must be verified before each flight.
+Note: Temporary Flight Restrictions (TFR’s) for flights within the USA must be verified before each flight.
+
+
+
+2.6 Passenger Briefing
+
+In accordance with NCO.OP.130, the PIC shall ensure that before or, where appropriate, during the flight, passengers are given a briefing on emergency equipment and procedures.
+
+The applicable Aircraft Safety Briefing Card should be used (if available).
+
+2.7 Fuel Calculations
+
+2.7.1 Airplanes
+In accordance with NCO.OP.125, the PIC shall only commence a flight if the airplane carries sufficient fuel and oil for the following:
+
+VFR Flights (NCO.OP.125 (a)(1))
+
+By day, taking-off and landing at the same aerodrome/landing site and always remaining in sight of that aerodrome/landing site:
+to fly the intended route and thereafter for at least 10 minutes at normal cruising altitude;
+
+By day:
+to fly to the aerodrome of intended landing and thereafter to fly for at least 30 minutes at normal cruising altitude; or
+
+By night:
+to fly to the aerodrome of intended landing and thereafter to fly for at least 45 minutes at normal cruising altitude;
+
+Note: It is EuroPilot Center’s Policy for all VFR flights to have at least 45 minutes final reserve on board.
+
+
+
+IFR Flights (NCO.OP.125 (a)(2))
+
+When no destination alternate is required:
+to fly to the aerodrome of intended landing and thereafter to fly for at least 45 minutes at normal cruising altitude; or
+
+When a destination alternate is required:
+to fly to the aerodrome of intended landing, to an alternate aerodrome and thereafter to fly for at least 45 minutes at normal cruising altitude.
+
+
+
+Sample Fuel Calculation C172SP & Minimum Oil Requirements
+FUEL
+
+AMT USG | POH REFERENCE
+START-UP/TAXI: | 1.4 USG | POH Chapter 5 - Page 19
+Fuel for Climb from SL to 2.000 ft - ISA | 0,8 USG | POH Chapter 5 - Page 19
+Fuel For 1 hour cruise @ 2.000 ft - ISA - 57% PWR | 8,1 USG | POH Chapter 5 - Page 20 - 21
+
+TRIP FUEL: | 8.9 USG
+
+Alternate Fuel (IFR Destination Alternate): | 6,0 USG
+
+Final Reserve (45’): | 6,1 USG
+
+Contingency (5%/TRIP): | 0,5 USG
+
+MIN REQUIRED: | 22,9 USG
+
+Actual Fuel On Board: | 30,0 USG
+
+EXTRA FUEL: | 7,1 USG
+
+TAKE OFF IS NOT ALLOWED WHEN A LOW FUEL L/R WARNING IS PRESENT.
+(meaning less than 5 USG in any tank detected)
+
+Note: Training Flights in VMC are not allowed with less than 15 USG on board.
+Note: Training Flights in IMC are not allowed with less than 25 USG on board.
+Note: Fuel consumption values in the POH performance tables assume Recommended Lean Mixture.
+
+MIN OIL REQUIREMENTS C172SP
+The engine should not be operated on less than five quarts of oil. For extended flight, fill to eight quarts (dipstick indication only).
+
+
+
+Sample Fuel Calculation DA42 & Minimum Oil Requirements
+FUEL
+
+AMT USG | POH REFERENCE
+START-UP/TAXI: | 2,0 USG | N/A
+Fuel for Climb from SL to 2.000 ft - ISA | 1,2 USG | N/A
+Fuel For 1 hour cruise @ 2.000 ft - ISA - 60% PWR | 8,8 USG | POH Chapter 5 - Ch 5.3.2
+
+TRIP FUEL: | 10 USG
+
+Alternate Fuel (IFR Destination Alternate): | 8,8 USG | POH Chapter 5 - Ch 5.3.2
+
+Final Reserve (45’): | 6,6 USG
+
+Contingency (5%/TRIP): | 0,4 USG
+
+MIN REQUIRED: | 27,8 USG
+
+Actual Fuel On Board: | 30,0 USG
+
+EXTRA FUEL: | 2,2 USG
+
+TAKE OFF IS NOT ALLOWED WHEN A LOW FUEL L/R WARNING IS PRESENT.
+(meaning less than 4 +/- 1 USG in any tank detected)
+
+Note: Training Flights in VMC are not allowed with less than 20 USG on board.
+Note: Training Flights in IMC are not allowed with less than 30 USG on board.
+
+MINIMUM OIL REQUIREMENTS DA42
+The engines should not be operated on less than 4.8 quarts of oil.
+Also the gearbox oil level should be checked prior to each flight as well as the Coolant liquid level.
+
+
+
+2.7.2 Helicopters
+Intentionally left blank.
+
+
+
+2.7.3 Calculations (NCO.OP.125 (b) and (c))
+The minimum fuel required must be computed before each flight, based on:
+Forecast meteorological conditions;
+Anticipated ATC routings and traffic delays;
+Any other condition that may delay the landing of the airplane or increase fuel and/or oil consumption.
+
+The performance data and guidelines in the POH of the applicable aircraft shall be used.
+
+In addition, the PIC must ensure that the actual amount of fuel on board is equal to or more than the determined minimum fuel required for the intended flight by means of a visual check (dripstick).
+
+Note: In no case shall an aircraft depart when a LOW FUEL WARNING annunciator is present.
+Note: In no case (except in case of emergency) shall an aircraft land with less than the final reserve fuel on board. If this situation occurs, the PIC shall declare a fuel emergency and land as soon as possible. An occurrence report must be filed and the Head of Training must be informed without delay.
+
+It is EuroPilot Center policy always to take the maximum amount of fuel possible before each flight considering the Mass and Balance limitations.
+
+Nothing shall preclude amendment of a flight plan in-flight, in order to re-plan the flight to another destination, provided that all requirements can be complied with from the point where the flight is re-planned.
+
+
+
+2.7.4 In-Flight Fuel Management (NCO.OP.185)
+The PIC shall check at regular intervals that the amount of usable fuel remaining in flight is not less than the fuel required to proceed to a weather-permissible aerodrome and the planned reserve fuel as required as mentioned above.
+
+Note: An in-flight fuel check, at least once every hour, shall be performed by comparing the actual fuel on board with the calculated fuel on the Operational Flight Plan.
+
+
+
+2.8 Minimum Safe Altitudes
+
+The PIC must ensure the aircraft is operated at all times at a safe altitude in accordance with the subparagraphs below:
+
+2.8.1 VFR Flights
+In accordance with SERA.5005f, except when necessary for take-off or landing, or except by permission from the CAA, a VFR flight shall not be flown:
+
+Over the congested areas of cities, towns or settlements, or over an open-air assembly of persons at a height less than 1.000 FT above the highest obstacle within a radius of 600 M from the aircraft;
+Elsewhere, at a height less than 500 FT AGL, or 500 FT above the highest obstacle within a radius of 150 M from the aircraft.
+
+In any case, the PIC shall fly at an Altitude or Flight Level which allows him to make a safe forced landing at any time.
+
+
+
+2.8.2 Aerobatic Flights
+In accordance with SERA.3130:
+
+No aircraft shall be flown acrobatically except under VMC and at a minimum height of 2.000 ft AGL. When acrobatic flights are conducted at or below 3.000 ft, the flight visibility shall be 5 km at the least.
+
+No aircraft shall be flown acrobatically over the congested areas of cities, towns or settlements, industrial buildings, the LNG Terminal of Zeebrugge, nuclear plants or over an open-air assembly of persons, in controlled airspace or in restricted areas.
+
+Acrobatic flights are prohibited in danger areas except when these areas are reserved solely for these acrobatic flights.
+
+
+
+2.8.3 IFR Flights
+In accordance with SERA.5015, except when necessary for take-off or landing, or except when authorized by the CAA, an IFR flight shall be flown:
+
+At a level that is at least 1.000 FT above the highest obstacle located within 8 KM of the estimated position of the aircraft.
+
+3. LOADING
+
+3.1 Mass and Balance
+In accordance with NCO.POL.100, during any phase of operation, the loading, the mass and the centre of gravity (CG) position of the aircraft shall comply with any limitation specified in the AFM, or equivalent document.
+Placards, listings, instrument markings, or combinations thereof, containing those operating limitations prescribed by the AFM for visual presentation, shall be displayed in the aircraft.
+A precise Mass and Balance calculation must be performed before each flight.
+Note: A hardcopy of the Mass and Balance Calculation on board is no longer required. A soft copy (e.g. PDF sent via e-mail or obtained via an app is acceptable).
+Note: Always use actual masses. For this purpose, a pare of scales is provided in the EuroPilot Center Briefing Room. If you are unable to determine the actual mass, use the standard masses as provided below:
+• MALE 104 Kg
+• FEMALE 86 Kg
+• CHILD 35 Kg
+
+3.1.1 Mass and Balance - C172SP
+Details about the Mass and Balance for the C172SP can be found in the POH, Chapter 6, Page 1 till 18.
+
+3.1.2 Mass and Balance - DA42
+Details about the Mass and Balance for the DA42 can be found in the POH, Chapter 6, Page 6-2 till 6-16.
+
+3.2 Electronic Mass & Balance
+For the purpose of calculating the Mass & Balance for the Cessna C172SP and DA42, an electronic Mass & Balance system is included in the Garmin Pilot EFB app:
+The following data should be entered into the system:
+• Registration: Enter the aircraft registration
+• Crew 1: Enter the actual mass of the student (Kg)
+• Crew 2: Enter the actual mass of the instructor (Kg)
+• Front Pax 1: Enter the actual mass of the front passenger (in case of one crew member) (Kg)
+• Rear Pax 2: Enter the actual mass of the left rear passenger (Kg)
+• Rear Pax 3: Enter the actual mass of the right rear passenger (Kg) - If applicable.
+• Luggage in Compartments: Enter the actual mass of the luggage (Kg)
+• Block Fuel: Verify (Automatic).
+• Trip Fuel: Verify (Automatic).
+The system will calculate a detailed Mass & Balance which can be exported to a PDF file.
+IMPORTANT! Prior to each flight, the student is required to send a copy of the Mass & Balance PDF file via e-mail to:
+• Him/herself; and
+• His/her Flight Instructor; and
+• Flightdocs@europilotcenter.be
+The use of the above system is mandatory, however the Pilot In Command always remains responsible for crosschecking the calculated data.
+Whenever the above system is not available, the Pilot In Command must calculate the Mass & Balance manually by means of the Sample Loading Problem in the POH of the applicable aircraft.
+
+
+
+4. WEATHER MINIMA
+
+The following paragraphs are applicable for all training operations in Europe.
+For training operations at the US Training Satellite, we refer to OM Annex 41 – FAA Weather Minima.
+
+4.1 VFR Training Flights (Dual)
+4.1.1 Standard VMC Minima
+In accordance with SERA.5001 and SERA.5005a, except when operating as a special VFR flight, VFR flights shall be conducted so that the aircraft is flown in conditions of visibility and distance from clouds equal to or greater than those specified in the following table:
+(*) The VMC minima in Class A airspace are included for guidance to pilots and do not imply acceptance of VFR flights in Class A airspace.
+(**) Flight visibilities reduced to not less than 1.500m are permitted for flights operating:
+• At speeds of 140 KIAS or less to give adequate opportunity to observe other traffic or any obstacles in time to avoid collision; or
+• In circumstances in which the probability of encounters with other traffic would normally be low, e.g. in areas of low volume traffic and for aerial work at low levels.
+
+AIRSPACE CLASS A* B C D E F and G
+Above 900 m (3.000 ft ) AMSL or above 300 m (1.000 ft ) above terrain, whichever is the higher
+At and below 900 m (3.000 ft ) AMSL or 300 m (1.000 ft ) above terrain, whichever is higher
+DISTANCE FROM CLOUDS 1.500 m horizontally 300 m (1 000 ft ) vertically
+Clear of clouds and in sight of the surface
+FLIGHT VISIBILITY 8 km at and above FL 100 5 km below FL 100 5 km**
+
+4.1.2 VFR Flights at Aerodromes
+In accordance with SERA.5005b, except when a special VFR clearance is obtained from an ATC unit, VFR flights shall not take off or land at an aerodrome within a CTR, or enter the ATZ or aerodrome traffic circuit when the reported meteorological conditions at that aerodrome are below the following minima:
+• the ceiling is less than 1.500ft; or
+• the ground visibility is less than 5km.
+
+4.1.3 Special VFR Flights
+In accordance with SERA.5010, Special VFR flights may be authorized to operate within a CTR, subject to an ATC clearance.
+Except when permitted by the CAA for helicopters in special cases such as, but not limited to, police, medical flights, search and rescue operations and fire-fighting flights, the following additional conditions shall be applied:
+• Such special VFR flights may be conducted during day only, unless otherwise permitted by the CAA;
+• By the pilot:
+✓ Clear of clouds and with the surface in sight;
+✓ The flight visibility is not less than 1.500m (or for helicopters, not less than 800m;)
+✓ Fly at speed of 140 KIAS or less to give adequate opportunity to observe other traffic and any obstacles in time to avoid a collision; and
+• An ATC unit will not issue a special VFR clearance to aircraft to take off or land at and aerodrome within a CTR, or enter the ATZ zone or aerodrome traffic circuit, when the reported meteorological conditions at the aerodrome are below the following minima:
+✓ The ground visibility is less than 1.500m or, for helicopters, less than 800m
+✓ The ceiling is less than 600ft.
+
+4.1.4 VFR at night
+In accordance with SERA.5005c, VFR flights at night may be authorized under the following conditions:
+• If leaving the vicinity of an aerodrome, a flight plan shall be submitted;
+• Flights shall establish and maintain two way radio communication on the appropriate ATS communication channel, when available;
+• The VMC visibility and distance from cloud minima as specified in 4.1.1 above shall apply, except that:
+✓ The ceiling shall not be less than 1.500ft;
+✓ The reduced flight visibility provisions specified in remark (**) of 4.1.1 shall not apply;
+✓ In airspace classes B, C, D, E, F and G at and below 3.000 ft AMSL or 1.000ft AGL, whichever is the higher, the pilot shall maintain continuous sight of the surface;
+• Except when necessary for take-off or landing, or except when specifically authorized by the CAA, a VFR flight at night shall be flown at a level that is at least 1.000ft above the highest obstacle located within 8km of the estimated position of the aircraft.
+Note 1: In Belgium, VFR flights at night are authorized, except for gliders, DPM, ULM and RPA.
+Note 2: In Luxembourg, VFR flights at night may be operated in Luxembourg CTR, Luxembourg TMA (up to FL 95) or class G airspace (up to 2.000 ft AMSL) after approval of the CAA.
+
+4.2 IFR Training Flights (Dual)
+
+4.2.1 Aerodrome Operating Minima (NCO.OP.110)
+The PIC shall select and use Aerodrome Operating Minima for each:
+• Departure Aerodrome;
+• Destination Aerodrome;
+• Alternate Aerodrome;
+
+With the exception of the Take Off Minima, EuroPilot Center has implemented the calculated Aerodrome Operating Minima published by Jeppesen.
+
+Note: On Jeppesen Approach and Aerodrome charts an inverse printed “Standard” label in the upper left corner of the minimums band indicate they are derived according to the requirements described in EASA Air Operations documents. These minima exceed the state minima.
+
+The PIC shall however always take the following into account:
+• The type, performance and handling characteristics of the aircraft;
+• His/her competence and experience;
+• The dimensions and characteristics of the runways and final approach and take-off areas (FATO’s) that may be selected for use;
+• The adequacy and performance of the available visual and non-visual ground aids;
+• The equipment available on the aircraft for the purpose of navigation and/or control of the flight path, during the take-off, the approach, the flare, the landing, the rollout and the missed approach;
+• The obstacles in the approach, the missed approach and the climb-out areas necessary for the execution of contingency procedures;
+• The obstacle clearance altitude/height for the instrument approach procedures;
+• The means to determine and report meteorological conditions; and
+• The flight technique to be used during the final approach.
+
+The minima for a specific type of approach and landing procedure shall be used if:
+• The ground equipment required for the intended procedure is operative;
+• The aircraft systems required for the type of approach are operative;
+• The required aircraft performance criteria are met; and
+• The pilot is qualified appropriately.
+
+
+
+EUROPILOT CENTER – IFR TRAINING MINIMA
+TYPE | MINIMA | Ref.
+TAKE OFF RVR/VIS | 1.500 m | 4.2.4
+APPROACH RVR/VIS | JEPPESEN | Approach Plate
+VISUAL APPROACH | 800 m | 4.2.5.3
+
+
+
+4.2.2 Departure and Approach Procedures (NCO.OP.115)
+The PIC shall use the departure and approach procedures established by the State of the aerodrome, if such procedures have been published for the runway or final approach and take-off areas (FATO’s) to be used.
+
+The pilot-in-command may deviate from a published departure route, arrival route or approach procedure:
+• Provided obstacle clearance criteria can be observed, full account is taken of the operating conditions and any ATC clearance is adhered to; or
+• When being radar-vectored by an ATC unit.
+
+
+
+4.2.3 Low Visibility Procedures
+EuroPilot Center has no BCAA approval to conduct training operations when Low Visibility Operations are in force in accordance with Annex V (Part-SPA), Subpart E to Regulation (EU) No 965/2012.
+
+
+
+4.2.4 Take Off Minima
+EuroPilot Center applies the Take Off Minima procedures based on AMC1 NCO.OP.110.
+
+4.2.4.1 General
+Take off minima must be expressed as visibility or RVR limits, taking into account all relevant factors for each aerodrome planned to be used and the Aircraft characteristics. Where there is a specific need to see and avoid obstacles on departure and/or for a forced landing, additional conditions (e.g. ceiling) must be specified.
+
+The PIC shall not commence take off unless the weather conditions at the aerodrome of departure are equal to or better than applicable minima for landing at that aerodrome, unless a suitable take off alternate aerodrome is available.
+
+When the reported meteorological visibility is below the required take off minima and RVR is not reported, a take off may only be commenced if the PIC can determine that the RVR/visibility along the take off runway is equal to or better than the required minimum.
+
+When no reported meteorological visibility or RVR are available, a take off may only be commenced if the PIC can determine that the RVR/visibility along the take off runway is equal to or better than the required minimum.
+
+4.2.4.2 Visual reference
+The take off minima must be selected to ensure sufficient guidance to control the Aircraft in the event of a discontinued take off in adverse circumstances and a continued take-off after failure of the critical engine.
+
+For night operations, ground lights should be available to illuminate the runway/final approach and take-off area (FATO) and any obstacles.
+
+4.2.4.3 Required RVR/visibility
+For multi-engined airplanes, with performance such that in the event of a critical engine failure at any point during take-off the airplane can either stop or continue that take-off to a height of 1.500 ft above the aerodrome while clearing obstacles by the required margins, the take-off minimums specified by the operator should be expressed as RVR/VIS values not lower than those specified in Table 3, Take Off RVR/VIS.
+
+For multi-engined airplanes without the performance to comply with the conditions mentioned above in the event of a critical engine failure, there may be a need to re-land immediately and to see and avoid obstacles in the take-off area. Such airplanes may be operated to the following take-off minimums provided they are able to comply with the applicable obstacle clearance criteria, assuming engine failure at the height specified.
+
+The take-off minimums specified by the operator should be based upon the height from which the one-engine-inoperative (OEI) net take-off flight path can be constructed.
+
+The RVR minimums used should not be lower than either of the values specified in Table 3, Take Off RVR/VIS or Table 4, Assumed Engine Failure Height above the Runway versus RVR/VIS.
+
+
+
+TABLE 3. TAKE OFF RVR/VIS
+FACILITIES | RVR/VIS
+DAY ONLY – NIL | 500 m
+DAY – At least runway edge lights or centerline marking | 400 m
+NIGHT – at least runway edge lights and runway end lights or runway centerline lights and runway end lights | —
+
+
+
+TABLE 4. TAKE OFF – ASSUMED ENG. FAIL HEIGHT ABOVE THE RWY VS. RVR/VIS
+ASSUMED ENG. FAIL HEIGHT | RVR/VIS
+≤ 50 ft | 400 m (200 m with LVTO approval)
+51 ft – 100 ft | 400 m (300 m with LVTO approval)
+101 ft – 150 ft | 400 m
+151 ft – 200 ft | 500 m
+201 ft – 300 ft | 1.000 m
+More than 300 ft | 1.500 m
+
+Note: 1.500 m is also applicable if no positive take-off flight path can be constructed.
+
+As the C172SP is a single engine airplane, no positive take off path can be constructed after an engine failure, consequently the minimum take off RVR/VIS for all IFR training operations within EuroPilot Center will be 1.500 m.
+
+For the DA42, the assumed Engine Failure Height is considered more than 300 ft, consequently the minimum take off RVR/VIS for all IFR training operations will be 1.500 m.
+
+Note: The reported RVR/VIS value representative of the initial part of the take-off run can be replaced by pilot assessment.
+
+
+
+4.2.5 Approach Minima
+4.2.5.1 Aerodrome operating minima for NPA, APC, CAT I Operations (NCO.OP.111)
+The decision height (DH) to be used for a non-precision approach (NPA) flown with the continuous descent final approach (CDFA) technique, approach procedure with vertical guidance (APV) or category I (CAT I) operation shall not be lower than the highest of:
+• The minimum height to which the approach aid can be used without the required visual reference;
+• The obstacle clearance height (OCH) for the category of aircraft;
+• The published approach procedure DH where applicable;
+• The system minimum specified in Table 1 (System Minima NCO.OP.111); or
+• The minimum DH specified in the AFM or equivalent document, if stated.
+
+The minimum descent height (MDH) for an NPA operation flown without the CDFA technique shall not be lower than the highest of:
+• The OCH for the category of aircraft;
+• The system minimum specified in Table 1 (System Minima NCO.OP.111) below; or
+• The minimum MDH specified in the AFM, if stated.
+
+
+
+TABLE 1. SYSTEM MINIMA NCO.OP.111
+FACILITY | LOWEST DH/MDH (ft)
+Instrument landing system (ILS) | 200 ft
+GNSS / SBAS (LPV) | 200 ft
+GNSS (LNAV) | 250 ft
+GNSS / VNAV (LNAV/VNAV) | 250 ft
+Localiser (LOC) with or without DME | 250 ft
+Surveillance radar approach (SRA) (terminating at ½ NM) | 250 ft
+SRA (terminating at 1 NM) | 300 ft
+SRA (terminating at 2 NM or more) | 350 ft
+VOR | 300 ft
+
+
+
+TABLE 1. SYSTEM MINIMA NCO.OP.111 (continued)
+FACILITY | LOWEST DH/MDH (ft)
+VOR/DME | 250 ft
+Non-directional beacon (NDB) | 350 ft
+NDB/DME | 300 ft
+VHF direction finder (VDF) | 350 ft
+
+Note: The published Jeppesen Approach Minima will be used for all EuroPilot Center IFR Training Operations.
+
+
+
+4.2.5.2 Continuous Descent Final Approach Procedure (CDFA)
+The CDFA technique should ensure that an approach can be flown on the desired vertical path and track in a stabilized manner, without significant vertical path changes during the final approach segment descent to the runway.
+
+This technique applies to an approach with no vertical guidance and controls the descent path until the DA/H.
+
+This descent path can be either a:
+• Recommended descent rate, based on estimated ground speed;
+• Descent path depicted on the approach chart; or
+• Descent path coded in the flight management system in accordance with the approach chart descent path.
+
+Note: The published Jeppesen Charts used by EuroPilot Center will satisfy the requirement whereby the appropriate cross check altitudes/heights with the corresponding appropriate range information are shown. The Missed Approach Point (MAPt) is published on these chart.
+
+Note: The required descent path should be flown to the DA/H, observing any step-down crossing altitudes if applicable.
+
+Note: As this is a DA/H no add-on to the published Jeppesen Approach minimums is required.
+
+Note: Standard Minima Callouts should be performed when approaching the DA/H.
+
+Note: The missed approach should be initiated no later than reaching the MAPt or at the DA/H, whichever comes first. The lateral part of the missed approach should be flown via the MAPt unless otherwise stated on the approach chart.
+
+
+
+4.2.5.3 Visual Approach
+EuroPilot Center applies the Visual Approach Procedures based on AMC2 NCO.OP.110. The PIC shall not use an RVR of less than 800 m for a visual approach.
+
+
+
+4.2.5.4 Conversion reported visibility to RVR
+EuroPilot Center applies the Conversion of reported Visibility to RVR Procedure based on GM5 NCO.OP.110.
+
+A conversion from meteorological visibility to RVR/CMV should not be used:
+• When reported RVR is available;
+• For calculating take-off minimums; and
+• For any RVR minimums less than 800 m.
+
+If the RVR is reported as being above the maximum value assessed by the aerodrome operator, e.g. “RVR more than 1.500 m”, it should not be considered as a reported value for as “When reported visibility is available”.
+
+When converting meteorological visibility to RVR in circumstances other than those above, the conversion factors specified in the following table should be used:
+
+Lighting elements in operation | RVR = Reported Met. Visibility ×
+DAY | NIGHT
+Hi approach and RWY lights | 1.5 | 2
+Any type of lights other than above | 1 | 1.5
+No lighting | 1 | Not Applicable
+
+
+
+4.2.6 Noise Abatement Procedures (NCO.OP.120)
+The PIC shall take into account published noise abatement procedures to minimize the effect of aircraft noise while ensuring that safety has priority over noise abatement.
+
+
+
+4.2.7 Commencement and continuation of approach – Approach Ban (NCO.OP.210)
+The PIC may commence an instrument approach regardless of the reported runway visual range/visibility (RVR/VIS).
+
+If the reported RVR/VIS is less than the applicable minimum, the approach shall not be continued:
+• Below 1.000 ft above the aerodrome; or
+• Into the final approach segment in the case where the decision altitude/height (DA/H) or minimum descent altitude/height (MDA/H) is more than 1.000 ft above the aerodrome.
+
+Where the RVR is not available, RVR values may be derived by converting the reported visibility as described under 4.2.5.4.
+
+If, after passing 1.000 ft above the aerodrome, the reported RVR/VIS falls below the applicable minimum, the approach may be continued to DA/H or MDA/H.
+
+The approach may be continued below DA/H or MDA/H and the landing may be completed provided that the visual reference adequate for the type of approach operation and for the intended runway is established at the DA/H or MDA/H and is maintained.
+
+The touchdown zone RVR shall always be controlling.
+
+4.3 VFR Training Flights (Solo)
+
+The standard VMC minima apply for all VFR solo flights with the exception that the visibility must be at least 8 km.
+
+
+
+4.4 Wind Limitations
+
+Maximum Crosswind Component Cessna C172SP
+The maximum crosswind component shall not exceed the maximum demonstrated crosswind component (Gusts excluded) of the applicable aircraft.
+This is 15 Kts (Gust excluded) for the C172SP.
+
+For VFR solo flights, the maximum crosswind component (Gust included) shall not exceed 10 kts.
+
+Maximum Overall Wind Component Cessna C172SP
+The maximum overall wind shall not exceed 29 Kts (Gusts included).
+
+For VFR solo flights, the maximum overall wind (Gust included) shall not exceed 15 kts.
+
+Maximum Wind Diamond DA42
+The maximum crosswind component shall not exceed the maximum demonstrated crosswind component (Gusts excluded) of the applicable aircraft.
+This is 20 Kts (Gust excluded) for the DA42.
+
+Maximum Overall Wind Component Diamond DA42
+The maximum overall wind shall not exceed 29 Kts (Gusts included).
+
+
+
+5. TRAINING AREA
+
+The following locations will be used for Flight Training within EuroPilot Center.
+Standard noise abatement procedures apply at all times.
+We refer to the AIP Belgium/Luxembourg for airport-specific procedures.
+
+
+
+5.1 Training Aerodromes (including hazards)
+
+In accordance with NCO.OP.100, the pilot-in-command shall only use aerodromes and operating sites that are adequate for the type of aircraft and operation concerned.
+
+The applicable noise abatement procedures can be found in the relevant AIP document for training flights in Europe or the FAA Chart Supplement for training flights in the USA.
+
+Touch and Go / Circuit Training
+EBAW – Antwerpen (Stop and Go due to noise restrictions)
+Hazards:
+• Bird hazard (wood pigeons and herons)
+• Close presence of city
+• Take-off RWY 29 (limited space available to perform a forced landing)
+• Approach RWY 11 (mechanical turbulence during windy conditions)
+• Approach RWY 29 (windshear short final – fort)
+
+EBST – Sint-Truiden (Touch and Go)
+Hazards:
+• Bird hazard (buzzards)
+• Drones
+
+EBKH – Keiheuvel (Grass runway)
+Hazards:
+• Glider flying / winch up to 2.000 ft AAL
+
+EBHN – Hoevenen (Grass runway)
+Hazards:
+• High tension lines in the close vicinity
+• Paradrop activity
+
+KTRM – Thermal (Touch and Go)
+Hazards:
+• High volume of business jet traffic during wintertime
+• High ambient temperature during summertime
+
+KPSP – Palm Springs (Touch and Go)
+Hazards:
+• Terrain
+• High volume of business jet traffic during wintertime
+• High ambient temperature during summertime
+• Mechanical turbulence during high wind conditions
+
+KUDD – Bermuda Dunes (Touch and Go)
+Hazards:
+• High volume of business jet traffic during wintertime
+• High ambient temperature during summertime
+• Mechanical turbulence during high wind conditions
+
+L08 – Borrego Valley (Touch and Go)
+Hazards:
+• Terrain
+• High ambient temperature during summertime
+• Mechanical turbulence during high wind conditions
+
+KBWC – Brawley (Touch and Go)
+Hazards:
+• High ambient temperature during summertime
+• High volume of crop-dusting activity
+• Bird hazard (Canadian geese)
+
+
+
+Night Touch and Go / Circuit Training
+EBAW – Antwerpen (Stop and Go due to noise restrictions)
+
+EBOS – Oostende (Touch and Go)
+Hazards:
+• Frequent windy conditions (verify limitations)
+• Risk of sudden advection fog
+
+EBLG – Luik (Touch and Go)
+Hazards:
+• Nil
+
+KTRM – Thermal (Touch and Go)
+
+KPSP – Palm Springs (Touch and Go)
+
+KUDD – Bermuda Dunes (Touch and Go)
+
+L08 – Borrego Valley (Touch and Go)
+
+KBWC – Brawley (Touch and Go)
+
+
+
+SID / STAR / Precision / Non-Precision / Circling
+EBAW – Antwerpen
+EBOS – Oostende
+EBLG – Luik
+EBCI – Charleroi
+Hazards:
+• Airspace congestion
+• Close presence of city
+
+EBKT – Kortrijk
+Hazards:
+• Taxiway and apron condition (prop-strike risk)
+• No ATC (AFIS only)
+
+KTRM – Thermal
+KPSP – Palm Springs
+KUDD – Bermuda Dunes
+L08 – Borrego Valley
+KBWC – Brawley
+
+KTNP – Twentynine Palms
+Hazards:
+• Military helicopter activity
+• High ambient temperature during summertime
+• Frequent windy conditions (verify limitations)
+
+KBLH – Blythe
+Hazards:
+• Paradrop
+• High ambient temperature during summertime
+
+KHII – Lake Havasu
+Hazards:
+• Terrain
+• High ambient temperature during summertime
+• Frequent windy conditions (verify limitations)
+
+KEED – Needles
+Hazards:
+• Terrain
+• High ambient temperature during summertime
+• Frequent windy conditions (verify limitations)
+
+KIFP – Laughlin Bullhead
+Hazards:
+• Terrain
+• High ambient temperature during summertime
+• Frequent windy conditions (verify limitations)
+
+KHND – Las Vegas Henderson
+Hazards:
+• High volume of commercial traffic
+• High ambient temperature during summertime
+• Frequent windy conditions (verify limitations)
+• Terrain
+
+KNYL – Yuma
+
+KSDM – Brown
+Hazards:
+• Terrain
+• Paradrop
+
+KMYF – Montgomery Field
+Hazards:
+• Terrain
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+• High volume of traffic
+
+KSEE – El Cajon
+Hazards:
+• Terrain
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+• High volume of traffic
+
+KNKX – Ramona
+Hazards:
+• Terrain
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KCRQ – Carlsbad
+Hazards:
+• Terrain
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KOKB – Oceanside
+Hazards:
+• Paradrop
+• Terrain
+• Short runway
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KSNA – John Wayne
+Hazards:
+• Terrain
+• High volume of commercial traffic
+• Wake turbulence
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KLGB – Long Beach
+Hazards:
+• High volume of commercial traffic
+• Wake turbulence
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KTOA – Torrance
+Hazards:
+• High volume of helicopter traffic
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KVNY – Van Nuys
+Hazards:
+• High volume of business jet traffic
+• Risk of fog during May and June
+• Frequent windy conditions (verify limitations)
+
+KBUR – Burbank
+Hazards:
+• High volume of commercial traffic
+• Wake turbulence
+• Rising terrain
+
+KONT – Ontario
+Hazards:
+• High volume of commercial traffic
+• Wake turbulence
+
+KCNO – Chino
+KRAL – Riverside
+
+KAJO – Corona
+Hazards:
+• Terrain
+• Mechanical turbulence during high wind conditions
+
+KSBD – San Bernardino
+Hazards:
+• Terrain
+
+KAPV – Apple Valley
+Hazards:
+• High density altitude
+• Terrain
+• Drones
+• Mechanical turbulence during high wind conditions
+
+KVCV – Victorville
+Hazards:
+• High density altitude
+• Terrain
+• Drones
+• Mechanical turbulence during high wind conditions
+
+
+
+5.3 Training Area
+
+Basic Airwork (including Basic Instrument Flying)
+West of Antwerp and North-West of Brussels:
+Area A: 500 ft MSL till 1.500 ft MSL
+Area B: 500 ft MSL till 2.500 ft MSL
+Area C: 500 ft MSL till 3.500 ft MSL
+Area D: 500 ft MSL till 4.500 ft MSL
+
+
+
+Interceptions, Holdings, DME Arcs
+ANT – Antwerp VOR
+NIK – Nicky VOR
+MAK – Mackel NDB
+ONW – Antwerpen NDB
+
+
+
+Basic Airwork (including Basic Instrument Flying) USA
+Around the TRM VOR:
+Area A: 500 ft AGL till 18.000 ft MSL
+
+East of the Thermal Airport, over the Salton Sea and High Desert:
+Area B: 500 ft AGL till 18.000 ft MSL
+
+Note: Check activity of Kane West Military Operating Area with LA Center and SoCal Approach.
+
+
+
+Interceptions, Holdings, DME Arcs USA
+TRM – Thermal VOR
+PSP – Palm Springs VOR
+TNP – Twentynine Palms VOR
+BLH – Blythe VOR
+PKE – Parker VOR
+PDZ – Paradise VOR
+SB – Petis NDB
+
+

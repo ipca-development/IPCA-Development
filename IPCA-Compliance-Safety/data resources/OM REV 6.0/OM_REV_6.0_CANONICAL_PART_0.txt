@@ -1,0 +1,154 @@
+OPERATIONS MANUAL (OM) – REVISION 6.0
+
+PART 0 – MANUAL ADMINISTRATION
+
+0. OUTLINE
+
+0.1 List of Effective Parts
+0.2 Revision System
+0.3 Amendment List
+0.4 Distribution List
+0.5 Index of Abbreviations
+0.6 Definitions and Terms
+0.7 Highlight of Changes
+
+
+
+
+
+
+0.1 LIST OF EFFECTIVE PARTS
+
+EuroPilot Center’s nominated persons certify that the content of this Operations Manual complies with all applicable EASA PART-FCL and PART-NCO requirements.
+
+On behalf of EuroPilot Center:
+
+Accountable Manager: Maria A. Paz
+Date: 07-01-2023
+
+Compliance Monitoring Manager: Koen Maes
+Date: 09-01-2023
+
+Effective Parts:
+
+Part 0 – Pages 1–18 – Date: 09-01-2023 – Revision 6
+Part 1 – Pages 1–38 – Date: 09-01-2023 – Revision 6
+Part 2 – Pages 1–35 – Date: 09-01-2023 – Revision 6
+Part 3 – Pages 1–35 – Date: 09-01-2023 – Revision 6
+Part 4 – Pages 1–13 – Date: 09-01-2023 – Revision 6
+
+0.2 REVISION SYSTEM
+
+The EuroPilot Center Operations Manual and its amendments are proposed, drafted, issued, and after a BCAA spot check, accepted and implemented by the Head of Training.
+
+The Compliance Monitoring Manager ensures that the content of the Training Manual complies with all applicable regulations and requirements.
+
+Any amendment proposal by the Head of Training shall be executed by sending an email to the Compliance Monitoring Manager and the Accountable Manager. The email shall include the revised draft of the applicable manual, section or paragraph, and the reason(s) for the amendment.
+
+Upon verification by the Compliance Monitoring Manager, the amendment will be submitted to the BCAA.
+
+All amendments shall be accompanied by an updated List of Effective Parts, identification of changes by a vertical bar placed in front of the amended text, and a Highlight of Changes paragraph published as part of this manual.
+
+Digital, password-protected PDF versions of the Operations Manual may be distributed and marked as “Uncontrolled Copy”. These files are protected against printing.
+
+Note: A Temporary Revision Procedure is not applicable within EuroPilot Center B/ATO-017.
+
+0.3 AMENDMENT LIST
+
+RETAIN SHEET UNTIL REPLACED WITH NEW ISSUE
+
+Revision: Original
+Reason: First issue of OM
+Revision Date: 01-07-2013
+Effective Date: 01-09-2013
+Date Incorporated: 01-09-2013
+Incorporated By: KAY
+
+Revision: Rev 1
+Reason: Amendment 1
+Revision Date: 30-06-2017
+Effective Date: 15-07-2017
+Date Incorporated: 30-06-2017
+Incorporated By: KAY
+
+Revision: Rev 2
+Reason: Amendment 2
+Revision Date: 31-08-2019
+Effective Date: 09-09-2019
+Date Incorporated: 31-08-2019
+Incorporated By: KAY
+
+Revision: Rev 3
+Reason: Amendment 3
+Revision Date: 18-04-2022
+Effective Date: 28-04-2022
+Date Incorporated: 28-04-2022
+Incorporated By: KOEN M
+
+Revision: Rev 4
+Reason: Amendment 4
+Revision Date: 28-07-2022
+Effective Date: 08-08-2022
+Date Incorporated: 08-08-2022
+Incorporated By: KAY
+
+Revision: Rev 5
+Reason: Amendment 5 / CAA Remarks
+Revision Date: 18-12-2022
+Effective Date: 19-12-2022
+Date Incorporated: 19-12-2022
+Incorporated By: KAY
+
+Revision: Rev 6
+Reason: Amendment 6 / CAA Remarks
+Revision Date: 09-01-2023
+Effective Date: 19-01-2023
+Date Incorporated: 19-01-2023
+Incorporated By: STEF
+
+0.4 DISTRIBUTION LIST
+
+Copy No. 0 – Master Copy
+Copy No. 1 – BCAA Training Department (Signed Digital PDF)
+Copy No. 2–9 – Not assigned
+Copy No. 10–30 – Not assigned
+
+0.5 INDEX OF ABBREVIATIONS
+
+A/C – Aircraft
+AMC – Acceptable Means of Compliance
+ATO – Approved Training Organisation
+BCAA – Belgian Civil Aviation Authority
+CFI – Chief Flight Instructor
+CTKI – Chief Theoretical Knowledge Instructor
+EASA – European Union Aviation Safety Agency
+FSTD – Flight Simulation Training Device
+PIC – Pilot-in-Command
+SPIC – Student Pilot-in-Command
+TM – Training Manual
+UTC – Universal Time Coordinated
+VFR – Visual Flight Rules
+IFR – Instrument Flight Rules
+
+0.6 DEFINITIONS AND TERMS
+
+Aerobatic flight: Intentional manoeuvres involving abrupt attitude changes not required for normal flight or instruction.
+Aircraft: Any machine that can derive support in the atmosphere from the reactions of the air.
+Flight time: Total time from the moment an aircraft first moves for the purpose of taking off until the moment it finally comes to rest at the end of the flight.
+Instrument flight time: Time during which a pilot controls an aircraft solely by reference to instruments.
+Pilot-in-Command (PIC): The pilot designated as responsible for the safe conduct of the flight.
+Student Pilot-in-Command (SPIC): A student pilot acting as pilot-in-command under the supervision of a flight instructor.
+
+0.7 HIGHLIGHT OF CHANGES
+
+Revision 6 – Key Changes:
+
+Removal of R44 references
+Update of FAA Repair Station subcontractor
+Updates to Part 2 (Technical) regarding MEL, defect reporting, and EFB usage
+Updates to Part 3 (Route) for Weather, NOTAMs, and Mass and Balance via EFB
+Updates to Part 4 (Personnel Training), including KSA.100 Training
+OM Annex 16 updated
+
+END OF PART 0 – CANONICAL TEXT
+

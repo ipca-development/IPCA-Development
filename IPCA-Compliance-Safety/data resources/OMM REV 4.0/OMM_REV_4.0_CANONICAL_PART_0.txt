@@ -1,0 +1,108 @@
+ORGANIZATION MANAGEMENT MANUAL (OMM) – REVISION 4.0
+
+PART 0 – MANUAL ADMINISTRATION
+
+0. OUTLINE
+
+This part describes the administration, control, revision, distribution, and amendment tracking of the Organization Management Manual (OMM).
+
+0.1 List of Effective Pages
+0.2 Revision System
+0.3 Amendment List
+0.4 Distribution List
+0.5 Highlight of Changes
+
+
+0.1 List of Effective Pages
+
+EuroPilot Center’s nominated persons certify that the content of this Organization Management Manual (OMM) complies with all applicable EASA Part FCL, Part ORA and all other relevant subparts.
+
+Accountable Manager
+Maria A. Paz
+
+Compliance Monitoring Manager
+Stef Van De Sompele
+
+Effective Parts:
+Part 0 – Pages 1–9 – Revision 4 – Date 24/12/2022
+Part 1 – Pages 1–23 – Revision 4 – Date 24/12/2022
+Part 2 – Pages 1–33 – Revision 4 – Date 24/12/2022
+Part 3 – Pages 1–57 – Revision 4 – Date 24/12/2022
+
+
+0.2 Revision System
+
+The Organization Management Manual and its amendments are proposed, drafted, issued, accepted and implemented by the Head of Training after a BCAA spot check.
+
+The Compliance Monitoring Manager ensures that the content of the Organization Management Manual complies with all applicable regulations and requirements.
+
+Any amendment proposal by the Head of Training shall be executed by sending an e-mail to the Compliance Monitoring Manager and the Accountable Manager. The e-mail shall include the revised draft of the applicable manual, section or paragraph, as well as the reason(s) for the amendment.
+
+Upon verification of the draft by the Compliance Monitoring Manager, the amendment shall be sent to the BCAA.
+
+All amendments shall be accompanied by an updated List of Effective Parts. Changes, additions or deletions are identified by a vertical bar placed in front of the revised text.
+
+A “Highlight of Changes” paragraph shall contain a full history of changes between revisions.
+
+Digital, password-protected PDF versions of the Organization Management Manual may be distributed and shall be marked “Uncontrolled Copy” on each page and protected against printing.
+
+A Temporary Revision Procedure is not applicable within EuroPilot Center B/ATO-017.
+
+0.3 Amendment List
+
+Original – First issue of the Organization Management Manual – 01/07/2013
+Revision 1 – Amendment 1 – 30/06/2017
+Revision 2 – Addition NQ to ATO – 28/08/2018
+Revision 3 – Audit findings and miscellaneous changes – 02/11/2019
+Revision 4 – Audit findings and miscellaneous changes – 24/12/2022
+
+The Amendment List records all revisions and is retained until replaced by a new issue.
+
+0.4 Distribution List
+
+Copy 0 – Master Copy
+Copy 1 – BCAA – Training Department (Signed Digital PDF file)
+
+No hard copies are required by the BCAA since 2018.
+
+0.5 Highlight of Changes
+
+Revision 3 Changes
+
+• Part 0 – List of Effective Pages, BCAA Acceptance-stamp box removed.
+• Part 1 – Chapter 1, Chapter 1.2, address change of USA Training satellite location.
+• Part 1 – Addition of the Private Pilot PPL(A) and Theoretical Course PPL(A).
+• Part 2 – Chapter 5, Paragraph 5.1.4, text amended: If no action is taken within the extended time limit, it is the responsibility of the Compliance Monitoring Manager to inform the Civil Aviation Authorities according and suggest an acceptable solution.
+• Part 2 – Chapter 7.2.3, defect Reporting, added the Alsim Techlog Procedure for BE/FNPT-024.
+• Part 2 – Chapter 12, Paragraph 12.2.4 added in order to describe the action required in case of a major change, relocation, deactivation, major failure or safety issue with an FSTD.
+• Part 2 – Chapter 6, Paragraph 6.1.5 details for a dossier for recurrent evaluation added.
+• Part 3 – Chapter 3, Paragraph 3.2.1 change of nominated persons.
+• Part 3 – Safety Management Manual, Chapter 5, Paragraph 5.6.1 updated to include preliminary and final reporting timelines.
+• Part 3 – Safety Management Manual, Chapter 5, Paragraph 5.6.5 anonymous reporting URL added.
+• Annex 20 – FSTD updated with FNPT-024.
+• Annex 24 – FNPT-02 Difference List added.
+
+Revision 4 Changes
+
+• Part 0 – Title page added.
+• Part 0 – Chapter 0.1 page numbers updated.
+• Part 0 – Chapter 0.2 revision procedure updated per BCAA remarks.
+• Part 0 – Temporary Revision Procedure note added.
+• Part 0 – Record of Revision updated.
+• Part 0 – Distribution List updated.
+• Part 1 – Satellite base information updated.
+• Part 1 – Legal Status updated with resignation statement and Annex 25 added.
+• Part 1 – Training courses overview updated.
+• Part 1 – Organization chart updated.
+• Part 1 – Facilities annex updated.
+• Part 1 – Contracted Training updated.
+• Part 1 – Change procedures updated.
+• Part 2 – Compliance Monitoring Policy updated.
+• Part 2 – Inspection Scopes updated and new annexes added.
+• Part 2 – Regulatory Changes Follow-up Procedures added.
+• Part 3 – Safety Policy updated and Annex 29 added.
+• Part 3 – Safety Review Board procedures updated.
+• Part 3 – Management of Change updated.
+• Part 3 – Safety Committee Airport Meetings added.
+• Manual renamed to Organization Management Manual following BCAA remarks.
+

@@ -154,4 +154,94 @@ final class PdoFindingRepository implements FindingRepositoryInterface
             ':id'             => $this->uuidToBin($data['id']),
         ]);
     }
+	
+	public function findAll(?string $status = null): array
+{
+    $sql = "SELECT * FROM findings";
+    $params = [];
+
+    if ($status) {
+        $sql .= " WHERE status = :status";
+        $params[':status'] = strtoupper($status);
+    }
+
+    $sql .= " ORDER BY created_at DESC";
+
+    $stmt = $this->pdo->prepare($sql);
+    $stmt->execute($params);
+    $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    $list = [];
+    foreach ($rows as $row) {
+        $list[] = new Finding(
+            id: $this->binToUuid($row['id']),
+            auditId: $this->binToUuid($row['audit_id']),
+            reference: $row['reference'],
+            title: $row['title'],
+            classification: $row['classification'],
+            status: $row['status'],
+            severity: $row['severity'],
+            description: $row['description'],
+            regulationRef: $row['regulation_ref'],
+            raisedDate: new \DateTimeImmutable($row['raised_date']),
+            targetDate: $row['target_date'] ? new \DateTimeImmutable($row['target_date']) : null,
+            closedDate: $row['closed_date'] ? new \DateTimeImmutable($row['closed_date']) : null,
+            domainId: $row['domain_id'],
+            createdAt: new \DateTimeImmutable($row['created_at']),
+            updatedAt: new \DateTimeImmutable($row['updated_at'])
+        );
+    }
+
+    return $list;
+}
+
+public function updateById(string $id, array $fields): void
+{
+    // Only allow specific fields to be updated
+    $allowed = [
+    'reference',
+    'title',
+    'classification',
+    'severity',
+    'description',
+    'regulation_ref',
+    'domain_id',
+    'target_date',
+    'status',
+    'cap_selected_option',
+    'cap_selected_effort',
+];
+
+    $setParts = [];
+    $params = [ ':id' => $this->uuidToBin($id) ];
+
+    foreach ($allowed as $key) {
+        if (array_key_exists($key, $fields) && $fields[$key] !== null) {
+            $setParts[] = "$key = :$key";
+            $params[":$key"] = $fields[$key];
+        }
+    }
+
+    // target_date and regulation_ref can explicitly be set to NULL
+    if (array_key_exists('target_date', $fields) && $fields['target_date'] === null) {
+        $setParts[] = "target_date = NULL";
+    }
+    if (array_key_exists('regulation_ref', $fields) && $fields['regulation_ref'] === null) {
+        $setParts[] = "regulation_ref = NULL";
+    }
+
+    if (empty($setParts)) {
+        return; // nothing to update
+    }
+
+    $setParts[] = "updated_at = :updated_at";
+    $params[':updated_at'] = (new \DateTimeImmutable())->format('Y-m-d H:i:s');
+
+    $sql = "UPDATE findings SET " . implode(', ', $setParts) . " WHERE id = :id";
+
+    $stmt = $this->pdo->prepare($sql);
+    $stmt->execute($params);
+}	
+	
+	
 }

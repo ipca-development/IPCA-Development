@@ -1,0 +1,1419 @@
+OPERATIONS MANUAL (OM) – REVISION 6.0
+
+PART 1 – GENERAL
+
+0. OUTLINE
+
+1. INTRODUCTION
+1.1 Preliminaria
+1.1.1 Principal Place of Business
+1.1.2 Training Locations
+1.2 Content of the Operations Manual
+1.3 Draft and Issue
+1.4 Language
+
+2. ORGANIZATION AND RESPONSIBILITIES
+2.1 Structure of the ATO
+2.1.1 Management and Staff
+2.1.2 Organogram
+2.2 Responsibilities
+2.2.1 Accountable Manager
+2.2.2 Chief Operations Officer
+2.2.3 Operations Officer
+2.2.4 Head of Training
+2.2.4.1 Deputy Head of Training
+2.2.5 Chief Flight Instructor
+2.2.6 Chief Theoretical Knowledge Instructor
+2.2.7 Training Staff
+2.2.8 Compliance Monitoring
+2.2.9 Safety Manager
+2.2.10 FSTD Management
+2.2.11 Continuous Airworthiness Manager
+2.2.12 Accountant
+2.2.13 IT Manager
+2.2.14 Facility Manager
+2.2.15 Subcontracted Training
+
+3. STUDENT DISCIPLINE
+3.1 General
+3.1.1 Consumption of alcohol
+3.1.2 Narcotics
+3.1.3 Physical fitness, sleep and rest
+3.1.4 Surgical operation and medical fitness
+3.1.5 Corrective Actions
+3.2 Student Training Environment
+3.2.1 Student – Instructor ratio
+3.2.2 Rules governing a student choosing another ATO
+
+4. APPROVAL AND AUTHORIZATION OF FLIGHTS
+4.1 Flight Training Authorization
+4.2 Aircraft availability and organization of flights
+4.2.1 Monthly Flight Training Schedule
+4.2.2 Online Planning System
+4.2.3 Cancellations / no-shows
+4.2.4 Preparation
+4.2.5 Restrictions
+
+5. FLIGHT CREW QUALIFICATION RECORDS
+5.1 Personnel
+5.1.1 Recent Experience
+5.1.2 Follow-up
+5.2 Students
+5.2.1 Follow-up
+5.3 Pilot Logbook
+
+6. COMMAND OF THE AIRCRAFT
+6.1 General
+
+7. FLYING DUTY PERIODS, LIMITATIONS AND REST PERIODS
+7.1 General
+7.2 Instructors
+7.3 Students
+
+8. FLIGHT PLANNING AND OPERATING PROCEDURES
+8.1 Responsibility of the Pilot in Command
+8.1.1 Pilot-in-command responsibilities and authority
+8.1.2 Compliance with laws, regulations and procedures
+8.2 Taxiing of Airplanes
+8.3 Use of Portable Electronic Devices
+8.3.1 Definition of a PED
+8.3.2 Restriction on use of PEDs
+8.3.3 Fire hazard of PEDs
+8.3.4 Electronic Flight Bags – Hardware
+8.3.5 Electronic Flight Bags – Functions
+8.4 ATS Flight Plan
+8.5 Operational Flight Plan (OFP)
+8.6 Carriage of passengers
+8.7 Information on emergency and survival equipment
+8.8 Aircraft documentation and retention of documents
+8.9 Transport of dangerous goods
+
+9. SAFETY AND SECURITY
+9.1 Safety Measures and Procedures
+9.2 FNPT II Simulator
+9.3 Premises and Airport Apron
+9.4 Reporting of occurrences, incidents and accidents
+9.5 Procedure in case of incidents or accidents
+9.6 Radio listening watch
+9.7 Safety pilots
+
+
+
+
+
+1. INTRODUCTION
+
+1.1 Preliminaria
+
+EuroPilot Center is an Approved Training Organization, staffed, equipped and operated in a suitable environment offering Flight Training, Synthetic Flight Training and Theoretical Knowledge Training for:
+	•	Modular IR(A), Single Engine, Multi-Engine
+	•	Theoretical Course ATPL(A)
+	•	Modular Multi-Engine Piston Class Rating Airplanes, MEP(L)
+	•	Flight Instructor Airplanes
+	•	Flight Instructor Upgrade to Instrument Rating Instructor, FI(A) with privileges to instruct IR(A)
+	•	Instrument Rating Instructor, IRI(A)
+	•	Class Rating Instructor, CRI(A)
+	•	Commercial Pilot License, CPL(A)
+	•	VFR Night Rating, NQ
+	•	Theoretical Knowledge Course, PPL(A)
+	•	Private Pilot License, PPL(A)
+	•	UPRT and UPRT Instructor
+	•	MCC, APS/MCC including MCCI
+
+
+
+1.1.1 Principal Place of Business
+
+EuroPilot Center
+Luchthavenlei EPC Building Box 210
+B-2100 Antwerp – Belgium
+Phone: +32 (0)3 281 84 29
+
+
+
+1.1.2 Training Locations
+
+Main Training Location:
+Antwerp, Belgium (EBAW)
+
+EuroPilot Center
+Luchthavenlei EPC Building Box 210
+B-2100 Antwerp – Belgium
+Phone: +32 (0)3 281 84 29
+
+Satellite Training Location:
+Thermal, California USA (KTRM)
+
+EuroPilot Center doing business as SoCal Pilot Center
+56-850 Higgins Drive
+Hangars 026 and 027 along Avenger Blvd
+CA 92274 Thermal
+Phone: +1 (0)760 238 0209
+Phone: +1 (0)760 989 4525
+
+
+
+1.2 Content of the Operations Manual
+
+The Operations Manual consists of the following parts:
+	•	Part 0 – Manual Administration
+	•	Part 1 – General
+	•	Part 2 – Technical
+	•	Part 3 – Route
+	•	Part 4 – Personnel Training
+
+A copy of the Operations Manual (and all its amendments and revisions) will be provided to the BCAA.
+
+
+
+1.3 Draft and Issue
+
+The EuroPilot Center Operations Manual is drafted and issued by the Head of Training.
+
+
+
+1.4 Language
+
+The EuroPilot Center Operations Manual has been drafted in the English language.
+
+
+
+2. ORGANIZATION AND RESPONSIBILITIES
+
+2.1 Structure of the ATO
+
+2.1.1 Management and Staff
+EuroPilot Center employs sufficient in number, experienced and qualified managers in accordance with AMC1 ORA.ATO.210 – Personnel requirements.
+
+The Management and Staff are:
+	•	Accountable Manager: Mrs. Maria Paz
+	•	Chief Operations Officer: Mr. Stef Van De Sompele
+	•	ATO Safety Manager: Mr. Jasper De Hertog
+	•	ATO Compliance Monitoring Manager: Mr. Stef Van De Sompele
+	•	ATO Compliance Monitoring Auditor: Mr. Glenn Crab
+	•	FSTD Compliance Monitoring Manager: Mr. Koen Maes
+	•	FSTD Compliance Monitoring Auditor: Mr. Glenn Crab / Mr. Stef Van De Sompele
+	•	FSTD Manager: Mr. Koen Maes
+	•	Head of Training (BE): Mr. Koen Maes
+	•	Deputy Head of Training (US): Mr. Jasper De Hertog
+	•	Chief Flight Instructor: Mr. Lieven Gijsels
+	•	Chief Theoretical Knowledge Instructor: Mr. Jasper De Hertog
+	•	Continuous Airworthiness Manager: Mr. Michael De Vestel
+	•	Accountant: Mr. Tom Debudt
+	•	Facility Manager: Mr. Stef Van De Sompele
+	•	IT Manager: Mr. Thierry Leysen
+
+2.1.2 Organogram
+Reference is made to OM Annex 35 – Organogram Revision 3.0.
+
+
+
+2.2 Responsibilities
+
+2.2.1 Accountable Manager
+The Accountable Manager is the person acceptable to the BCAA. He or she has corporate authorities for ensuring that all training activities can be financed and carried out to the standards determined by the Authorities.
+
+He or she defines the intent of the Compliance Monitoring System and has the overall responsibility for the efficient function of the system.
+
+Note 1: Physical presence of the Accountable Manager on a daily basis is not required when the Chief Operations Officer is present or when either one of the Operations Officers are present.
+Note 2: Reference is made to the addendum “Economic Leverage & Limitations between E-Guided Learning Experience and the Accountable Manager”, outlining financial power and restrictions.
+
+2.2.2 Chief Operations Officer
+
+The Chief Operations Officer is accountable for the administration, ground and flight operations, and will oversee the work of the Operations Officer(s).
+
+The Chief Operations Officer is responsible for (non-limitative list):
+
+Invoicing.
+Follow up of student financial balance sheets.
+Execution of all incoming and outgoing payments.
+Bookkeeping.
+Follow up on insurances.
+Updating website, online calendar etc.
+Event planning and organization.
+Active prospection.
+Price quotes.
+Long-term training schedule (Flight Training and Theoretical Knowledge Training).
+Organizing of meetings, teleconferences.
+Pilot shop, sales and stock follow up.
+Placing of orders.
+
+The Chief Operations Officer reports to the Accountable Manager on a weekly basis.
+
+Note: Physical presence of the Chief Operations Officer on a daily basis is not required when either one of the Operations Officers is present.
+
+2.2.3 Operations Officer
+
+The Operations Officer is responsible for the day-to-day operations of EuroPilot Center and reports on a daily basis to the Chief Operations Officer. His/her responsibilities are:
+
+Daily opening & closing of the school.
+Taking care of prospects (phone, visit, e-mail).
+Supporting students.
+Supporting of instructors and examiners.
+Supporting of the Management.
+Handling Sales.
+Accepting deliveries.
+E-mail management.
+Student Admission.
+Individual Student Training File follow-up.
+Contract Management.
+Preparing Skill test forms/Application forms/BCAA forms for the Head of Training.
+Follow up on Insurances.
+Customer service, satisfaction and follow-up.
+Basic Facility Management related tasks (Building access, basic building maintenance, appliance and mailbox, cleaning and garbage) in cooperation with the Facility Manager.
+Basic IT Management related tasks in cooperation with the IT manager.
+Administering Internal Exams to students.
+Assisting the Chief Theoretical Knowledge Instructor on student follow up (Theoretical Knowledge Training).
+Assisting the Chief Flight Instructor on student follow up (Flight Training).
+Performing Airline Candidate Screenings.
+Performing Airline Assessments/Screening.
+Maths and Physics Prep courses.
+Simulator Subscriptions.
+Be The Pilot Sessions (Introduction Flights).
+Marketing related tasks (Updating website, social media, printed media, e-mail campaigns, market research, press-releases, events, prospecting, preparation of price quotes).
+Short-term Training Schedule (Flight Training and Theoretical Knowledge Training).
+Organizing of meetings, teleconferences.
+Pilot Shop, Sales and stock follow up.
+Preparing orders.
+Aircraft and FSTD maintenance follow-up.
+Providing Simulator Support in cooperation with the FSTD manager.
+Cleanliness of the Aircraft (scheduling).
+
+
+
+2.2.4 Head of Training
+
+The Head of Training is the person acceptable to the BCAA. He/She is responsible for all aspects of the training organized by the ATO. He/She holds the required qualifications in accordance with AMC2 ORA.ATO.210 – Personnel requirements.
+
+The Head of Training shall have extensive flight training experience and holds sound managerial capabilities as follows:
+
+At least 1,500 hours of Flight Time as Pilot In Command; and
+At least 2 years of experience on instructional duties (as TKI, FI(A) and/or CRI); and
+At least 1 year of experience in a managerial role (Aviation or non-aviation related);
+At least 500 hours on flying instructional duties (as FI(A) or CRI), of which 250 hours may be Instrument Ground Time.
+
+His/Her responsibilities include:
+
+Theoretical knowledge training.
+Flight Training.
+Synthetic Flight Training.
+Individual Student Training File (Assisted by Operations Officers).
+Applications for Skill tests, proficiency checks and Theoretical Knowledge Exams (Assisted by the Operations Officers).
+Supervision of students, progress and periodical evaluations (Assisted by Chief Flight Instructor, Chief Theoretical Knowledge Instructor and Operations Officer).
+Performing Airline Assessments/Screening (Assisted by the Operations Officers).
+Aircraft and FSTD maintenance follow-up (Assisted by the Operations Officers).
+Approval of individual training programs (Assisted by the Deputy Head of Training).
+Monitoring the Chief Theoretical Knowledge Instructor and Chief Flight Instructor.
+
+Note 1: In order to facilitate communication between the Head of Training and the nominated Deputy Head of Training at all other approved Training Locations, EuroPilot Center has implemented an electronic Progress Follow-up system, making live tracking of Student Progress possible, regardless of the training location. In addition, weekly video calls are performed to discuss student progress.
+
+Note 2: Physical presence of the Head of Training on a daily basis is not required when the Deputy Head of Training is present.
+
+
+
+2.2.4.1 Deputy Head of Training
+
+The Deputy Head of Training assists the Head of Training in all tasks and resumes his responsibilities when not physical present (e.g. at a different approved training location) with the purpose to guarantee compliance with the personnel requirements. He holds all required qualifications in accordance with AMC2 ORA.ATO.210 – Personnel requirements.
+
+The Deputy Head of Training shall have extensive flight training experience and holds sound managerial capabilities as follows:
+
+At least 1,000 hours of Flight Time as Pilot In Command; and
+At least 1 years of experience on instructional duties (as TKI, FI(A) and/or CRI); and
+At least 1 year of experience in a managerial role (Aviation or non-aviation related);
+At least 300 hours on flying instructional duties (as FI(A) or CRI), of which 150 hours may be Instrument Ground Time.
+
+
+
+2.2.5 Chief Flight Instructor
+
+The Chief Flight Instructor is the person acceptable to the BCAA. He/She holds all required qualifications in accordance with AMC2 ORA.ATO.210 – Personnel requirements.
+
+His/Her responsibilities include:
+
+Flight Training.
+Synthetic Flight Training.
+Supervision of students, progress and periodical evaluations (Assisted by the Operations Officer).
+Performing Airline Assessments/Screening (Assisted by the Operations Officer).
+Monitoring Flight Instructors.
+
+Note: Physical presence of the Chief Flight Instructor on a daily basis is not required but he/she should be contactable within a reasonable timeframe.
+
+
+
+2.2.6 Chief Theoretical Knowledge Instructor
+
+The Chief Theoretical Knowledge Instructor is the person acceptable to the BCAA. He/She holds all required qualifications in accordance with AMC2 ORA.ATO.210 – Personnel requirements.
+
+His/Her responsibilities include:
+
+Theoretical knowledge training.
+Supervision of students, progress and periodical evaluations (Assisted by the Operations Officer).
+Administering Internal Exams to students (Assisted by the Operations Officer).
+Performing Airline Assessments/Screening (Assisted by the Operations Officer).
+Maths and Physics Prep courses (Assisted by the Operations Officer).
+Monitoring Theoretical Knowledge Instructors.
+
+Note: Physical presence of the Chief Theoretical Knowledge Instructor on a daily basis is not required but he/she should be contactable within a reasonable timeframe.
+
+
+
+2.2.7 Training Staff
+
+Flight Instructors
+The Flight Instructor is the person appointed by the Head of Training. He/She holds the licenses and level of experience according to FCL.900 – Instructor Certificates.
+
+Before the Flight Instructor commences his performances for EuroPilot Center, he/she has successfully demonstrated his flying, instructional and pedagogical skills to the Head of Training or Chief Flight Instructor.
+
+His/Her responsibilities include (non-limitative list):
+
+Complying with the applicable regulations.
+Applying the EuroPilot Center Operations Manual and Training Manual.
+Ensuring his instruction skills and knowledge remain up to date (by attending instructor seminars, refresher courses etc.).
+Maintaining the validity of his licenses, medical, type or class ratings.
+Ensuring the performance of sufficient briefing and debriefing.
+Verifying all required documents are on board and valid before departing on a flight.
+Verifying that the preflight preparations have been carried out correctly.
+Verifying that a correct and sufficient amount of fuel, oil (or other liquids) are on board.
+Ensuring the aircraft/synthetic journey log is correctly filled out immediately after each flight.
+Ensuring all obligations and requirements are met before approving solo flights.
+Ensuring the student’s training file is filled out after each flight.
+Ensuring the student’s logbook is filled out after each flight.
+Respecting the planning and timeframe.
+Alerting any technical deficiency of the aircraft or synthetic training device.
+Reporting any occurrence, incident or accident immediately to the Chief Flight Instructor.
+Ensuring the aircraft / synthetic training device is kept clean.
+Ensuring the aircraft is parked safely at all times.
+Ensuring the premises are kept clean and are locked when departing.
+
+Theoretical Knowledge Instructors
+The Theoretical Knowledge Instructor is the person appointed by the Head of Training. Before the Theoretical Knowledge Instructor commences his/her performances for EuroPilot Center, he/she has successfully demonstrated his/her instructional and pedagogical skills to the Head of Training or Chief Theoretical Knowledge Instructor by means of a formal interview and a test lecture based on the material developed for the respective subject(s).
+
+His/Her responsibilities include (non-limitative list):
+
+Complying with the applicable regulations.
+Applying the EuroPilot Center Operations Manual and Training Manual.
+Ensuring his instruction skills and knowledge remain up to date (by attending instructor seminars, refresher courses etc.).
+Ensuring the student’s training file is filled out after each theory session.
+Ensuring the appropriate attendance sheets are filled out and signed after each theory session.
+Respecting the planning and timeframe.
+Reporting any occurrence immediately to the Chief Theoretical Knowledge Instructor.
+Ensuring the premises are kept clean and are locked when departing.
+Reporting any deficiency relating to CBT or classroom equipment.
+
+2.2.8 Compliance Monitoring
+
+Compliance Monitoring Manager
+The duties and responsibilities of the Compliance Monitoring Manager are described in the Organization Management Manual (OMM), Part 2, Chapter 4.2 – Duties and Responsibilities.
+
+All audits mentioned under OMM Annex 01 – Audit Plan, with the exception of:
+
+Audit 3 – Training Records, Logs, Duty and Rest Times; and
+Audit 8 – Training Procedures (Theory, Synthetic and Flying)
+
+may be conducted by the Compliance Monitoring Manager.
+
+Compliance Monitoring Auditor
+The duties and responsibilities of the Compliance Monitoring Auditor are described in the Organization Management Manual (OMM), Part 2, Chapter 3.2 – Duties and Responsibilities.
+
+Assistant Compliance Monitoring Manager / Auditor
+The duties and responsibilities of the Assistant Compliance Monitoring Manager / Auditor are described in the Organization Management Manual (OMM), Part 2, Chapter 3.2 – Duties and Responsibilities.
+
+
+
+2.2.9 Safety Manager
+
+The duties and responsibilities of the Safety Manager are described in the Organization Management Manual (OMM), Part 3, Chapter 3.3 – Safety Manager.
+
+
+
+2.2.10 FSTD Management
+
+FSTD Compliance Monitoring Manager
+The duties and responsibilities of the FSTD Compliance Monitoring Manager are identical to those of the Compliance Monitoring Manager as described in the Organization Management Manual (OMM), Part 2, Chapter 3.2 – Duties and Responsibilities, but restricted to FSTD operations only.
+
+FSTD Manager
+The FSTD Manager is the person appointed by the Accountable Manager. He/She is responsible for daily FSTD operations, including (non-limitative list):
+
+FSTD supervision.
+FSTD maintenance (including FSTD Maintenance Reports).
+FSTD calibrations.
+Execution of quarterly QTG tests.
+Scheduling yearly internal subjective evaluation.
+Certification documents.
+Tidiness.
+Avionics updates.
+Keeping checklists and software up-to-date.
+Follow-up on FSTD trouble report items.
+FSTD phone support.
+FSTD installation and relocation.
+
+
+
+2.2.11 Continuous Airworthiness Manager
+
+The duties and responsibilities of the Continuous Airworthiness Manager are to ensure that (non-limitative list):
+
+All aircraft are maintained in an airworthy condition.
+Any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable.
+The airworthiness certificate remains valid.
+The maintenance of the aircraft is performed in accordance with the approved maintenance program as specified in EASA Part-M, MA.302.
+
+
+
+2.2.12 Accountant
+
+The duties and responsibilities of the accountant are (non-limitative list):
+
+Prepares asset, liability, and capital account entries by compiling and analyzing account information.
+Documents financial transactions by entering account information.
+Recommends financial actions by analyzing accounting options.
+Summarizes current financial status by collecting information and preparing balance sheet, profit and loss statement, and other reports.
+Substantiates financial transactions by auditing documents.
+Maintains accounting controls by preparing and recommending policies and procedures.
+Guides accounting clerical staff by coordinating activities and answering questions.
+Reconciles financial discrepancies by collecting and analyzing account information.
+Secures financial information.
+
+The accountant reports to the Accountable Manager on a weekly basis.
+
+
+
+2.2.13 IT Manager
+
+Managing information technology and computer systems and building maintenance items.
+
+The duties and responsibilities of the IT Manager are (non-limitative list):
+
+The general IT infrastructure including computers, iPads, printers and phone.
+Building access and building security.
+Password management.
+Files and folders.
+Dropbox.
+Restarting and resetting services.
+Network connections, modem, internet services.
+Backup systems.
+E-mail communications and e-mail servers.
+Web servers.
+Remote access.
+Replacing batteries of mouse, keyboard, remote control, smoke detectors and flashlights.
+Aircraft cleaning.
+Avionics updates.
+
+The IT Manager reports to the Operations Officer on a regular basis.
+
+
+
+2.2.14 Facility Manager
+
+The Facility Manager is responsible for (non-limitative list):
+
+Accepting incoming deliveries and shipments.
+Assistance in basic administrative tasks.
+Building maintenance and cleanliness.
+Appliances.
+Mailbox.
+Building consumables.
+Cleaning.
+Garbage.
+
+The Facility Manager reports to the Operations Officer on a regular basis.
+
+
+
+2.2.15 Subcontracted Training
+
+Not applicable.
+
+3. STUDENT DISCIPLINE
+
+3.1 General
+
+The student has to follow the instructions and guidelines of the instructors.
+
+The student is responsible at all times for maintaining the validity of his license and medical, and providing a copy of these certificates to the EuroPilot Center Administration.
+
+3.1.1 Consumption of alcohol
+
+Under no circumstances may alcohol be consumed in any form by the student within 8 hours before (synthetic) Flight Training.
+
+3.1.2 Narcotics
+
+The use of narcotics in any form is strictly prohibited.
+
+The use of drugs by the student, in connection with (synthetic) Flight Training is prohibited, except drugs that have been prescribed by a doctor with knowledge of performance requirements in flying environment.
+
+This exception needs to be approved by the Head of Training prior to the start of the (synthetic) Flight Training.
+
+3.1.3 Physical fitness, sleep and rest
+
+Flight safety requires the student to receive regular and sufficient opportunities for rest and sleep.
+
+The student must ensure that proper advantage is taken of the provided rest period to relax and regain his fitness.
+
+3.1.4 Surgical operation and medical fitness
+
+In the event of a decrease in the medical fitness, physically or psychologically, which might render the student unable to safely carry out training, the student must seek advice of an authorized medical examiner prior to returning to training.
+
+Proof hereof must be delivered to the Head of Training by the respective medical examiner’s written attestation.
+
+The following rules are applicable at all times:
+
+Aero-medical advice must be sought prior to returning to training following any surgical operation.
+Any general anesthesia renders the student unfit for training for at least 48 hours.
+Any local anesthesia renders the student unfit for training for at least 12 hours.
+Any blood donation renders the student unfit for training for at least 12 hours.
+Any diving activity renders the student unfit for training for at least 12 hours.
+The student must not perform training if he is suffering from fatigue or feels unfit for training.
+
+3.1.5 Corrective Actions
+
+In case a student breaks (or intends to break) any rules relating to the consumption of alcohol, use of narcotics or drugs, or physical fitness, as described above or imposed by the BCAA, it is the duty of each individual who may become aware of this, to report the same to the Chief Flight Instructor, Chief Theoretical Knowledge Instructor and/or Head of Training.
+
+In extreme cases, the Head of Training may decide to terminate the training in consultation with the Chief Flight Instructor and/or Chief Theoretical Knowledge Instructor.
+
+
+
+3.2 Student Training Environment
+
+3.2.1 Student – Instructor ratio
+
+In accordance with AMC1 ORA.ATO.210 – Personnel requirements, the following rules are applicable at all times:
+
+The normal student-instructor ratio corresponds to a maximum of six students for one instructor (Head of Training excluded).
+During a student’s training, a maximum of six different instructors should be used.
+Class numbers in ground subjects involving a high degree of supervision or practical work should not exceed 28 students.
+
+3.2.2 Rules governing a student choosing another Approved Training Organization
+
+Formal approval is required from the BCAA in case a student decides to change Approved Training Organization at any time during his training.
+
+He shall formally inform the Head of Training hereof in writing.
+
+The student’s new Approved Training Organization shall file a “change of ATO” application with the BCAA and request a copy of the complete training record from the Head of Training at EuroPilot Center.
+
+
+
+4. APPROVAL AND AUTHORIZATION OF FLIGHTS
+
+4.1 Flight Training Authorization
+
+All student flights must be approved by the assigned flight instructor and only flights:
+
+Resorting under the Training Program; or
+Introductory flights (as described under Annex VII of Regulation (EU) No 965/2012, NCO.GEN.103)
+
+may be performed.
+
+Any other flight must be authorized by the Head of Training or his deputy.
+
+For each solo (navigation) flight, the required solo authorization form must be used as described in the EuroPilot Center Training Manual – General, Chapter 1.3.5.
+
+
+
+4.2 Aircraft availability and organization of flights
+
+4.2.1 Monthly Flight Training Schedule
+The flight training schedule covers the planning of the students, instructors and the training fleet.
+
+The flight training schedule is established on a monthly basis, offering both students and instructors more security and a better way to combine flying activities with a private and professional life.
+
+The following scheduling procedure is applied:
+
+Step 1: before the 20th of each month, all instructional staff provides their availabilities for the coming month through the online planning system.
+Step 2: around the 20th of each month, an e-mail is sent out by the Chief Operations Officer to all students with the available dates for training for the upcoming month.
+Step 3: each individual student feedback is processed, and temporary training slots are allocated in the online planning system. A draft schedule is produced, and completed or modified depending on the feedback from all students.
+Step 4: on the 23rd a reminder is sent out to the students who haven’t replied yet.
+Step 5: when the schedule is almost complete (usually around the 24th), an e-mail is sent out to each student individually, including a personal training schedule.
+Step 6: upon receipt of final confirmation by the student, the training slots are saved into the online planning system. An aircraft, training device and instructor are allocated to the training slot.
+Step 7: for each flight training session, a training device (FSTD) is allocated as far as practicable (color green), offering a backup in case of adverse weather conditions.
+
+Changes to the schedule throughout the month can only be performed by the Chief Operations Officer or Operations Officer.
+
+Note 1: In no event should any Flight or Theoretical Knowledge Instructor alter the monthly schedule as this will lead to loss of overview and efficiency.
+
+Note 2: Students are never allowed to reserve training slots with instructor directly via the online planning system, with the exception of self-practice FSTD sessions, which the student may reserve directly (color code blue) via the online planning system. A restriction of maximum 2 hours per student is applicable in order to guarantee every student sufficient self-practice time on the FSTD’s.
+
+Note 3: Flight training sessions on the FSTD (with instructors) always have priority over self-practice FSTD sessions.
+
+4.2.2 Online Planning System
+
+All training sessions will be planned via an online planning system:
+
+http://www.flightcircle.com
+
+Both students and instructors can, upon obtaining a personal login and password, consult the online planning at all times.
+
+
+
+4.2.3 Cancellations / no-shows
+
+Although EuroPilot Center strives to minimize the number of changes to the schedule as much as possible, certain last minute changes are inevitable.
+
+Only in the following circumstances is a cancellation acceptable:
+
+Student and/or instructor are unfit to fly.
+Illness of the student and/or instructor.
+Exceptional personal circumstances.
+Student not or insufficiently prepared for the flight or synthetic training session.
+Poor weather conditions.
+Aircraft defects.
+FSTD defects.
+Maintenance.
+Priority granted examination flights.
+(Local) Airport restrictions.
+Temporary flying restrictions.
+
+A reliable and efficient communication procedure is in place to cope with last minute changes.
+
+We refer to Annex 36 – Cancellation Flowchart.
+
+Note: In case of cancellations, the Operations Officer will make a note in the online planning system, using the following codes:
+
+C1: Weather cancel
+C2: Cancellation due to the student
+C3: Cancellation due to maintenance
+C4: Cancellation due to the Instructor
+
+
+
+4.2.4 Preparation
+
+Students are required to be present at EuroPilot Center, minimum 30 minutes before the scheduled time in the online planning system.
+
+A student should have prepared his flight as described in the Operations Manual Part 3, Chapter 2.1.
+
+The instructor will integrate a check of the student’s preparation during the preflight briefing.
+
+
+
+4.2.5 Restrictions
+
+The number of aircraft that can be supervised by an instructor at the same time in case of poor weather is limited to one aircraft.
+
+
+
+5. FLIGHT CREW QUALIFICATION RECORDS
+
+5.1 Personnel
+
+The Flight Instructor file is available in a digital format via the E-gle Online system and contains the following data:
+
+Personal Data
+License / Medical
+Course Enrollment (Standardization Course & Proficiency Checks)
+Contract, CV, BCAA Application Form
+
+
+
+5.1.1 Recent Experience
+
+Flight Instructors should only be allowed to provide training if:
+
+They comply with the requirements under FCL.060 – Recent experience; and
+They have performed at least 1 hour of flight instruction within the previous 12 months within EuroPilot Center.
+
+Note: If no instructional duties were performed by the Flight Instructor within EuroPilot Center for a period exceeding 12 months, a refresher course as described under OM Part 4, Chapter 3 needs to be performed.
+
+There are no recent experience requirements for Theoretical Knowledge Instructors.
+
+
+
+5.1.2 Follow-up
+
+It is the responsibility of Flight Instructors to provide the EuroPilot Center Administration immediately with a copy of the License or Medical preferably via e-mail (PDF scancopy) in order to follow-up due dates of licenses, ratings, authorizations, initials, refreshers and medicals.
+
+It is the responsibility of the Head of Training to follow-up the due dates of licenses, ratings, authorizations, initials, refreshers and medicals into the E-gle Online System which timely alerts the following persons via e-mail:
+
+Head of Training
+Chief Operations Officer
+Operations Officers
+Respective instructor
+
+
+
+5.2 Students
+
+A copy of the valid license and valid medical certificate of all students shall be filed in the E-gle Online system.
+
+
+
+5.2.1 Follow-up
+
+It is the responsibility of the student to provide the EuroPilot Center Administration immediately with a copy of the License or Medical preferably via e-mail (PDF scancopy) in order to follow-up due dates of licenses, ratings, authorizations, initials, refreshers and medicals.
+
+It is the responsibility of the Head of Training to follow-up the due dates of licenses, ratings, authorizations, initials, refreshers and medicals into the E-gle Online System which timely alerts the following persons via e-mail:
+
+Head of Training
+Chief Operations Officer
+Operations Officers
+Respective student
+
+
+
+5.3 Pilot Logbook
+
+In accordance with FCL.050, holders of a pilot license shall record details of all flights flown, in a format acceptable to the BCAA responsible for license or rating issue.
+
+This logbook enables pilot license holders to record flying experience in a manner which will facilitate this process while providing a permanent record of the license holders flying.
+
+Pilots who fly regularly airplanes and helicopters, or different aircraft types are recommended to hold separate logbooks for each type of flying.
+
+The logbook entries should be made as soon as practicable after any flight undertaken. All entries in the logbook shall be made in ink or indelible pencil.
+
+The specifics of every flight in the course of which the holder of a pilot license acts as a (student) pilot of an aircraft are to be recorded in the appropriate columns using one line for each flight, provided that if an aircraft carries out a number of flights upon the same day returning on each occasion to the same place of departure and the interval between successive flights does not exceed thirty minutes, such series of flights may be recorded as a single entry.
+
+Flight time for airplanes, touring motor gliders and powered-lift means the total time from the moment an aircraft first moves for the purpose of taking off until the moment it finally comes to rest at the end of the flight; for helicopters, it means the total time from the moment a helicopter’s rotor blades start turning until the moment the helicopter finally comes to rest at the end of the flight, and the rotor blades are stopped.
+
+All flying carried out as Pilot-in-Command shall be entered in the logbook as Pilot-in-Command.
+
+6. COMMAND OF THE AIRCRAFT
+
+6.1 General
+
+Training flights can be performed either dual or solo.
+
+The crew shall consist of either an instructor and a student (dual) or either the student only (solo).
+
+In all EuroPilot Center aircraft, one seat is considered as the “Pilot Seat”. In aircraft, this is the left seat.
+
+The other seat in front is referred to as the “Instructor Seat”.
+
+During all flights, except training flights for Flight Instructor ratings, the student shall occupy the Pilot Seat.
+
+Flying in the Instructor Seat is allowed only for qualified EuroPilot Center Flight Instructors or Flight Instructor Students.
+
+Therefore:
+
+During all dual training flights, the instructor is the Pilot In Command.
+During all solo flights, the student is the Pilot In Command.
+
+Note: During skill tests, the candidate is considered as Pilot In Command.
+
+
+
+7. FLYING DUTY PERIODS, LIMITATIONS AND REST PERIODS
+
+7.1 General
+
+A Duty is any task that a student or instructor is required to carry out associated with the business of an AOC holder or an ATO.
+
+A Duty Period is a period which starts when a student or instructor is required by an operator or an ATO to commence a duty and ends when they are free from all duties.
+
+A Flight Duty Period is any time during which a student or instructor operates in an aircraft as a member of its crew.
+
+The Flight Duty Period starts when the student or instructor is required by an Operator or an ATO to report for a flight or a series of flights; it finishes at the end of the last flight on which he or she is an operating crew member.
+
+A Rest Period is an uninterrupted and defined period of time during which a student or instructor is free from all duties.
+
+The Home Base is the location nominated by EuroPilot Center to the student or instructor from where they normally start and end a Flight Duty Period and where EuroPilot Center is not responsible for their accommodation.
+
+Antwerp Airport (EBAW) is considered as the Home Base for EuroPilot Center.
+
+Instructors or students performing Flight Duties for other Operators or ATO’s are at all times responsible to inform EuroPilot Center about these Flight Duties.
+
+They must ensure that they do not operate an EuroPilot Center aircraft if they know that they have not had sufficient rest or they are suffering from or are likely to suffer from fatigue or feel unfit, to the extent that the flight may be endangered.
+
+EuroPilot Center will keep track of the Flight Duty Periods performed within EuroPilot Center for students and instructors by means of the Blue Cat system.
+
+7.2 Instructors
+
+The maximum basic daily Flight Duty Period for instructors (both part time and full time) shall normally not exceed 13 hours.
+
+In the event of unforeseen circumstances, the Head of Training may allow an extension of the Flight Duty Period by maximum 1 hour.
+
+The minimum rest which must be provided before undertaking a Flight Duty Period starting at home base shall be at least as long as the preceding duty period or 12 hours whichever is the greater.
+
+In case of a duty and rest violation, a duty and rest violation report form shall be filed by the instructor.
+
+We refer to OM Annex 39 – Duty and Rest Violation Report Form.
+
+7.3 Students
+
+The maximum basic daily Flight Duty Period for students shall normally not exceed 13 hours.
+
+In the event of unforeseen circumstances, the Head of Training may allow an extension of the Flight Duty Period by maximum 1 hour.
+
+The minimum rest which must be provided before undertaking a Flight Duty Period starting at home base shall be at least as long as the preceding duty period or 12 hours whichever is the greater.
+
+In case of a duty and rest violation, a duty and rest violation report form shall be filed by the student.
+
+We refer to OM Annex 39 – Duty and Rest Violation Report Form.
+
+
+8. FLIGHT PLANNING AND OPERATING PROCEDURES
+
+8.1 Responsibility of the Pilot in Command
+
+The Pilot in Command of a training flight must be qualified on the respective aircraft either:
+
+as a licensed flight instructor, class rating instructor or instrument rating instructor; or
+as a student pilot with a solo authorization from a flight instructor.
+
+8.1.1 Pilot-in-command responsibilities and authority (Ref. NCO.GEN.105)
+
+the pilot-in-command shall be responsible for:
+
+The safety of all passengers and cargo on board, as soon as he arrives on board, until he leaves the aircraft at he end of the flight;
+The operation and safety of the aircraft: for airplanes, from the moment it is first ready to move for the purpose of flight until the moment it comes to rest at the end of the flight and the engine(s) used as primary propulsion unit(s) is/are shut down;
+The initiation, continuation, termination or diversion of a flight in the interest of safety;
+Ensuring that all operational procedures and checklists are complied with. The pilot-in-command should use the latest checklists provided by the manufacturer. If checks conducted prior to take-off are suspended at any point, the pilot-in-command should re-start them from a safe point prior to the interruption;
+
+Only commencing a flight if he/she is satisfied that the following operational limitations are complied with:
+
+the aircraft is airworthy;
+the aircraft is duly registered;
+instruments and equipment required for the execution of that flight are installed in the aircraft and are operative, unless operation with inoperative equipment is permitted by the minimum equipment list (MEL) or equivalent document, if applicable, as provided for in NCO.IDE.A.105, NCO.IDE.H.105.
+the mass of the aircraft and the centre of gravity location are such that the flight can be conducted within limits prescribed in the airworthiness documentation;
+all equipment, baggage and cargo are properly loaded and secured and an emergency evacuation remains possible;
+the aircraft operating limitations as specified in the aircraft flight manual (AFM) will not be exceeded at any time during the flight;
+any navigational database required for PBN is suitable and current.
+
+Not commencing a flight if he is incapacitated from performing duties by any cause such as injury, sickness, fatigue or the effects of any psychoactive substance;
+
+Not continuing a flight beyond the nearest weather-permissible aerodrome or operating site when his/her capacity to perform duties is significantly reduced from causes such as fatigue, sickness or lack of oxygen;
+
+Deciding on acceptance of the aircraft with unserviceable equipment in accordance with the configuration deviation list (CDL) or minimum equipment list (MEL), as applicable; and
+
+Recording utilization data and all known or suspected defects in the aircraft at the termination of the flight, or series of flights, in the aircraft Trouble Report.
+
+The pilot-in-command shall ensure that during critical phases of flight or whenever deemed necessary in the interest of safety, all crew members are seated at their assigned stations and do not perform any activities other than those required for the safe operation of the aircraft.
+
+The pilot-in-command shall have the authority to refuse carriage of or disembark any person (student), baggage or cargo that may represent a potential hazard to the safety of the aircraft or its occupants.
+
+The pilot-in-command shall, as soon as possible, report to the appropriate air traffic services (ATS) unit any hazardous weather or flight conditions encountered that are likely to affect the safety of other aircraft.
+
+These reports should include any detail which may be pertinent to the safety of other aircraft.
+
+Such reports should be made whenever any of the following conditions are encountered or observed:
+
+severe turbulence;
+severe icing;
+severe mountain wave;
+thunderstorms, with or without hail, that are obscured, embedded, widespread or in squall lines;
+heavy dust storm or heavy sandstorm;
+volcanic ash cloud; and
+unusual and/or increasing volcanic activity or a volcanic eruption.
+
+When other meteorological conditions not listed above, e.g. wind shear, are encountered that, in the opinion of the pilot-in-command, may affect the safety or the efficiency of other aircraft operations, the pilot-in-command should advise the appropriate air traffic services (ATS) unit as soon as practicable.
+
+The pilot-in-command shall, in an emergency situation that requires immediate decision and action, take any action he considers necessary under the circumstances in accordance with 7.d of Annex IV to Regulation (EC) No 216/2008. In such cases he may deviate from rules, operational procedures and methods in the interest of safety. If required by the State in which the incident occurs, the pilot-in-command should submit a report on any such violation to the appropriate authority of such State; in that event, the pilot-in-command should also submit a copy of it to the competent authority. Such reports should be submitted as soon as possible and normally within 10 days.
+
+During flight, the pilot-in-command shall:
+
+Keep his safety belt fastened while at his/her station; and
+Remain at the controls of the aircraft at all times except if another pilot is taking the controls.
+
+The pilot-in-command shall submit a report of an act of unlawful interference without delay to the competent authority and shall inform the designated local authority.
+
+The pilot-in-command shall notify the nearest appropriate authority by the quickest available means of any accident involving the aircraft that results in serious injury or death of any person or substantial damage to the aircraft or property.
+
+8.1.2 Compliance with laws, regulations and procedures (Ref. NCO.GEN.110)
+
+The pilot-in-command shall comply with the laws, regulations and procedures of those States where operations are conducted.
+
+The pilot-in-command shall be familiar with the laws, regulations and procedures, pertinent to the performance of his duties, prescribed for the areas to be traversed, the aerodromes or operating sites to be used and the related air navigation facilities as referred to in 1.a of Annex IV to Regulation (EC) No 216/2008.
+
+8.2 Taxiing of Airplanes
+
+In accordance with NCO.GEN.115, EuroPilot Center Airplanes shall only be taxied on the movement area of an aerodrome if the person at the controls:
+
+is an appropriately qualified pilot; or
+has been designated by the operator and:
+
+is trained to taxi the airplane;
+is trained to use the radio telephone, if radio communications are required;
+has received instruction in respect of aerodrome layout, routes, signs, marking, lights, air traffic control (ATC) signals and instructions, phraseology and procedures; and
+is able to conform to the operational standards required for safe airplane movement at the aerodrome.
+
+Note 1: Taxiing should be treated as a safety-critical activity due to the risks related to the movement of the airplane and the potential for a catastrophic event on the ground.
+
+Note 2: Taxiing is a high-workload phase of flight that requires the full attention of the pilot-in-command.
+
+Note 3: The person designated by the operator to taxi an airplane should possess the following skills and knowledge:
+
+positioning of the airplane to ensure safety when starting engine;
+getting ATIS reports and taxi clearance, where applicable;
+interpretation of airfield markings/lights/signals/indicators;
+interpretation of airplane signals, where applicable;
+identification of suitable parking area;
+maintaining lookout and right-of-way rules and complying with ATC or marshaling instructions when applicable;
+avoidance of adverse effect of propeller slipstream or jet wash on other airplane, aerodrome facilities and personnel;
+inspection of taxi path when surface conditions are obscured;
+communication with others when controlling an airplane on the ground;
+interpretation of operational instructions;
+reporting of any problem that may occur while taxiing an airplane; and
+adapting the taxi speed in accordance with prevailing aerodrome, traffic, surface and weather conditions.
+
+8.3 Use of Portable Electronic Devices
+
+8.3.1 Definition of a Portable Electronic Device
+
+A Portable Electronic Device (PED) is defined as:
+
+Any kind of electronic device, typically but not limited to consumer electronics, brought on board the aircraft by crew members, passengers, or as part of the cargo and that are not included in the approved aircraft configuration.
+
+All equipment that is able to consume electrical energy falls under this definition.
+
+
+
+8.3.2 Restriction on use of Portable Electronic Devices during training operations
+
+In accordance with NCO.GEN.125, the pilot-in-command shall not permit any person to use a portable electronic device (PED) on board an aircraft that could adversely affect the performance of the aircraft’s systems and equipment.
+
+Precautions should also be taken to eliminate any fire hazard.
+
+
+
+8.3.3 Fire hazard of Portable Electronic Devices
+
+PED’s with lithium batteries are capable of ignition and subsequent explosion due to overheating. Overheating may be caused by shorting, rapid discharge or overcharging.
+
+Overheating results in thermal runaway, which is a chemical reaction within the battery causing the internal temperature and pressure to rise.
+
+This produces a fire that repeatedly flares up as each battery cell in turn ruptures and releases its contents.
+
+Fighting a fire that contains either disposable or rechargeable lithium battery cells requires:
+
+Extinguishment of the fire; and
+Cooling of the remaining cells to stop the thermal runaway.
+
+Water is the most effective coolant.
+
+Halon, Halon replacement and/or water fire extinguishers should be used for initial knockdown of these fires, followed by immediate dousing with water from any available source.
+
+Note: Do not use fire resistant burn bags to isolate burning lithium-type batteries. Transferring a burning appliance into a burn bag may be extremely hazardous.
+
+Do not move the device until you are certain the fire is extinguished and the device is cool.
+
+Apply the appropriate Cabin Fire Emergency procedures and land as soon as possible.
+
+
+
+8.3.4 Electronic Flight Bags – Hardware
+
+8.3.4.1 EFB viewable stowage
+When a viewable stowage device is used, the pilot-in-command should ensure that, if the EFB moves or is separated from its stowage, or if the viewable stowage is unsecured from the aircraft (as a result of turbulence, maneuvering, or other action), it will not jam flight controls, damage flight deck equipment, or injure any person on board.
+
+The viewable stowage device should not be positioned in such a way that it obstructs visual or physical access to aircraft controls and/or displays, flight crew ingress or egress, or external vision.
+
+The design of the viewable stowage device should allow the user easy access to any item of the EFB system, and notably to the EFB controls and a clear view of the EFB display while in use.
+
+
+
+8.3.4.2 Cables
+If cables are used to connect an EFB to an aircraft system, power source, or any other equipment:
+
+the cables should not hang loosely in a way that compromises task performance and safety;
+flight crew should be able to easily secure the cables out of the way during operations (e.g. by using cable tether straps); and
+the cables should be of sufficient length so that they do not obstruct the use of any movable device on the flight deck.
+
+
+
+8.3.5 Electronic Flight Bags – Functions
+
+8.3.5.1 Familiarisation
+The pilot-in-command should familiarize himself or herself with the use of the EFB hardware and its applications on the ground before using them in flight for the first time.
+
+This can be performed by using the FSTD, in conjunction with an emulated GPS signal from the FSTD.
+
+A user guide is be available for the pilot-in-command which can be found on the Software Developer’s website:
+
+https://support.garmin.com/support/manuals
+
+
+
+8.3.5.2 Preflight Check
+Before each flight, the pilot-in-command should perform the following checks to ensure the continued safe operation of the EFB during the flight:
+
+General check of the EFB operation by switching it ON and checking that the applications they intend to use in flight are adequately operative;
+Check of the remaining available battery power, if applicable, to ensure the availability of the EFB during the planned flight;
+Check of the version effectivity of the EFB databases, if applicable (e.g. for charts, performance calculation and weight and balance applications); and
+Check that an appropriate backup is available when a chart application or an application displaying aircraft checklists is used.
+
+
+
+8.3.5.3 Chart applications
+The navigation charts that are depicted should contain the necessary information in an appropriate format, to perform the operation safely.
+
+Consideration should be given to the size of the display to ensure legibility.
+
+
+
+8.3.5.4 Performance calculation and weight and balance functions or applications
+Prior to the first use of a performance calculation or weight and balance function or application, and following any update of the database supporting the function or the application, a check should be performed on the ground to verify that the output of the application corresponds with the data derived from the AFM (or other appropriate sources).
+
+Note: Compliance with this rule is accomplished by using the latest Garmin Pilot Aircraft Data File and E-Checklist File, which can be downloaded from the www.flightcircle.com website or other future source.
+
+This file has been verified for use by the EuroPilot Center Administration. For this reason, no editing of these files is allowed by the user.
+
+
+
+8.3.5.5 Airport moving map display (AMMD) application
+An AMMD application should not be used as a primary means of navigation for taxiing, but as a confirmation of outside visual references.
+
+
+
+8.3.5.6 Other functions
+If advanced functions on non-certified devices that display information related to the aircraft position in flight, navigation, surroundings in terms of e.g. terrain or traffic, or attitude are used, the pilot-in-command should be aware of the potential misleading or erroneous information displayed and should only use these functions as an advisory or supplementary means.
+
+Note: The approved avionics in the airplane are to be use for primary navigation. The EFB shall in no situation be used as a primary navigation aid but as an advisory or supplementary means only.
+
+8.4 ATS Flight Plan
+
+The pilot-in-command must ensure that an ATS Flight Plan is produced and filed when required under SERA.4001.
+
+Reference is made to the Aeronautical Information Publication (AIP), Part 2, Enroute, Chapter 1.1, requirements to submit a flight plan.
+
+
+
+8.5 Operational Flight Plan (OFP)
+
+The pilot-in-command must ensure that an Operational Flight Plan is produced for each VFR or IFR cross-country training flight.
+
+A cross-country flight is defined as a flight between a point of departure and a point of arrival following a pre-planned route, using standard navigation procedures (dead-reckoning, pilotage and/or radio navigation).
+
+Note:
+An Operational Flight Plan is not required for VFR or IFR training flights taking off and landing at the same aerodrome or operating site.
+
+The Operational Flight Plan contains at least the following:
+
+Aircraft registration
+Type and variant
+Date of flight
+Flight identification (Mission code assignment, e.g. 1-1-1)
+Names and duty assignments of students and/or instructor
+Place of departure
+Time of departure (actual off-block time, take-off time)
+Place of arrival (planned and actual)
+Time of arrival (actual landing and on-block time)
+Type of operation (e.g. training flight)
+Route and route segment with check-points/waypoints, distances, time and tracks
+Planned cruising speed and flying times between check-points/waypoints, estimated and actual times overhead
+Safe altitudes and minimum levels
+Planned altitudes and flight levels
+Fuel calculations (records of in-flight fuel checks)
+Fuel on board when starting the engine
+Alternates for destination, take-off and en-route, if applicable
+Initial ATS flight plan clearance and subsequent re-clearance
+In-flight re-planning calculations
+Relevant meteorological information
+
+Reference is made to OM Annex 01 – EuroPilot Center Operational Flight Plan.
+
+
+
+8.6 Carriage of passengers
+
+8.6.1 General
+
+Carriage of passengers is normally not allowed during training flights.
+
+However, to this rule the following exceptions apply:
+
+Other students may occupy a rear seat when an instructor occupies the Instructor Seat.
+An instructor may occupy a rear seat when supervising another instructor.
+A representative of the BCAA may occupy a rear seat for inspection purposes.
+A representative of an air carrier may occupy a rear seat for the purpose of evaluating the training.
+A representative of ATC may occupy a rear seat for the purpose of co-ordinating flight operations.
+
+Carriage of passengers during training flights other than mentioned above may be authorized by the Head of Training by means of a written approval.
+
+8.6.2 Seats and seatbelts (Ref. NCO.OP.150)
+
+In the event passengers are carried on board during a training flight, the pilot-in-command shall ensure that, prior to and during taxiing, take-off and landing, and whenever deemed necessary in the interest of safety, each passenger on board occupies a seat or berth and has his/her safety belt or restraint device properly secured.
+
+
+
+8.7 Information on emergency and survival equipment carried
+
+In accordance with NCO.GEN.130, except for aircraft taking-off and landing at the same aerodrome or operating site, EuroPilot Center shall at all times have available, for immediate communication to rescue coordination centers (RCCs), lists containing information on the emergency and survival equipment carried on board.
+
+Reference is made to Annex 37 – Emergency Equipment List.
+
+
+
+8.8 Aircraft documentation and retention of documents
+
+8.8.1 Documents required on board of the aircraft
+
+In accordance with NCO.GEN.135, the following documents, manuals and information are required on each flight and the pilot-in-command shall make available within a reasonable time of being requested to do so by the competent authority, the documentation required to be carried on board.
+
+DOCUMENTS REQUIRED BY – NCO.GEN.135
+	1.	The Aircraft Flight Manual (AFM), or equivalent document(s)
+	2.	The original certificate of registration *
+	3.	The original certificate of airworthiness (CofA) *
+	4.	The noise certificate, if applicable *
+	5.	The list of specific approvals, if applicable *
+	6.	The aircraft radio licence, if applicable *
+	7.	The third-party liability insurance certificate(s) *
+	8.	The journey log, or equivalent, for the aircraft *
+	9.	Details of the filed ATS flight plan, if applicable
+	10.	Current and suitable aeronautical charts for the route of the proposed flight and all routes along which it is reasonable to expect that the flight may be diverted
+	11.	Procedures and visual signals information for use by intercepting and intercepted aircraft
+	12.	The MEL or CDL, if applicable
+	13.	Any other documentation that may be pertinent to the flight or is required by the States concerned with the flight
+
+Reference is made to OM Annex 38 – Safety & Emergency Signals.
+
+Note 1:
+On flights intending to take off and land at the same aerodrome or operating site, or remaining within a distance or area determined by the BCAA, the documents marked with an * may be retained at the aerodrome or operating site.
+
+Note 2:
+In case of loss or theft of any of the above documents, the training operation may continue until the flight reaches the base or a place where a replacement document can be provided.
+
+Note 3:
+The above documents, including aeronautical charts, may be available in a form other than on printed paper. An electronic storage medium is acceptable if accessibility, usability and reliability can be assured.
+
+The Garmin G1000 system fulfills the requirement AMC1 NCO.GEN.135(a)(10) when the aeronautical navigation database is up to date. The topographical system data should be reasonably recent, having regard to the nature of the planned operation. Access to another electronic or paper chart is highly recommended but not required.
+
+8.8.2 Training documents and storage period
+
+All theoretical knowledge, flight and synthetic flight training conducted within EuroPilot Center shall be documented by means of the standard Evaluation Forms and Attendance Sheets, filled out and digitally signed by both the respective instructor and the student.
+
+All forms shall be filed in the Individual Student Training File on the E-gle Platform.
+
+All Individual Student Training Files will be stored on the E-gle Platform for a period of at least five (5) years.
+
+
+
+8.9 Transport of dangerous goods
+
+In accordance with NCO.GEN.140 regarding the transport of dangerous goods, the following paragraphs apply.
+
+8.9.1 Definition
+
+The ICAO defines dangerous goods as articles or substances which are capable of posing a risk to health, safety, property or the environment, and which are shown in the list of dangerous goods in the technical instructions or which are classified according to those instructions.
+
+Dangerous goods are classified into nine hazard classes:
+
+Class 1 – Explosives
+Class 2 – Gases
+Class 3 – Flammable liquids
+Class 4 – Flammable solids
+Class 5 – Oxidizing agents and organic peroxides
+Class 6 – Toxic and infectious substances
+Class 7 – Radioactive materials
+Class 8 – Corrosives
+Class 9 – Miscellaneous hazardous substances
+
+8.9.2 EuroPilot Center Dangerous Goods Policy
+
+While EuroPilot Center has no approval nor any intention to transport dangerous goods on purpose, students, flight instructors and passengers may not always be aware that certain items carried on board could be classified as dangerous goods.
+
+In order to create awareness and mitigate the risk of hidden dangerous goods on board training flights, instructors are encouraged to use the published IATA safety leaflets and brief students about forbidden items on board an aircraft.
+
+The pilot-in-command shall ensure that everyone on board has been provided with information about dangerous goods in accordance with the Technical Instructions.
+
+8.9.3 Dangerous goods accidents/incidents and reporting
+
+Any type of dangerous goods incident or accident, or the finding of forbidden dangerous goods in passenger or crew baggage, or on the person of a passenger or crew member, must be reported.
+
+The pilot-in-command shall:
+
+File an occurrence report (electronic filing through the EPC SMS System); and
+Ensure that the EuroPilot Center Safety Manager reports without delay and within 72 hours of the event to the BCAA and the appropriate authority of the State of occurrence, in the event of any dangerous goods accident or incident.
+
+9. SAFETY AND SECURITY
+
+9.1 Safety Measures and Procedures
+
+9.1.1 Visual look-out
+The general rule to maintain a visual look-out to avoid collision with other flying objects or obstacles shall be enforced during VFR flights, VFR portions enroute and visual circuits.
+
+Special attention must be paid to the traffic situation at or in the vicinity of a VFR aerodrome or an aerodrome with mixed VFR and IFR traffic.
+
+
+
+9.1.2 Use of safety belts
+The safety belt must be worn at all times by the student and/or instructor.
+
+
+
+9.1.3 Instructor Take Over
+In case of an Instructor Take Over, the following applies:
+
+Instructor:
+“MY CONTROLS”
+(Instructor takes over the controls)
+
+Student:
+“YOUR CONTROLS”
+(Student releases the controls)
+
+Instructor:
+“MY CONTROLS”
+(Instructor confirms he has the controls)
+
+In case the student wants to transfer the controls, the following applies:
+
+Student:
+“YOUR CONTROLS”
+(Student releases the controls)
+
+Instructor:
+“MY CONTROLS”
+(Instructor takes over the controls)
+
+Student:
+“YOUR CONTROLS”
+(Student confirms he has transferred the controls)
+
+
+
+9.1.4 Securing of aircraft
+Caution is required when taxiing into confined spaces close to hangars or other aircraft.
+
+Taxi lines should be followed and aircraft should be parked safely in order not to cause any hazards or obstruction to other aircraft or emergency vehicles on the manoeuvring area.
+
+Parked aircraft must be properly secured using chocks, tie-downs, control locks and pitot covers.
+
+Special attention must be paid during windy weather conditions.
+
+Tow bars shall never be left connected to the nose wheel unattended due to the risk of propeller strike.
+
+
+
+9.1.5 Fuel reserve
+No flights shall be conducted under any circumstances using any class or type of aircraft for EuroPilot Center flight operations unless a landing can be made at the intended airport of landing with a minimum of the reserve fuel stated in the Operations Manual, Part 3, Chapter 2.3.
+
+
+
+9.1.6 Collision avoidance
+The student and/or instructor must ensure:
+
+All windshields and side windows are clean and clear of obstructions.
+Selecting the correct flight altitudes.
+Applying the proper pattern entry procedure and subsequently flying the proper pattern.
+Remaining alert at all times in the air and on the ground and using the proper traffic scanning method.
+
+
+
+9.1.7 Other general flight safety rules
+The student and/or instructor must ensure:
+
+A proper pre-flight inspection has been carried out before each flight.
+All applicable checklists are used.
+Accurate knowledge of the aircraft fuel system, capacity and fuel consumption.
+
+
+
+9.1.8 Smoking on board (Ref. NCO.OP.155)
+Smoking is prohibited on board of any aircraft operated by EuroPilot Center.
+
+
+
+9.1.9 Refuelling (Ref. NCO.OP.145)
+The aircraft shall not be refuelled with aviation gasoline (AVGAS), wide-cut type fuel, or a mixture of these types of fuel with people on board.
+
+
+
+9.1.10 Ground Proximity Detection (Ref. NCO.OP.195)
+When undue proximity to the ground is detected by the pilot-in-command or by a ground proximity warning system, the pilot-in-command shall take corrective action immediately in order to establish safe flight conditions.
+
+
+
+9.1.11 Airborne Collision Avoidance System – ACAS II (Ref. NCO.OP.200)
+When ACAS II is used, operational procedures and training shall be in accordance with Regulation (EU) No 1332/2011.
+
+Note: Currently no aircraft are equipped with ACAS II.
+
+
+
+9.1.12 Ice and other contaminants
+Ground procedures (Ref. NCO.OP.165)
+The pilot-in-command shall only commence take-off if the aircraft is clear of any deposit that might adversely affect the performance or controllability of the aircraft, except as permitted in the AFM.
+
+Note:
+If there is any snow, ice or frost on the aircraft during pre-flight, the aircraft shall be made snow, ice and frost free before departing. In such event, the instructor must be informed immediately.
+
+Flight procedures (Ref. NCO.OP.170)
+The pilot-in-command shall only commence a flight or intentionally fly into expected or actual icing conditions if the aircraft is certified and equipped to cope with such conditions.
+
+If icing exceeds the intensity for which the aircraft is certified, or if an aircraft not certified for flight in known icing conditions encounters icing, the pilot-in-command shall exit the icing conditions without delay by a change of level and/or route and, if necessary, by declaring an emergency to ATC.
+
+
+
+9.1.13 Simulated situations in flight (Ref. NCO.OP.180)
+The pilot-in-command shall, when carrying passengers or cargo, not simulate:
+
+Situations that require the application of abnormal or emergency procedures; or
+Flight in instrument meteorological conditions (IMC).
+
+Note 1:
+The above does not apply to training flights with student pilots on board.
+
+Note 2:
+Intentional spin manoeuvres are only performed if the aircraft is spin approved and at all times with a supervising instructor on board.
+
+Note 3:
+No engine shall be shut down in a single-engine aircraft for simulated emergency exercises.
+
+
+
+9.2 FNPT II Simulator
+
+Before starting an FNPT II training session, the Flight Instructor or Synthetic Training Instructor in charge must ascertain that each person present in the Synthetic Training Device has been properly briefed regarding the position of the emergency stop switches, if present, and any means of evacuation available in case of emergency.
+
+All persons present in the Synthetic Training Device shall be properly secured by all safety belts and/or harnesses provided from the moment the motion starts until the simulator has come to a full stop.
+
+The total number of persons present in the simulator shall never exceed the number of seats available with safety belts.
+
+Smoking, consumption of food and/or drinks and the use of cell phones are not allowed in the simulator.
+
+Reference is made to OM Annex 02 – Synthetic Training Device Safety Briefing.
+
+
+
+9.3 Premises and Airport Apron
+
+9.3.1 Main Training Location – Antwerp, Belgium (EBAW)
+The EuroPilot Center premises comply with all applicable safety requirements and the following equipment is available:
+
+Emergency fluorescent lighting.
+Emergency exit signage.
+Emergency exits in accordance with the standard commercial building code.
+Emergency escape ladder on the first floor.
+Smoke detectors in all required areas.
+Two standard fire extinguishers.
+One CO2 fire extinguisher for FSTD use.
+First aid kits.
+
+9.3.2 Satellite Training Location – Thermal, California USA (KTRM)
+The EuroPilot Center premises comply with all applicable safety requirements and the following equipment is available:
+
+Emergency fluorescent lighting.
+Emergency exit signage.
+Emergency exits in accordance with the standard commercial building code.
+Smoke detectors in all required areas.
+Five fire extinguishers plus four fire extinguishers inside the hangars.
+One CO2 fire extinguisher for FSTD use.
+First aid kits.
+
+
+
+9.4 Reporting of occurrences, incidents and accidents
+
+9.4.1 Occurrence report system – general
+The occurrence report system is part of the Safety Management System used to report occurrences relating to flight safety.
+
+Reference is made to the Organization Management Manual, Part 3, Chapter 5.6.4.
+
+
+
+9.5 Procedure to be followed in case of incidents or accidents
+
+The procedure as described in the Organization Management Manual, Part 3, Chapter 5.8, shall be followed in case of accident or incident.
+
+
+
+9.6 Radio listening watch
+
+It is EuroPilot Center procedure to tune the COM 2 audio box of the aircraft on the International Emergency Frequency (121.500).
+
+Both instructor and student should maintain a listening watch at all times, if not disturbing for the training activity.
+
+
+
+9.7 Safety pilots
+
+Not applicable for training within EuroPilot Center.

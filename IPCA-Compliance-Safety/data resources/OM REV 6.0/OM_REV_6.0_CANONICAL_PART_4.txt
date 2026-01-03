@@ -1,0 +1,418 @@
+OPERATIONS MANUAL (OM) – REVISION 6.0
+
+Part 4 - Personnel Training
+
+0. OUTLINE
+
+1. RESPONSIBILITIES
+1.1 Accountable Manager
+1.2 Head of Training and his/her deputy
+1.3 Chief Flight Instructor
+1.4 Chief Theoretical Knowledge Instructor
+1.5 Chief Operations Officer
+
+2. INITIAL TRAINING
+2.1 Initial Training Plan
+
+3. REFRESHER TRAINING
+3.1 Refresher Courses
+
+4. STANDARDIZATION TRAINING
+4.1 Courses
+4.2 Standardisation Meetings
+
+5. PROFICIENCY CHECKS
+
+6. UPGRADE TRAINING
+
+7. PERSONNEL STANDARDS EVALUATION
+7.1 Training Feedback Forms
+7.2 Instructor Evaluation
+
+
+
+
+
+1. RESPONSIBILITIES
+
+1.1 Accountable Manager
+
+Accountable Manager
+It is the responsibility of the Accountable Manager to:
+Ensure that sufficient financial means are (made) available for accepting new staff members within the organization.
+Decide upon the actual selection criteria for Nominated Person positions in accordance with the Operations Manual, Part 1, Chapter 2:
+Head of Training and his/her deputy
+Chief Flight Instructor
+Chief Theoretical Knowledge Instructor
+Compliance Monitoring Manager
+Safety Manager
+Chief Operations Officer
+Decide upon the actual selection criteria for training staff in accordance with the Operations Manual, Part 1, Chapter 2:
+Theoretical Knowledge Instructors
+Flight Instructors
+Synthetic Training Instructors
+Decide upon the selection criteria for other personnel.
+Take the final decision in accepting Nominated Persons, training staff and other personnel within EuroPilot Center.
+
+
+
+1.2 Head of Training and his/her deputy
+
+Head of Training and his/her deputy
+It is the responsibility of the Head of Training and his/her deputy to:
+Ensure sufficient training staff is available at any time to conduct the Theoretical and Flight Training in accordance with the requirements of the Operations Manual.
+Assist upon the determination of the actual selection criteria in accordance with the Operations Manual, Part 1, Chapter 2:
+Chief Flight Instructor
+Chief Theoretical Knowledge Instructor
+Assists upon the determination of the actual selection criteria for training staff in accordance with the Operations Manual, Part 1, Chapter 2:
+Theoretical Knowledge Instructors
+Flight Instructors
+Synthetic Training Instructors
+Ensure standardization in the teaching methods of all training staff.
+Organize regular Standardization Meetings with the Chief Flight Instructor and Chief Theoretical Knowledge Instructor.
+Monitor and evaluate the Chief Flight Instructor on his:
+Teaching and Learning Skills;
+Currency of License, Ratings and Medicals;
+Application and knowledge of the Rules and Regulations;
+Application and knowledge of the Standard Operating Procedures;
+monitor and evaluate the Chief Theoretical Knowledge Instructor on his:
+Teaching and Learning Skills;
+Application and knowledge of the Rules and Regulations;
+Application and knowledge of the Standard Operating Procedures;
+Advise the Accountable Manager on accepting training staff.
+
+
+
+1.3 Chief Flight Instructor
+
+Chief Flight Instructor
+It is the responsibility of the Chief Flight Instructor to:
+Organize Standardization Meetings with all Flight Instructors (at least once/year);
+Ensure all Flight Instructors and Synthetic Training Instructors receive proper Initial Standardization Training;
+Ensure all Flight Instructors and Synthetic Training Instructors receive proper Recurrent Standardization Training;
+Ensure all Flight Instructors and Synthetic Training Instructors are evaluated yearly on their:
+Teaching and Learning Skills;
+Currency of License, Ratings and Medicals;
+Application and knowledge of the Rules and Regulations;
+Application and knowledge of the Standard Operating Procedures;
+Advise the Head of Training on accepting training staff.
+
+
+
+1.4 Chief Theoretical Knowledge Instructor
+
+Chief Theoretical Knowledge Instructor
+It is the responsibility of the Chief Theoretical Knowledge Instructor to:
+Organise Standardization Meetings with all Theoretical Knowledge Instructors (at least once/year);
+Ensure all Theoretical Knowledge Instructors receive proper Initial Standardization Training;
+ensure all Theoretical Knowledge Instructors receive proper Recurrent Standardization Training;
+ensure all Theoretical Knowledge Instructors are evaluated yearly on their:
+Teaching and Learning Skills;
+Application of the Rules and Regulations;
+Application of the Standard Operating Procedures;
+Advise the Head of Training on accepting training staff.
+
+
+
+1.5 Chief Operations Officer
+
+Chief Operations Officer
+It is the responsibility of the Chief Operations Officer to:
+Upon request of the Accountable Manager, publish any vacant Nominated Person, training staff, Operations Officer or any other position within EuroPilot Center;
+Invite and organize the intake conversation with candidate Nominated Persons, Operations Officer, training staff etc;
+Advise the Accountable Manager on accepting a candidate;
+Schedule, upon request of the Head of Training, Chief Flight Instructor or Chief Theoretical Knowledge Instructor, Initial or Recurrent Training for all training staff.
+
+2. INITIAL TRAINING
+
+2.1 Initial Training Plan
+
+2.1.1 Aim of the course
+This course is intended for Flight Instructors not having performed an initial Flight Instructor, Instrument Rating Instructor or Class Rating Instructor Course with EuroPilot Center and Theoretical Knowledge Instructor. The course will consist of:
+The Company Standardization Courses (as required, described under Chapter 4);
+
+An Initial Training Course Certificate signed by the new Flight/Theoretical Knowledge Instructor and countersigned by the Head of Training or his/her Deputy, will be issued at the end of this course.
+
+The Initial Training Course Certificate must be sent to the BCAA, together with:
+The BCAA Instructor Application form; and
+The Instructor CV.
+
+These documents will be saved in the Online E-Gle system for future reference.
+
+Note: Flight Instructors having received the initial Flight Instructor, Instrument Rating Instructor or Class Rating Instructor Training with EuroPilot Center, are exempted from the Initial Training Course above. They will automatically receive an Initial Training Course Certificate after having successfully completed the Flight Instructor, Instrument Rating Instructor or Class Rating Instructor Training.
+
+We refer to OM Annex 15: Initial Training Course Certificate
+
+
+
+2.1.2 Training Plan
+We refer to the Standardization Courses described under Chapter 4.
+
+3. REFRESHER TRAINING
+
+3.1 Refresher Courses
+
+3.1.1 Aim of the course
+A refresher course will be organized each year during the months of January & February for every Flight- and Theoretical Knowledge Instructor individually; or at any time:
+After the absence of an Instructor for 12 months or more;
+A major update of any Training Manual;
+A major update of Standard Operating Procedures;
+Introduction of new/updated regulations;
+Introduction of a new type of aircraft.
+
+We refer to the Proficiency Forms on the E-Gle Online System.
+
+
+
+3.1.2 Training Plan
+We refer to the Standardization Courses described under Chapter 4.
+
+
+
+3.1.3 Instructor Bulletins
+Instructor Bulletins are drafted by the Head of Training and/or his Deputy, may be urgent in nature and do not require the need to organize a refresher course.
+
+The Instructor Bulletins are distributed via e-mail to all Flight and Theoretical Knowledge Instructors.
+
+Note: Our CRM system is able to track if the Instructor has opened the document and adds a time-stamp in the system.
+
+4. STANDARDIZATION TRAINING
+
+4.1 Courses
+
+The EuroPilot Center Standardization Training consists of a series of individual courses described in this chapter. They can be either part of the:
+Initial Standardization; (as described under Chapter 2) or
+A Refresher Standardization (as described under Chapter 3).
+
+The following table indicates which individual courses a Flight or Theoretical Knowledge Instructor should take, depending on his/her Instructional activities within the ATO.
+
+INITIAL / REFRESHER STANDARDIZATION TRAINING
+
+REFER TO THE Initial_Refresher_Standardization_Matrix.csv
+
+We refer to the Electronic Forms available on the E-Gle Online System.
+
+
+4.1.1 Company Course
+The aim of the Company Standardization course is to familiarize the Instructor with the operational procedures described in the following Manuals:
+Operations Manual Part 1, 2, 3 and 4;
+OMM Part 2 – Compliance Monitoring Management; and
+OMM Part 3 – Safety Management.
+
+Duration: N.A.
+Course Method: Self-Study
+
+Study Materials:
+PDF copy of the relevant manuals (OM, OMM)
+
+Knowledge Test:
+The initial and refresher test will contain a questionnaire of 30 multiple choice questions.
+A passmark of 75% is applicable and the questions missed should be discussed during a debriefing.
+
+
+
+4.1.2 IT & Facilities Course
+The aim of the IT & Facilities Standardization course is to familiarize the the Instructor with the IT infrastructure, training aids, EuroPilot Center premises and facilities.
+
+Duration: Initial Course (1h00)
+Refresher course: Not Applicable
+
+Course Method: Briefing
+
+Study Materials: N.A.
+
+Knowledge Test: N.A.
+
+The IT Manager, Ops Officers or Facility Manager will provide a briefing of 1h.
+
+
+
+4.1.3 Garmin G1000 Course
+The aim of the G1000 course is to familiarize the Instructor with the Garmin G1000 Avionics Suite.
+
+Duration: N.A.
+
+Course Method: Self-Study
+
+Study Materials:
+Garmin G1000 Operating Manual
+Garmin G1000 Cockpit Reference Guide C172SP FNPT
+
+Knowledge Test: N.A.
+
+A passmark of 75% is applicable and the questions missed should be discussed during a debriefing.
+
+
+
+4.1.4 Aircraft SOP Course
+The aim of the Aircraft SOP Standardization course is to familiarize the Instructor with the relevant Standard Operating Procedures of the training aircraft to be used.
+
+Duration: N.A.
+
+Course Method: Self-Study
+
+Study Materials:
+OM Annex 07 (for the C172SP)
+OM Annex 08 (for the R44)
+TM Annex 09 (for the DA42)
+
+Knowledge Test:
+The Initial and refresher test will contain 20 multiple choice questions.
+A passmark of 75% is applicable and the questions missed should be discussed during a debriefing.
+
+4.1.5 Training Manual Course
+The aim of the Training Manual Standardization Course is to familiarize the Instructor with the course syllabus used for the course he/she will teach.
+
+Duration: N.A.
+
+Course Method: Self-Study
+
+Study Materials:
+Relevant Training Manual for the course
+Briefing and Air Exercises relevant for the course
+
+Knowledge Test:
+For the Initial Course, a 1h oral quiz/discussion with the (Deputy) Head of Training, Chief Theoretical Knowledge Instructor or Chief Flight Instructor or any of his/her delegated Flight or Theoretical Knowledge Instructors is required.
+
+Refresher course: Not Applicable
+
+The assessor should verify if the Instructor possesses sound knowledge of the training syllabus, the standardized teaching methods required to execute the described (Long) Briefings, FSTD scenario’s, Aircraft Scenario’s and Progress Tests.
+
+
+
+4.1.6 FSTD Operations Course
+The aim of the FSTD Standardization Course is to familiarize the Instructor with the FSTD, Safety Procedures, Loading Training Scenarios and using the the Instructor Station as well as minor troubleshooting.
+
+Duration: Initial course (1h00)
+
+Refresher course: Not Applicable
+
+Course Method: Simulator Assisted Briefing
+
+Study Materials:
+OM Annex 02 (FSTD Safety Briefing)
+FSTD Operating Handbook
+
+Knowledge Test: N.A.
+
+A Flight Instructor appointed by the (Deputy) Head of Training will provide a briefing of 1h.
+
+
+
+4.1.7 Practical Training
+The aim of the Practical Training Standardization Course is to apply the Standard Operating Procedures into a practical teaching environment and to familiarize with the Aircraft/FSTD used.
+
+The (Deputy) Head of Training / Chief Flight Instructor shall determine the duration of the Initial training program, based upon the individual experience of the Instructor, with a minimum of no less than:
+1h training in the FSTD (if an FSTD is available); and
+1h in the Aircraft.
+
+The (Deputy) Head of Training / Chief Flight Instructor shall determine the duration of the Refresher training program, based upon the individual experience of the Instructor, with a minimum of no less than:
+1h training in the FSTD (if an FSTD is available); or
+1h in the Aircraft.
+
+The exercises of the training session will be allocated by the (Deputy) Head of Training / Chief Flight Instructor and should be based on the Briefing and Air Exercises of the course to be taught with the focus on Safety, Standard Operating Procedures and Teaching Methods.
+
+
+
+4.1.8 KSA.100 Training
+The aim of the EuroPilot Center KSA.100 Training Course is to ensure that:
+
+All Theoretical Knowledge Instructors and Flight Instructors, delivering Area 100 KSA (Knowledge, Skills, Attitudes) instruction, are proficient in accordance with AMC2.ORA.ATO.230(a)(c), including:
+Learning styles;
+Teaching methods;
+Facilitation techniques;
+Threat and error management (TEM);
+The applicable competencies; and
+The content of the subject(s) and exercises that they are to deliver.
+
+All Theoretical Knowledge Instructors and Flight Instructors assessing Area 100 KSA (Knowledge, Skills, Attitudes), are proficient in accordance with AMC2.ORA.ATO.230(a)(e) on how to conduct these assessment(s) in a standardized fashion, whereby assessment grades awarded are consistent across EuroPilot Center.
+
+Note: Since EuroPilot Center ATO has designed a proprietary algorithm and unique methodology, ensuring 100% objectivity of the evaluator(s), this standardization is guaranteed.
+
+Standardisation includes:
+Familiarization with the KSA.100 performance indicators (PI’s);
+Word pictures for grading; and
+The E-gle grading and debriefing system.
+
+After having successfully completed the Initial KSA.100 Training Course, the Instructor is proficient in both delivering KSA.100 training (“Formative”) AND assessing (“Summative”) of the approved training courses within EuroPilot Center, during a period of 1 year.
+
+Recurrent KSA.100 Training is required each year as per AMC2.ORA.ATO.230(a)(d) and (f).
+
+Duration: Initial course (8h00):
+4 Hours: Interactive Video Lesson
+2 Hours: Directed Study
+1 Hour: Knowledge Test
+1 Hour: Briefing and training on the FSTD
+
+Refresher course (5h00):
+2 Hours: Interactive Video Lesson (review)
+1 Hour: Directed Study (review)
+1 Hour: Knowledge Test (recurrent)
+1 Hour: Briefing and training on the FSTD
+
+Course Method:
+Interactive Video Lessons
+Directed Study
+Simulator Assisted Briefing on the FSTD
+
+Study Materials:
+IPCA, KSA.100 IVL Video Course
+IPCA, KSA.100 iBook for iPad
+The EPC TM Gen
+The EPC TM for the ATPL(A) – If applicable
+The EPC TM for the APS/MCC – If applicable
+
+Knowledge Test:
+The Initial and refresher test will contain 20 multiple choice questions.
+A passmark of 75% is applicable and the questions missed should be discussed during a debriefing.
+
+We refer to OM Annex 16 – KSA.100 Training Course
+
+
+
+4.2 Standardisation Meetings
+
+A yearly Standardization Meeting will be organized by the Accountable Manager and (Deputy) Head of Training for all training staff whereby common errors/problems will be discussed.
+
+These meeting shall take place via the Online Webinar System of EuroPilot Center and will be recorded for future reference.
+
+
+
+5. PROFICIENCY CHECKS
+
+For the purpose of training staff checking, the following Proficiency Checks will be performed once a year:
+Company Refresher – Multiple Choice Questionnaire (30 questions)
+Aircraft SOP Refresher – Multiple Choice Questionnaire (20 questions)
+Practical Training Refresher – 1h training in the FSTD or in the Aircraft
+KSA.100 Training Refresher – Multiple Choice Questionnaire (20 questions) + 1h training in the FSTD
+
+We refer to the Proficiency Forms on the E-Gle Online System.
+
+6. UPGRADE TRAINING
+
+Not applicable within EuroPilot Center.
+
+
+
+7. PERSONNEL STANDARDS EVALUATION
+
+7.1 Training Feedback Forms
+
+As a means of improving the quality of EuroPilot Center training courses, students are requested to file Training Feedback Forms for Theory, Synthetic or Flight Training sessions. The Chief Operations Officer will be responsible for collecting the forms and store them at a secure location within the EuroPilot premises.
+
+We refer to OM Annex 22: Training Feedback Form.
+
+
+
+7.2 Instructor Evaluation
+
+The Head of Training is responsible for organizing a yearly individual Instructor evaluation. The evaluation shall be based on:
+The Proficiency Check results;
+Homestudy Progress Check results;
+The Training Feedback Forms;
+Occurence Reports.
+
+A digital Instructor Evaluation Report will be produced and discussed during the individual Instructor Evaluation.
+
+We refer to OM Annex 23: Instructor Evaluation Report.
+

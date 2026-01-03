@@ -1,0 +1,678 @@
+mccf_id,excerpt_id,authority,regulation_ref,manual_type,manual_part,item_no,sub_item_no,subject,requirement_text,manual_section_ref,applicable,remarks,finding_ref
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,1,1,Title page,Title of the manual,Header,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,1,2,Title page,A unique reference of the manual,Header,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,1,3,Title page,Date of revision,0.1 List of effective pages,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,1,4,Title page,"Revision number. The first issue shall be notified as “Original” or 1.0. The following revision shall be notified as “2.0,3.0,…”.",0.1 List of effective pages,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,1,5,Title page,Copy number,0.4 Distribution List,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,2,1,Approval page,The approval page must be signed by the Accountable Manager (AM) and the Compliance Monitoring Manager (CMM).  ,0.1 List of effective pages,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,3,1,Distribution list,Gives a cross reference of who is in possession of which copy number of the manual.,0.4 Distribution List,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,4,1,Record of revision,"Gives all the revisions issued for this manual, their revision date and an abstract of the changes performed for each revision.",0.3 Amendment List,Yes,"Updated, Revision 4 added including a detail of all changes.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,5,1,Revision Procedure,The procedure to follow to revise this manual.,0.2 Revision System,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,5,2,Revision Procedure,By who and how amendment can be proposed.,0.2 Revision System,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,5,3,Revision Procedure,Who is in charge to include the revision in the manual when it has been approved by the BCAA.,0.2 Revision System,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,6,1,Temporary revisions,What is the procedure to implement a temporary revision.,N/A,No,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,6,2,Temporary revisions,By who and how a temporary revision can be proposed.,N/A,No,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 0,7,1,Record of temporary revisions,"Gives all the temporary revisions issued for this manual, their issue date and an abstract of the changes implemented by the temporary revision.
+This page must be signed by the compliance monitoring manager.",N/A,No,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,8,1,"General Information
+ORA.GEN.105",Name of the ATO,"Part 1, Chapter 1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,8,2,"General Information
+ORA.GEN.105","Principle place of business (trading address):
+Address;
+Phone;
+Fax;
+General email address.","Part 1, Chapter 1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,8,3,"General Information
+ORA.GEN.105","Alternate place(s) of business:
+Address;
+Phone;
+Fax;
+General email address;
+Name of the site manager.
+The BCAA shall have access to any alternate place of business of the ATO.
+If abroad, the travel expenses shall be covered to the ATO as defined in the BCAA travel policy.","Part 1, Chapter 1",Yes,"Updated with additional information on the location of the Hangars. (No new address).
+Also added an additional phone number. Site manager is described as the Deputy HT, Mr. Jasper De Hertog.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,9,1,Legal status of the organisation,Name of the legal entity detaining the ATO certificate.,"Part 1, Chapter 1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,9,2,Legal status of the organisation,"Legal status (SA/NV, SPRL/BVBA, ASBL/VZW,…).","Part 1, Chapter 2, OMM Annexes 12 and 13",Yes,Added details on resignation of Manager + reference made to OMM Annex 25 – Manager Resignation.,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,9,3,Legal status of the organisation,BCE/KBO number.,"Part 1, Chapter 2, OMM Annexes 12 and 13",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,9,4,Legal status of the organisation,Address of the legal entity.,Chapter 1,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,10,1,"Training courses offered.
+ORA.GEN.125",List all the training courses offered by the organisation (theoretical and practical). The ATO shall notify the BCAA by email on BCAA.ATO@mobilit.fgov.be when a course will begin and the name of the candidates enrolled in the course.,"Part 1, Chapter 3 ",Yes,Updated the list in accordance with the current ATO Approvals. Corrected the naming of the courses in order to be identical to the ATO Certificate.,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,11,1,"Organisation chart.
+ORA.GEN.200","An organisation chart providing the relationships between the nominated persons (AM, HT, CFI, CTKI, CMM and SM) their assistants/deputies, the compliance auditors and the rest of the staff.","Part 1, Chapter 4",Yes,"Reference made to OM Part 1, chapter 2.1.3 (which refers to Annex 35 – Organogram, UPDATED)",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,1,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Accountable manager. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,2,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Head of Training. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,3,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Chief Flight Instructor. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,4,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Chief theoretical knowledge Instructor. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,5,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Safety manager. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,12,6,"Management Staff.
+ORA.GEN.210
+ORA.ATO.210","Compliance monitoring manager. Provide the following information for each ATO nominated persons:
+Contact information (Name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities. 
+See the BCAA procedure “Accept a nominated person of an ATO – LA/L-TRA/0152” for further information on nominated person approval.
+Define also their responsibilities or give the reference of OM item 10.
+See document L-TRA/0152-71 for the minimum applicable responsibilities of each nominated persons.","Ref. OM Part 1, Chapter 2.1.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,13,1,"Instruction staff.
+ORA.GEN.210
+ORA.ATO.210","Theoretical knowledge instructors:
+Name, surname;
+Assigned ground training courses;
+Assigned branches;
+Full time/part time.
+Refer to the BCAA procedure “Modify a FI/TKI list – LA/L-TRA/0153” for further information. The theoretical knowledge instructors list should ideally be presented as a table and put in annex of the OMM (i.e. Annex A: TKI list) so it can be modified without affecting the manual revision. The table should be based on the official BCAA document “ATO FI List – DOC/L-TRA-0153-52E”.","Part 1, Chapter 6 with references to OMM Annex 15 – TKI’s.
+Also includes reference to OMM Chapter 16, changes not requiring prior approval procedure.",Yes,"Annex 15 – TKI’s has been updated.
+
+Also the procedure under Part 1, Chapter 16 has been updated in accordance with the actual regulations.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,13,2,"Instruction staff.
+ORA.GEN.210
+ORA.ATO.210","Flight instructors:
+Name, Surname;
+Licence number;
+Ratings / Authorisations;
+Assigned flight training courses;
+Full time/part time.
+Refer to the BCAA procedure “Modify a FI/TKI list  – LA/L-TRA/0153” for further information. The flight instructors list should ideally be presented as a table and put in annex of the OMM (i.e. Annex B: FI list) so it can be modified without affecting the manual revision. The table should be based on the official BCAA document “ATO TKI List – DOC/L-TRA-0153-51E”.","Part 1, Chapter 6 with references to OMM Annex 16, Flight Instructors.
+Also includes reference to OMM Chapter 16, changes not requiring prior approval procedure.",Yes,"Annex 16 – Flight Instructors has been updated.
+
+Also the procedure under Part 1, Chapter 16 has been updated in accordance with the actual regulations.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,14,1,"Administrative staff.
+ORA.GEN.210","Name, Surname
+Function and function description.
+Full time/part time","Part 1, Chapter 7 with reference to OMM Annex 17, Administrative Staff",Yes,"Annex updated, no admin staff, however, based on workload analysis, in the process of hiring a Chief Operations Officer.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,15,1,"Aerodrome(s)/Operating site(s) to be used.
+ORA.ATO.140
+","List all the aerodromes that will be used for the training and for which type of training (Airwork, stalls and spins, T/G, night T/G, SID, ILS, holdings, hovering, slope landing, confined area, …) and how it complies with requirements laid down in AMC1 ORA.ATO.140.","Part 1, Chapter 8, Reference made to the OM Part 3, Training Areas and the Applicable TN for that particular Course. ",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,15,2,"Aerodrome(s)/Operating site(s) to be used.
+ORA.ATO.140
+",ATC or any other acceptable means of air to ground communication available.,"Part 1, Chapter 8, Reference made to the OM Part 3, Training Areas and the Applicable TN for that particular Course. ",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,15,3,"Aerodrome(s)/Operating site(s) to be used.
+ORA.ATO.140
+","Describe facilities of each aerodrome (VOR, DME, ILS, ATC, Night flying) or refer to the concerned AIP.","Part 1, Chapter 8, Reference made to the OM Part 3, Training Areas and the Applicable TN for that particular Course. ",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,1,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Operations room with facilities to control flying operations.",,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,2,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215): Flight planning room with the following facilities:
+Appropriate current maps and charts;","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,3,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Current aeronautical information service (AIS) information ;","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,4,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Current meteorological information;","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,5,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Communications to ATC and the operations room;","Part 1, Chapter 9, Annexes 18 and 19",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,6,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Any other flight safety related material.","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,7,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Adequate briefing rooms/cubicles of sufficient size and number.","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,8,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Suitable offices for the supervisory staff and rooms to allow flying instructors  to write reports on student, complete records and other related documentation","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,16,9,"Flight operations accommodation.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements (See AMC1 ORA.GEN.215 and AMC2 ORA.GEN.215):Furnished crew rooms for instructors and students.","Part 1, Chapter 9, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,17,1,"Theoretical instruction facilities.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements:Adequate classroom accommodation for the current student population.","Part 1, Chapter 10, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,17,2,"Theoretical instruction facilities.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements:Suitable demonstration equipment to support the theoretical knowledge instruction.","Part 1, Chapter 10, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,17,3,"Theoretical instruction facilities.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements:An R/T training and testing facility.","Part 1, Chapter 10, Annexes 18 and 19 (use of FSTD/AATD)",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,17,4,"Theoretical instruction facilities.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements:A reference library containing publication giving coverage of the syllabus.","Part 1, Chapter 10, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,17,5,"Theoretical instruction facilities.
+ORA.GEN.215","Per training site, provide a plan of the premises and describe the means to fulfil the following requirements: Offices for the instructional staff.","Part 1, Chapter 10, Annexes 18 and 19",Yes,Updated OMM Annex 18 and 19,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,18,1,"Description of training devices (as applicable).
+ORA.ATO.135","List all FSTD that will be used by the ATO and for which courses.
+Type of FSTD (FFS, FNPT I/II, BITD, etc…);
+FSTD identification;
+Aircraft simulated including engine fits;
+Location;
+Operator.
+Refer to the BCAA procedure “Modify ATO FSTD List – LA/L-TRA/0155” for further information. 
+The FSTD list should ideally be presented as a table and put in annex of the OMM (i.e. Annex C: FSTD list) so it can be modified without affecting the manual revision. The table should be based on the official BCAA document “ATO FSTD List – DOC/L-TRA-0155-51E”.","Part 1, Chapter 11, Annex 20 – EPC FSTD’s
+
+Reference made to the procedure.",Yes,"Updated Annex 20, showing all FSTD’s in use at EPC, Antwerp.
+
+",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,18,2,"Description of training devices (as applicable).
+ORA.ATO.135","Difference list between the FSTDs and aircrafts used in the ATO or the reference of the document providing that information.
+The aircraft list should ideally be presented as a table and put in annex of the OMM (i.e. Annex D: A/C list) so it can be modified without affecting the manual revision. The table should be based on the official BCAA document “ATO Aircraft List – DOC/L-TRA-0154-51E”.","Reference is made to OMM Annex 24a (Difference List BE FNPT-014), OMM Annex 24b (Difference List BE FNPT-024) and OMM Annex  24c (Difference List BE FNPT-028)",Yes,"Annex 24a, b and c updated and signed.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,19,1,"Description of aircraft.
+ORA.ATO.135","List all the aircrafts that will be used by the ATO and for which courses.
+Class/type(s) of aircraft;
+Registration of aircraft;
+IFR equipped;
+Night flying equipped.
+Refer to the BCAA procedure “Modify ATO Aircraft List – LA/L-TRA/0154” for further information. ","Part 1, Chapter 12, reference is made to OMM Annex 21 and the procedure OMM Chapter 16, changes not requiring prior approval of the BCAA.",Yes,"OMM Annex 21 – Updated with the N641TH as per finding.
+
+Also the procedure under Part 1, Chapter 16 has been updated in accordance with the actual regulations. ",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,20,1,Didactical material.,List of the reference manuals used for the training or provide a reference of the document mentioning that information. That information could be specified in each training manual. ,"Part 1, Chapter 13, reference is made to each applicable Training Course.",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,20,2,Didactical material.,List and describe the computerized theoretical knowledge tools or provide a reference of the document mentioning that information. That information could be specified in each training manual.,"Part 1, Chapter 13, reference is made to each applicable Training Course.",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,21,1,"Contracted training.
+ORA.GEN.205","Provide a list of the training or activity done by a third party. The contract/agreement between the ATO and the third party should be made available to the BCAA.
+Specify if the third party is certified to do such training or if it will work under the approval of the ATO.  (See AMC1 ORA.GEN.205 and GM1 ORA.GEN.205).","Part 1, Chapter 14 describes the procedure in depth on how contracted activities should be handled.",Yes,"A detailed procedure, as a result of the Audit Finding has been described on how a Management of Change Procedure should be triggered when considering a “change request for subcontracted activities”. Reference is also made in the notes on how subcontracted activities (if any) in the USA should be handled by the AM and CMM.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,22,1,"Access.
+ORA.GEN.140",Define who has access to the ATO premises and to which part of the building.,"Part 1, Chapter 15.",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 1,22,2,"Access.
+ORA.GEN.140","What are the means to prevent unwanted violation of critical part of the ATO (i.e. aircraft hangar, maintenance, student folders, etc).","Part 1, Chapter 15.",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,23,1,"Compliance monitoring manager.
+ORA.GEN.200(a)(6)
+ORA.GEN.210",Who is the compliance monitoring manager.,"Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,"OM Annex 35 – Organogram, UPDATED
+
+Note: CMM Training Certificates provided to the BCAA on 5/1/23.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,23,2,"Compliance monitoring manager.
+ORA.GEN.200(a)(6)
+ORA.GEN.210","What are his/her responsibilities. CMM must verify that standards are met and ensure that the compliance monitoring programme is established, implemented and maintained.
+If the posts of CMM and AM are combined, provide the proof on how the independence of compliance audits will be assured.","Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,23,3,"Compliance monitoring manager.
+ORA.GEN.200(a)(6)
+ORA.GEN.210",Compliance policy statement. The compliance policy statement shall be signed by the accountable manager.,"Part 2, Chapter 1",Yes,Policy updated and signed by the new AM.,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,24,1,"Compliance monitoring auditors (internal, external).
+ORA.GEN.210",Define a list of the necessary internal or external auditors that have the privileges to perform compliance monitoring audits within the ATO.,"Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,"OM Annex 35 – Organogram, UPDATED
+
+In addition, OMM Annex 23 has been updated.
+",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,24,2,"Compliance monitoring auditors (internal, external).
+ORA.GEN.210",How will the ATO assess their independence towards the areas they will be appointed to.,"Part 2, Chapter 3.2 (bullet point item 3) and
+Part 2, Chapter 5.2, subchapter 5.2.1 + 5.2.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,25,1,Compliance monitoring programme.,"Define the compliance monitoring programme for at least the following domains and their support documents:
+Facilities;
+Flight training;
+Theoretical knowledge training;
+Compliance with OSD, if applicable
+Technical standards;
+Training procedures;
+Flight safety;
+Flight and duty time limitations, rest requirements and scheduling;
+Aircraft maintenance/operations interface;
+Subcontracted activities;
+FSTD specifications adequacy to the related programmes;
+FSTD compliance towards CS-FSTD;
+FSTD changes monitoring.
+The compliance monitoring programme must check the scope of the ATO in full.","Part 2, Chapter 4.2 Inspection Scopes",Yes,"Updated scope, added an additional item: Regulatory Changes (based on the Audit Finding), including a new column outlining which scope is applicable to which location (e.g US Satellite) and the frequency: e.g Regulatory Changes are verified on a Monthly Basis through a very detailed procedure, described in two new OMM Annexes:
+OMM Annex 26 – Regulatory Changes Notification and;
+OMM Annex 27 – Regulatory Changes Checklist",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,26,1,Compliance monitoring planning.,"Define the compliance monitoring planning on a specific time basis or give the reference to the document/software providing that information. The planning must show when each domain of the compliance monitoring programme will be audited.
+All domains must be audited within a 12 months period.","Part 2, Chapter 4.2 Inspection Scopes and also refer to OMM Annex 01 – Audit Plan",Yes,"Updated OMM Annex 1 – Audit Plan with:
+Item 11. Regulatory Changes.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,26,2,Compliance monitoring planning.,"Management evaluations/reviews:
+Planning of those management evaluations;
+Who must attend those management evaluations;
+Forms on which those management evaluations are reported.","Part 2, Chapter 9 – Management Evaluation",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,27,1,Audit procedures.,"Define or give the reference of the audit procedure. The procedure must define how an auditor must perform an audit and the forms to be used to record the audit.
+Define the different levels of findings and the actions that must be undertaken.","Part 2, Chapter 5 Compliance Monitoring Audits and 5.1 Audit Procedure",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,28,1,Reporting procedures.,"Define or give the reference of the reporting procedures. The procedure must define how the audit report must be made (i.e. review of the report by the CMM), who will communicate the audit result, on which form.
+It must also specified the classification system  of non-conformities.","Part 2, Chapter 5, Subchapter 5.1.3 - Reporting",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,29,1,"Follow up and corrective action procedures – Findings.
+ORA.GEN.150","Define or give the reference of the follow up and corrective action procedure.
+This procedure must be able to handle internal (ATO CMS findings) and external findings (any findings made by a third party).
+This procedure must address the following:
+Identification of corrective action;
+Person responsible for rectification;
+Feedback system to the accountable manager providing an independent assessment of corrective action, implementation and completion;
+Monitoring of corrective action programme;
+Ensuring that the corrective action contain the necessary elements;
+Evaluation of the effectiveness of the corrective action programme;
+Reporting of significant non-compliances to the competent authority.
+This process must answer to at least the following questions:
+How corrective action plan are decided, by who;
+Who is in charge to implement the corrective action;
+Who will assess the effective implementation of the corrective action;
+Who will evaluate if the corrective action has solved the non-conformity.","Part 2, Chapter 5:
+Subchapter 5.1.3 Reporting and 5.1.4 Follow Up of Corrective Actions",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,30,1,"Recording system.
+ORA.GEN.220","How and on which form the compliance monitoring process will be recorded and stored.
+Who has access to it.
+This can be any audit software or a simple Excel sheet providing the necessary information.
+The records of the compliance monitoring programme shall be:
+Accurate;
+Complete;
+Readily accessible.","Part 2, Chapter 11.",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,31,1,"Training on compliance monitoring system
+ORA.GEN.210
+ORA.GEN.200(a)(4)","Compliance auditors
+Define the training that the compliance auditors must perform before being allowed to audit part of the scope of the ATO.
+When such training must be performed (initial training, recurrent training, refresher training).
+The training of compliance auditor must cover at least the following topics:
+Compliance monitoring system procedures;
+ATO manuals and document control procedures;
+ATO OMM and OM procedures;
+Audit techniques, code of conduct of the compliance auditor (if needed);
+Audit reporting and recording;
+Any specific item related to a particular activity of the ATO.","Part 2, Chapter 7",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,31,2,"Training on compliance monitoring system
+ORA.GEN.210
+ORA.GEN.200(a)(4)","Organisation personnel 
+Define the training that the organisation personnel must perform.
+When such training must be performed (initial training, recurrent training, refresher training).
+The training of organisation personnel must cover at least the following topics:
+Introduction to the concept of the CMS;
+OMM and OM procedures;
+Any specific item related to a particular activity of the ATO","Part 2, Chapter 10",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,32,1,"Changes to organisations.
+ORA.GEN.130(a)(b)","Define or give the reference to the procedure managing changes requiring prior approval.
+See AMC1.ORA.GEN.130, GM1 ORA.GEN.130(a) and GM2 ORA.GEN.130 for further information.","Part 2, Chapter 2.4 ",Yes,"Updated. Note has been added whereby the AM is required to send out a “Change Request” to the SM and CMM. We refer to the updated Management of Change Procedure in the OMM Part 3, Chapter 5.9.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,33,1,"Changes not requiring prior approval.
+ORA.GEN.130(c)","Define or give the reference of all procedures managing changes not requiring prior approval from the BCAA.
+The BCAA promote the following changes not requiring approval:
+FI/TKI ;
+FSTD;
+Aircraft.
+Any other item might be proposed by the ATO.","Part 1, Chapter 16",Yes,"Updated Chapter 16:
+16.1 Hiring new TKI’s
+16.2 Hiring new FI’s
+16.3 Adding/Removing Aircraft",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,34,1,"Alternative means of compliance (AltMOC).
+ORA.GEN.120","Describe here if the ATO will use Alternative AMC (AltMOC).
+If yes, describe or give the reference of the procedure that the ATO will use to assess the risk, demonstrate the equivalent level of safety, and propose the AMC to the BCAA.",Not Applicable,No,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,34,2,"Alternative means of compliance (AltMOC).
+ORA.GEN.120",Give the reference of any AltMOC in use within the ATO.,Not Applicable,No,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,35,1,"Record-keeping.
+ORA.GEN.220
+ORA.ATO.120","Define the record keeping means and procedures for any ATO documents. See AMC1 ORA.GEN.220(b) for further information.
+This item is also covered by item 18 of the operations manual checklist. The manner how the ATO will comply with ORA.GEN.220/ORA.ATO.120 must be described in one of those two items.","Part 2, Chapter 11",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,36,1,"Documentation control procedure.
+ORA.GEN.200(a)(5)",Define how ATO manuals and theoretical training courses manuals will be controlled throughout the organisation.,"Described for each Manual under Chapter 0.2 Revisions System and OMM Part 2, Chapter 11.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2A,36,2,"Documentation control procedure.
+ORA.GEN.200(a)(5)",Where are the ATO manuals stored and accessible to everyone involved in the organisation.,"Described for each Manual under Chapter 0.2 Revisions System and OMM Part 2, Chapter 11.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,11 B,2,"FSTD Organisation chart.
+ORA.GEN","An organisation chart providing the relationships between the personnel responsible to maintain the compliance of the FSTD.
+The organisation chart can be the one of item 10 completed with relevant FSTD personnel.","OMM Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,12 B,7,FSTD Management Staff ORA.GEN.210,"FSTD Manager 
+Provide the following information for each FSTD nominated persons
+Contact information (name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities.
+Define also their responsibilities or give the reference of OM item 10.","OMM Part 2, Chapter 6 and reference to OM Part 1, Chapter 2.1.1 Management and Staffing.",Yes,"Reference made to OMM Annex 14 – Nominated Person Contact Details.
+",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,12 B,8,FSTD Management Staff ORA.GEN.210,"FSTD maintenance technician.
+Provide the following information for each FSTD nominated persons
+Contact information (name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities.
+Define also their responsibilities or give the reference of OM item 10.
+","OMM Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,12 B,9,FSTD Management Staff ORA.GEN.210,"Responsible for the daily release of the FSTD, periodic maintenance, unscheduled maintenance, recurrent QTGs.
+Provide the following information for each FSTD nominated persons
+Contact information (name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities.
+Define also their responsibilities or give the reference of OM item 10.","OMM Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,12 B,10,FSTD Management Staff ORA.GEN.210,"Responsible for the fly-outs (function and subjective testing).
+Provide the following information for each FSTD nominated persons
+Contact information (name, phone, mobile, email, full time/part time);
+Required qualifications and/or training;
+Responsibilities.
+Define also their responsibilities or give the reference of OM item 10.","OMM Part 2, Chapter 3, reference is made to the OM Part 1, Chapter 2.1.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,17 B,6,"FSTD facilities
+ORA.FSTD.115
+AMC1 ORA.FSTD.115
+GM1 ORA.FSTD.115","Provide information or the reference to the document containing that information, which assess full compliance towards AMC1 ORA.FSTD.115 and local Health and Safety regulations.",We refer to OM Annex 2,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,17 B,7,"FSTD facilities
+ORA.FSTD.115
+AMC1 ORA.FSTD.115
+GM1 ORA.FSTD.115",Provide the reference of the document regarding the safety briefings on the FSTD provided to users and instructors.,We refer to OM Annex 2,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,21 B,2,"FSTD contracted activities.
+ORA.GEN.205","Provide a list of the FSTD maintenance or engineering activities done by a third party.
+The contract/agreement between the FSTD operator and the third party should be made available to the BCAA.
+The written agreement shall at least contain the following:
+Services and standards to be provided;
+The necessary authorisations/approvals;
+Proof of the technical competence of the third party.",N/A,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,22 B,3,"FSTD Access.
+ORA.GEN.140",Define who has access to the FSTD premises and the means to prevent unexpected visit which can disrupt a FSTD training session.,"Part 1, Chapter 15",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,24 B,3,"FSTD Compliance monitoring auditors (internal, external).
+ORA.GEN.210",Define a list of the necessary internal or external auditors that have the privileges to perform compliance monitoring audits for FSTD.,OMM Annex 14,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,24 B,4,"FSTD Compliance monitoring auditors (internal, external).
+ORA.GEN.210",How will the ATO assess their independence towards the areas they will be appointed to.,"OMM Part 2, Chapter 6.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,25 B,2,"FSTD Compliance monitoring programme.
+AMC1 ORA.FSTD.100
+AMC2 ORA.FSTD.100
+GM2 ORA.FSTD.100","Define the compliance monitoring programme for at least the following domains and their support documents:
+Organisation;
+Plans and Objectives;
+Maintenance procedures;
+FSTD qualification level;
+Supervision;
+FSTD technical status;
+Manuals, logs and records;
+MQTG;
+Defect deferral;
+Personnel training;
+Aircraft and simulator configuration management, including Airworthiness Directives;
+FSTD configuration management;
+FSTD safety features (including emergency stops and emergency lighting);
+QTGs re-runs;
+Functional and subjective tests (fly-outs).","OMM Part 2, Chapter 6
+Chapter 6.1 and 
+Subchapters:
+6.1.1
+6.1.2
+6.1.3
+6.1.4",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,26 B,2,FSTD Compliance monitoring planning.,"Define the FSTD compliance monitoring planning or give the reference to the document/software providing that information.
+The FSTD compliance monitoring planning shall ensure that all items of the compliance monitoring programme are covered each 12 months period.","Part 2, Chapter 6.1 and 6.1.1 Audit Planning plus
+OMM Annex 1 and 4",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,26B,3,FSTD Compliance monitoring planning.,"Management evaluations/reviews:
+Planning of those management evaluations (at least quarterly);
+Who must attend those management evaluations;
+Forms on which those management evaluations are reported.
+","Part 2, Chapter 9 – Management Evaluation",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,27 B,2,FSTD Audit procedures,Define or give the reference of the audit procedure regarding FSTDs.,"Part 2, Chapter 6.1.2
+Also refer to Annex OMM Annex 1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,28 B,2,FSTD Reporting procedures.,Define or give the reference of the reporting procedures.,"Part 2, Chapter 6.1.3
+Refer to OMM Annex 2 NCR and Annex 3 CMAR",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,29 B,2,FSTD Follow up and corrective action procedures – Findings.,"Define or give the reference of the follow up and corrective action procedure.
+This procedure must be able to handle internal (ATO CMS findings) and external findings (any findings made by a third party).
+This procedure must address the following:
+Identification of corrective action;
+Person responsible for rectification;
+Feedback system to the accountable manager providing an independent assessment of corrective action, implementation and completion;
+Monitoring of corrective action programme;
+Ensuring that the corrective action contain the necessary elements;
+Evaluation of the effectiveness of the corrective action programme;
+Reporting of significant non-compliances to the competent authority.","Part 2, Chapter 6.1.4
+Including 6.4 (Classiifcation of FSTD Audit Findings).
+In addition, Part 2, Subchapter 7.2.3",Yes,Subchapter 7.2.3 Updated with the BE FNPT-028 procedure.,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,30 B,2,"Recording system.
+ORA.GEN.220","How and on which form the FSTD compliance monitoring process will be recorded and stored.
+Who has access to it.
+The records of the compliance monitoring programme shall be:
+Accurate;
+Complete;
+Readily accessible.","Part 2, Chapter 11, including 11.1 and 11.2
+Part 2, Chapter 7.2.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,31 B,2,Training of FSTD compliance auditors.,"Define the training that the FSTD compliance auditors must perform before being allowed to audit part of the scope of the FSTD.
+When such training must be performed (initial training, recurrent training, refresher training).","Part 2, Chapter 10",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,2,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Defect reporting system.,"Part 2, Chapter 7.2.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,3,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Defect rectification process.,"Part 2, Chapter 7.2.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,4,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Defect tracking mechanism.,"Part 2, Chapter 7.2.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,5,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Preventive maintenance programmes.,N/A,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,6,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Spares handling.,Refer to Service Contract for each individual FSTD,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,7,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Equipment calibration.,Refer to the Operating Manual of each individual FSTD (MQTG),Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,8,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: QTG running and checking.,"Refer to the MQTG of each individual FSTD and OMM Part 2, Chapter 6",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,9,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Define or give the reference of the manual or procedures providing the following information and their support documents: Software and hardware control procedures.,Refer to each MQTG of each individual FSTD + Dropbox Shared with FSTD BCAA Audit Team,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,10,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+","Define or give the reference of the manual or procedures providing the following information and their support documents: Configuration control procedures for:
+Control of training loads;
+Updates to visual models;
+Updates to navigation and instructor operation station (IOS) databases;
+QTG running and checking procedures;
+Maintenance procedures for defect rectification;
+Maintenance procedures for preventing maintenance.
+The configuration control procedures shall also include an internal acceptance process for any modifications.
+All modifications must be documented.
+A revision of the MQTG may be triggered following a FSTD modification.","Refer to each MQTG of each individual FSTD + Dropbox shared with FSTD BCAA Audit Team
+
+In addition, refer to Management of Change Procedures",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,11,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",Control of the FSTD configuration Vs aircraft being simulated.,"OMM Annex 24a
+OMM Annex 24b
+OMM Annex 24c",Yes,Updated,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,12,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+",System that ensures that all relevant Airworthiness Directives are introduced where applicable on affected FSTDs.,N/A,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,13,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+","Procedure to notify the authority in case of:
+Major change;
+Relocation;
+Deactivation;
+Major failure of a qualified device;
+Major safety issue associated with the installation.","Part 2, Chapter 12 – FSTD Compliance Monitoring Measures",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,14,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+","Procedure that ensure compliance with applicable health and safety regulations, including:
+Safety briefings;
+Fire/Smoke detection and suppression;
+Protection against electrical, mechanical, hydraulic and pneumatic hazards;
+Other items as defined in AMC1 ORA.FSTD.115.",We refer to OM Annex 2,Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,32 B,15,"FSTD specific procedures
+ORA.FSTD.105
+ORA.FSTD.110
+AMC1 ORA.FSTD.110
+GM1 ORA.FSTD.110
+
+","Process to produce, review and track the following:
+FSTD availability;
+Numbers of defect by ATA chapter;
+Open defects;
+Defect closure rates;
+Training session interrupt rates;
+Training session compliance rating.","Part 2, Chapter 12 – FSTD Compliance Monitoring Measures",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,35 B,2,"FSTD Record-keeping.
+ORA.GEN.220
+ORA.FSTD.240","Define the record keeping means and procedures for any FSTD documents. See AMC1 ORA.FSTD.240 for further information.
+This item is also covered by item 18 of the operations manual checklist. The manner how the ATO will comply with ORA.GEN.220/ORA.ATO.120 must be described in one of those two items.
+All training records of the FSTD personal shall be maintained.","Part 2, Chapter 11",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 2B,35 B,3,"FSTD Record-keeping.
+ORA.GEN.220
+ORA.FSTD.240","Define the content of the dossier for an authority recurrent evaluation or give the reference of the document providing that information.
+See GM3 ORA.FSTD.100 (d) for further information on the content of the dossier.","Part 2, Chapter 6.1.5 ",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,37,1,Scope of the safety management system.,"Define here what will be the scope of the ATO safety management system.
+In which area of activities of the ATO it will be active (Administrative, training, FSTD, maintenance,…).
+It can be the case that parts of the scope are already covered by an SMS of a third party (i.e. maintenance). It is therefore suitable to define how deep the ATO SMS will go.","Part 3, Chapter 1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,38,1,"Safety policy and objectives.
+ORA.GEN.200(a)(2)","The overall philosophies and principles of the organisation with regard to safety endorsed by the accountable manager.
+This safety policy should explain how the senior management will promote the safety policy throughout the organisation, provide necessary human and financial resources for its implementation and establish safety objectives and performance standards.","Part 3, Chapter 2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,38,2,"Safety policy and objectives.
+ORA.GEN.200(a)(2)",Define the organisation’s safety objectives and performance standards. See AMC1 ORA.GEN.200(a)(2) and GM1 ORA.GEN.200(a)(2).,"Part 3, Chapter 2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,38,3,"Safety policy and objectives.
+ORA.GEN.200(a)(2)",Commitment from the management that a “no blame” culture is in place.,"Part 3, Chapter 2 and OMM Annex 07",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,38,4,"Safety policy and objectives.
+ORA.GEN.200(a)(2)","Define the “just culture” approach.
+Explain how the ATO will assess if an incident/accident was a sabotage, intentional violation, reckless conduct or human error/no blame error (decision tree).","Part 3, Chapter 2 and OMM Annex 07",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,38,5,"Safety policy and objectives.
+ORA.GEN.200(a)(2)",Define the means to promote the safety policy to all personnel.,"Part 3, Chapter 2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,39,1,"Lines of responsibility and accountability regarding safety.
+ORA.GEN.200(a)(1)","Define lines of responsibility and accountability throughout the organisation, including a direct safety accountability of the accountable manager.
+Attest the safety accountability of the accountable manager or give the reference to the OM item 10.","Part 3, Chapter 3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,40,1,"Safety manager (SM).
+ORA.GEN.200(a)(1)",Who is the safety manager.,"Part 3, Chapter 3.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,40,2,"Safety manager (SM).
+ORA.GEN.200(a)(1)",Define his/her responsibilities and functions.,"Part 3, Chapter 3.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,40,3,"Safety manager (SM).
+ORA.GEN.200(a)(1)",Define how he/she will comply with the requirements of such responsibilities/functions. See AMC1 ORA.GEN.200(a)(1).,"Part 3, Chapter 3.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,41,1,"Safety review board (SRB).
+ORA.GEN.200(a)(1)",Define the SRB members.,"Part 3, Chapter 3.4",Yes,Updated,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,41,2,"Safety review board (SRB).
+ORA.GEN.200(a)(1)",Define the responsibilities and functions within the SRB of each member.,"Part 3, Chapter 3.4 and further detailed in Subchapter 3.4.1 ",Yes,Updated in accordance with the finding.,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,41,3,"Safety review board (SRB).
+ORA.GEN.200(a)(1)",Explain how the SRB will comply with its mission. See AMC1 ORA.GEN.200(a)(1)-(b)(3) and (c).,"Part 3, Chapter 3.4.1",Yes,"Updated procedure, with detailed explanation of the roles and responsibilities, the steps and the phases + Action planning and Closing.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,41,4,"Safety review board (SRB).
+ORA.GEN.200(a)(1)",Define the planning of the SRB meetings.,"Part 3, Chapter 3.4.1",Yes,"Updated procedure, with detailed explanation of the roles and responsibilities, the steps and the phases + Action planning and Closing.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,42,1,"Safety action group (SAG).
+ORA.GEN.200(a)(1)","Define any needed SAGs  members. Depending on the scope of the organisation, several SAGs might be needed (i.e. Operations, maintenance, training)","Part 3, Chapter 3.5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,42,2,"Safety action group (SAG).
+ORA.GEN.200(a)(1)",Define SAGs  members.,"Part 3, Chapter 3.5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,42,3,"Safety action group (SAG).
+ORA.GEN.200(a)(1)",Define the responsibilities and functions within SAGs of each member.,"Part 3, Chapter 3.5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,42,4,"Safety action group (SAG).
+ORA.GEN.200(a)(1)","Explain how the SAG will comply with its mission. See GM2 ORA.GEN.200(a)(1)-(c),(d) and (e).","Part 3, Chapter 3.5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,42,5,"Safety action group (SAG).
+ORA.GEN.200(a)(1)",Define the planning of the SAGs meetings.,"Part 3, Chapter 3.5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,43,1,"Identification of safety hazards.
+ORA.GEN.200(a)(3)","Define or give the reference of the identification of safety hazards procedure. See AMC1 ORA.GEN.200(a)(3)-(a).
+This procedure should include at least the following:
+Define who may identify any safety hazard.
+Explain how those persons may report any identified safety hazard.
+Define who is in charge to collect identified safety hazards reports.
+Define how it is reported to the safety manager.
+Define how identified safety hazards are recorded (form to be used)","Part 3, Chapter 5",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,44,1,"Risk assessment process.
+ORA.GEN.200(a)(3)","Define or give the reference of the process in place within the organisation to analyse and assess the identified risks.
+See AMC1 ORA.GEN.200(a)(3)-(b).
+This procedure should include at least the following:
+Define who may assess a safety hazard.
+Define which method will be used to assess a safety hazard in terms of likelihood, severity and tolerability.
+Define how a feedback will be provided (i.e. to the reporter).
+Define how the assessment is recorded (Form to be used).","Part 3, Chapter 5.2.4",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,45,1,"Risk mitigation process.
+ORA.GEN.200(a)(3)","Define or give the reference of the process in place within the organisation to mitigate the identified risks. See AMC1 ORA.GEN.200(a)(3)-(b).
+This procedure should include at least the following:
+Define who can elaborate a mitigation measure
+Explain how the mitigation measure will be implemented in the safety action planning
+Explain how the mitigation measure will be communicated.
+Define how a risk mitigation measure is recorded (form to be used).","Part 3, Chapter 5.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,46,1,"Safety action planning.
+ORA.GEN.200(a)(3)",Define the planning of all safety actions that the ATO management chooses to perform or give the reference to the document/software providing that information.,"Part 3, Chapter 5.2",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,47,1,"Safety performance monitoring and measurement.
+ORA.GEN.200(a)(3)",Define or give the reference of the process in place within the organisation to verify the safety performance and measurement in comparison to the safety policy and objectives. See AMC1 ORA.GEN.200(a)(3)-(d).,"Part 3, Chapter 5.7",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,47,2,"Safety performance monitoring and measurement.
+ORA.GEN.200(a)(3)",Define when this process will be performed and by who.,"Part 3, Chapter 5.7",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,47,3,"Safety performance monitoring and measurement.
+ORA.GEN.200(a)(3)",Define how it will be reported and by who.,"Part 3, Chapter 5.7",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,48,1,"Continuous improvement.
+ORA.GEN.200(a)(3)",Define how the organisation will achieve continuous improvement of its safety performance. See AMC1 ORA.GEN.200(a)(3)-(f).,"Part 3, Chapter 5.10",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,49,1,"Incident investigation and reporting - Internal safety investigation.
+ORA.GEN.200(a)(3)","Define or give the reference of the process managing internal safety investigations. See AMC1 ORA.GEN.200(a)(3)-(c).
+This procedure should include at least the following:
+Define who can perform internal safety investigations.
+Define when such investigations shall take place.
+Define the scope of those investigations.
+Define how such investigations must be reported.","Part 3, Chapter 5.6",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,50,1,"The Emergency Response Plan (ERP).
+ORA.GEN.200(a)(3)",Define the organisation ERP. See AMC1 ORA.GEN.200(a)(3)-(g).,"Part 3, Chapter 5.8",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,51,1,"Management of change (MOC).
+ORA.GEN.200(a)(3)","Define or give the reference of the process in place within the organization to cope with safety risks related to an external or internal change. See AMC1 ORA.GEN.200(a)(3)-(e).
+This procedure should include at least the following:
+Define the type of changes that should be assessed (i.e. new training location, new type of aircraft and change of a nominated person).
+Define who can take part of that assessment.
+Define how the assessment will be performed.
+Define how the result will be communicated and to who.","Part 3, Chapter 5.9",Yes,"Updated Procedure MOC, including the Phases, Analysis, Reporting, Actions and Closing.
+This should cover the audit finding.",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,52,1,"Training on safety.
+ORA.GEN.200(a)(4)",Define the training over safety for every category of personnel and for the candidates.,"Part 3, Chapter 8",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,52,2,"Training on safety.
+ORA.GEN.200(a)(4)","Define how the safety training will be performed (self-instruction via media, classroom training, e-learning, etc…)recorded and stored.","Part 3, Chapter 8",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,52,3,"Training on safety.
+ORA.GEN.200(a)(4)",Define how the safety training will be recorded.,"Part 3, Chapter 8",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,53,1,"Safety promotion – Communication on safety.
+ORA.GEN.200(a)(4)","Define the means that the ATO will use to promote safety in order to :
+Ensure that everyone involved in the ATO is aware of the safety management activities;
+Inform about the outcome of any assessed risks and analysed hazard;
+Explain the mitigation measures undertaken;
+That relevant persons receives a feedback from a voluntary report.
+See AMC1 ORA.GEN.200(a)(4).
+A safety system must also be an “open” system. The ATO should also promote any safety items coming from aerodromes, maintenance facilities, the BCAA or the EASA.","Part 3, Chapter 6
+Part 3, Chapter 8.2",Yes,"Updated Chapter 8.2 with the inclusion of Annex 30, Visible Mandatory Documents. This should cover the audit finding.
+
+Included as well: New Chapter 8.3 regarding Safety Committee Meetings (procedure)",
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,54,1,"Immediate reaction to a safety problem.
+ORA.GEN.155","Describe how the organisation will remain vigilant towards any safety problems raised either by the industry, the EASA or the BCAA and who is responsible for this task.","Part 3, Chapter 5.6.3",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,55,1,"Occurrence reporting.
+ORA.GEN.160","Describe how the organisation and who will report any accident, serious incident and occurrences as defined in Regulation (EU) No 996/2010 and Directive 2003/42/EC.
+The reports shall be made available as soon as practicable, but in any case within 72 hours.","Part 3, Chapter 5.6 – Subchapter 5.6.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,55,2,"Occurrence reporting.
+ORA.GEN.160","Describe how the organisation will report to the competent authority and to the organisation responsible for the design of the aircraft any incident, malfunction, technical defect, exceeding of technical limitations, occurrence that would highlight inaccurate, incomplete or ambiguous information contained in data established in accordance with Part-21 or other irregular circumstance that has or may have endangered the safe operation of the aircraft and that has not resulted in an accident or serious incident.","Part 3, Chapter 5.6 – Subchapter 5.6.1",Yes,,
+OMM REV 4.0,,BCAA,,Organization Management Manual (OMM),PART 3,55,3,"Occurrence reporting.
+ORA.GEN.160","Describe also how the organisation will produce a follow up report to provide details of actions it intends to take to prevent similar occurrences in the future, as soon as these actions have been identified.
+This should be linked with the safety management system.","Part 3, Chapter 5.6 – Subchapter 5.6.4 and 5.6.5",Yes,,

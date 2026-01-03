@@ -3,61 +3,113 @@ declare(strict_types=1);
 
 namespace IPCA\SafetyCompliance\Infrastructure\Http\Controllers;
 
+use IPCA\SafetyCompliance\Domain\Compliance\AuditRepositoryInterface;
 use IPCA\SafetyCompliance\Application\Compliance\AddActionHandler;
 use IPCA\SafetyCompliance\Application\Compliance\AddFindingHandler;
-use IPCA\SafetyCompliance\Application\Compliance\RecordRcaHandler;
-use IPCA\SafetyCompliance\Application\Compliance\UpdateActionHandler;
-use IPCA\SafetyCompliance\Application\Compliance\UpdateFindingHandler;
 use IPCA\SafetyCompliance\Domain\Compliance\FindingActionRepositoryInterface;
 use IPCA\SafetyCompliance\Domain\Compliance\FindingRepositoryInterface;
+use IPCA\SafetyCompliance\Infrastructure\Ai\RcaAiService;
+use IPCA\SafetyCompliance\Infrastructure\Persistence\Compliance\PdoFindingRcaRepository;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 
 final class FindingController
 {
+    private AuditRepositoryInterface $auditRepo;
+	private AddFindingHandler $addFindingHandler;
+    private AddActionHandler $addActionHandler;
+    private FindingRepositoryInterface $findingRepo;
+    private FindingActionRepositoryInterface $actionRepo;
+
+    // AI RCA
+    private RcaAiService $rcaAi;
+    private PdoFindingRcaRepository $rcaRepo;
+
     public function __construct(
-        private AddFindingHandler $addFindingHandler,
-        private AddActionHandler $addActionHandler,
-        private RecordRcaHandler $recordRcaHandler,
-        private UpdateFindingHandler $updateFindingHandler,
-        private UpdateActionHandler $updateActionHandler,
-        private FindingRepositoryInterface $findingRepo,
-        private FindingActionRepositoryInterface $actionRepo
-    ) {}
+    AddFindingHandler $addFindingHandler,
+    AddActionHandler $addActionHandler,
+    FindingRepositoryInterface $findingRepo,
+    FindingActionRepositoryInterface $actionRepo,
+    RcaAiService $rcaAi,
+    PdoFindingRcaRepository $rcaRepo,
+    AuditRepositoryInterface $auditRepo   // ✅ NEW
+) {
+    $this->addFindingHandler = $addFindingHandler;
+    $this->addActionHandler  = $addActionHandler;
+    $this->findingRepo       = $findingRepo;
+    $this->actionRepo        = $actionRepo;
+    $this->rcaAi             = $rcaAi;
+    $this->rcaRepo           = $rcaRepo;
+    $this->auditRepo         = $auditRepo; // ✅ NEW
+}
 
     /**
-     * Create a new finding under an audit
+     * Dashboard: GET /compliance/findings?status=open
      */
-    public function createForAudit(Request $request, Response $response, array $args): Response
-    {
-        $auditId = $args['id'];
-        $data    = (array)$request->getParsedBody();
 
-        $finding = $this->addFindingHandler->handle(
-            auditId:        $auditId,
-            reference:      $data['reference']      ?? '',
-            title:          $data['title']          ?? '',
-            classification: $data['classification'] ?? 'LEVEL_2',
-            severity:       $data['severity']       ?? 'MEDIUM',
-            description:    $data['description']    ?? '',
-            regulationRef:  $data['regulation_ref'] ?? null,
-            domainId:       isset($data['domain_id']) ? (int)$data['domain_id'] : null,
-            targetDateString: $data['target_date']  ?? null
-        );
+	public function listAll(Request $request, Response $response): Response
+{
+    $params = $request->getQueryParams();
+    $status = $params['status'] ?? null;
 
-        $response->getBody()->write(json_encode($finding->toArray()));
-        return $response->withHeader('Content-Type', 'application/json')
-                        ->withStatus(201);
+    $findings = $this->findingRepo->findAll($status);
+
+    // cache audit lookups to avoid repeated DB hits
+    $auditCache = [];
+
+    $data = [];
+
+    foreach ($findings as $f) {
+        $fa = $f->toArray();
+
+        // --------------------
+        // Attach audit metadata (Audit Entity + Audit Reference)
+        // --------------------
+        $auditId = $fa['audit_id'] ?? null;
+        if ($auditId) {
+            if (!isset($auditCache[$auditId])) {
+                $audit = $this->auditRepo->findById($auditId);
+                $auditCache[$auditId] = $audit ? $audit->toArray() : null;
+            }
+
+            $a = $auditCache[$auditId];
+            $fa['audit_entity'] = $a['audit_entity'] ?? null;
+            $fa['audit_ref']    = $a['external_ref'] ?? null;
+        } else {
+            $fa['audit_entity'] = null;
+            $fa['audit_ref']    = null;
+        }
+
+        // --------------------
+        // RCA progress
+        // --------------------
+        $steps = $this->rcaRepo->findSteps($fa['id']) ?? [];
+        $fa['rca_progress'] = (is_array($steps) ? count($steps) : 0) . '/5';
+
+        // --------------------
+        // CAP progress
+        // --------------------
+        $actions = $this->actionRepo->findByFindingId($fa['id']);
+        $fa['cap_progress'] = (is_array($actions) ? count($actions) : 0) . ' actions';
+
+        $data[] = $fa;
     }
 
+    $response->getBody()->write(json_encode($data));
+    return $response->withHeader('Content-Type', 'application/json');
+}
+	
+	
+	
+
     /**
-     * List findings for an audit
+     * GET /compliance/audits/{id}/findings
      */
     public function listForAudit(Request $request, Response $response, array $args): Response
     {
-        $auditId  = $args['id'];
-        $findings = $this->findingRepo->findByAudit($auditId);
+        $auditId = $args['id'];
 
+        $findings = $this->findingRepo->findByAudit($auditId);
         $data = array_map(fn($f) => $f->toArray(), $findings);
 
         $response->getBody()->write(json_encode($data));
@@ -65,113 +117,380 @@ final class FindingController
     }
 
     /**
-     * Update an existing finding
+     * POST /compliance/audits/{id}/findings
+     */
+    public function createForAudit(Request $request, Response $response, array $args): Response
+    {
+        $auditId = $args['id'];
+        $data = (array)$request->getParsedBody();
+
+        $finding = $this->addFindingHandler->handle(
+            auditId: $auditId,
+            reference: $data['reference'] ?? '',
+            title: $data['title'] ?? '',
+            classification: $data['classification'] ?? 'LEVEL_2',
+            severity: $data['severity'] ?? 'MEDIUM',
+            description: $data['description'] ?? '',
+            regulationRef: $data['regulation_ref'] ?? null,
+            domainId: isset($data['domain_id']) ? (int)$data['domain_id'] : null,
+            targetDateString: $data['target_date'] ?? null
+        );
+
+        $response->getBody()->write(json_encode($finding->toArray()));
+        return $response->withHeader('Content-Type', 'application/json')->withStatus(201);
+    }
+
+    /**
+     * PATCH /compliance/findings/{id}
+     * Used by B2 edit from the modal.
      */
     public function update(Request $request, Response $response, array $args): Response
     {
         $findingId = $args['id'];
-        $data      = (array)$request->getParsedBody();
+        $data = (array)$request->getParsedBody();
 
-        $this->updateFindingHandler->handle(
-            findingId:      $findingId,
-            reference:      $data['reference']      ?? '',
-            title:          $data['title']          ?? '',
-            classification: $data['classification'] ?? 'LEVEL_2',
-            severity:       $data['severity']       ?? 'MEDIUM',
-            description:    $data['description']    ?? '',
-            regulationRef:  $data['regulation_ref'] ?? null,
-            domainId:       isset($data['domain_id']) ? (int)$data['domain_id'] : null,
-            targetDateString: $data['target_date']  ?? null
-        );
+        $payload = [
+            'reference'      => $data['reference'] ?? null,
+            'title'          => $data['title'] ?? null,
+            'classification' => $data['classification'] ?? null,
+            'severity'       => $data['severity'] ?? null,
+            'description'    => $data['description'] ?? null,
+            'regulation_ref' => array_key_exists('regulation_ref', $data) ? $data['regulation_ref'] : null,
+            'domain_id'      => isset($data['domain_id']) ? (int)$data['domain_id'] : null,
+            'target_date'    => array_key_exists('target_date', $data) ? $data['target_date'] : null,
+            'status'         => $data['status'] ?? null,
+        ];
 
-        $response->getBody()->write(json_encode(['status' => 'ok']));
+        $this->findingRepo->updateById($findingId, $payload);
+
+        $updated = $this->findingRepo->findById($findingId);
+        $response->getBody()->write(json_encode($updated ? $updated->toArray() : ['status' => 'ok']));
+
         return $response->withHeader('Content-Type', 'application/json');
     }
 
     /**
-     * Add a new action for a finding
+     * POST /compliance/findings/{id}/actions
+     * Create CAP action item (existing handler).
      */
-    public function addAction(Request $request, Response $response, array $args): Response
-    {
-        $findingId = $args['id'];
-        $data      = (array)$request->getParsedBody();
 
-        $this->addActionHandler->handle(
-            findingId:     $findingId,
-            actionType:    $data['action_type']    ?? 'CORRECTIVE',
-            description:   $data['description']    ?? '',
-            responsibleId: $data['responsible_id'] ?? null,
-            dueDateString: $data['due_date']       ?? null
-        );
+	public function addAction(Request $request, Response $response, array $args): Response
+{
+    $findingId = $args['id'];
+    $data = (array)$request->getParsedBody();
+
+    // CASE: Adopt AI CAP option (bulk create actions)
+    if (isset($data['option']) && is_array($data['option'])) {
+        $opt = $data['option'];
+
+        // 1) Save which option was selected on the finding
+        $label  = (string)($opt['label'] ?? '');
+        $effort = (string)($opt['effort'] ?? '');
+
+        // Normalize label to A/B/C
+        $selected = null;
+        if (stripos($label, 'A') !== false) $selected = 'A';
+        if (stripos($label, 'B') !== false) $selected = 'B';
+        if (stripos($label, 'C') !== false) $selected = 'C';
+
+        $this->findingRepo->updateById($findingId, [
+            'cap_selected_option' => $selected,
+            'cap_selected_effort' => $effort ?: null,
+        ]);
+
+        // 2) Create actions
+        $actions = $opt['actions'] ?? [];
+        if (!is_array($actions) || count($actions) === 0) {
+            $response->getBody()->write(json_encode(['error' => 'Selected option contains no actions']));
+            return $response->withHeader('Content-Type', 'application/json')->withStatus(400);
+        }
+
+        foreach ($actions as $a) {
+            $type = strtoupper(trim((string)($a['action_type'] ?? 'CORRECTIVE')));
+            if (!in_array($type, ['CORRECTIVE','PREVENTIVE','CONTAINMENT'], true)) {
+                $type = 'CORRECTIVE';
+            }
+
+            $desc = trim((string)($a['description'] ?? ''));
+            if ($desc === '') continue;
+
+            $dueDays = (int)($a['due_days'] ?? 90);
+            if ($dueDays < 1) $dueDays = 90;
+
+            $dueDate = (new \DateTimeImmutable())->modify("+{$dueDays} days")->format('Y-m-d');
+
+            $this->addActionHandler->handle(
+                findingId: $findingId,
+                actionType: $type,
+                description: $desc,
+                responsibleId: null,
+                dueDateString: $dueDate
+            );
+        }
 
         $response->getBody()->write(json_encode([
-            'status'  => 'ok',
-            'message' => 'Action created',
+            'status' => 'ok',
+            'message' => 'CAP option selected and actions created',
+            'selected_option' => $selected,
+            'selected_effort' => $effort
         ]));
-
-        return $response->withHeader('Content-Type', 'application/json')
-                        ->withStatus(201);
+        return $response->withHeader('Content-Type', 'application/json')->withStatus(201);
     }
 
+    // CASE: Single manual action create
+    $this->addActionHandler->handle(
+        findingId: $findingId,
+        actionType: $data['action_type'] ?? 'CORRECTIVE',
+        description: $data['description'] ?? '',
+        responsibleId: $data['responsible_id'] ?? null,
+        dueDateString: $data['due_date'] ?? null
+    );
+
+    $response->getBody()->write(json_encode(['status' => 'ok', 'message' => 'Action created']));
+    return $response->withHeader('Content-Type', 'application/json')->withStatus(201);
+}
+	
+	
+
     /**
-     * List actions for a finding
+     * GET /compliance/findings/{id}/actions
      */
     public function listActions(Request $request, Response $response, array $args): Response
     {
         $findingId = $args['id'];
-        $actions   = $this->actionRepo->findByFindingId($findingId);
+        $actions = $this->actionRepo->findByFindingId($findingId);
 
         $data = array_map(fn($a) => $a->toArray(), $actions);
-
         $response->getBody()->write(json_encode($data));
+
         return $response->withHeader('Content-Type', 'application/json');
     }
 
     /**
-     * Update an existing action
+     * POST /compliance/findings/{id}/rca/next-step
+     * AI generates next Why step based on current steps.
      */
-    public function updateAction(Request $request, Response $response, array $args): Response
+    public function rcaNextStep(Request $request, Response $response, array $args): Response
     {
-        $findingId = $args['id'];      // path param, not used in logic
-        $actionId  = (int)$args['actionId'];
-        $data      = (array)$request->getParsedBody();
+        $findingId = $args['id'];
+        $data = (array)$request->getParsedBody();
+        $steps = $data['steps'] ?? [];
+        if (!is_array($steps)) $steps = [];
 
-        $this->updateActionHandler->handle(
-            actionId:      $actionId,
-            actionType:    $data['action_type']    ?? 'CORRECTIVE',
-            description:   $data['description']    ?? '',
-            responsibleId: $data['responsible_id'] ?? null,
-            dueDateString: $data['due_date']       ?? null
-        );
+        $finding = $this->findingRepo->findById($findingId);
+        if (!$finding) {
+            $response->getBody()->write(json_encode(['error' => 'Finding not found']));
+            return $response->withHeader('Content-Type', 'application/json')->withStatus(404);
+        }
 
+        $findingArr = $finding->toArray();
+
+        $next = $this->rcaAi->generateNextStep($findingArr, $steps);
+
+        $response->getBody()->write(json_encode($next));
+        return $response->withHeader('Content-Type', 'application/json');
+    }
+
+    /**
+     * POST /compliance/findings/{id}/rca
+     * Save full RCA chain (steps array).
+     */
+   public function saveRca(Request $request, Response $response, array $args): Response
+{
+    $findingId = $args['id'];
+    $data = (array)$request->getParsedBody();
+    $steps = $data['steps'] ?? [];
+
+    if (!is_array($steps)) {
+        $response->getBody()->write(json_encode(['error' => 'Invalid steps']));
+        return $response->withHeader('Content-Type', 'application/json')->withStatus(400);
+    }
+
+    // TEMP dev user until auth exists
+    $createdBy = '415712F4-C7D8-11F0-AD9A-84068FBD07E7';
+
+    $this->rcaRepo->upsert($findingId, $steps, $createdBy);
+
+    $response->getBody()->write(json_encode(['status' => 'ok']));
+    return $response->withHeader('Content-Type', 'application/json');
+}
+
+    /**
+     * POST /compliance/findings/{id}/actions/suggest-ai
+     * Stub for Step D (CAP AI). Returns empty options for now.
+     */
+    
+	
+	public function suggestCap(Request $request, Response $response, array $args): Response
+{
+    try {
+        $findingId = $args['id'];
+
+        $finding = $this->findingRepo->findById($findingId);
+        if (!$finding) {
+            $response->getBody()->write(json_encode(['error' => 'Finding not found', 'options' => []]));
+            return $response->withHeader('Content-Type', 'application/json')->withStatus(404);
+        }
+
+        // Load saved RCA steps
+        $steps = $this->rcaRepo->findSteps($findingId);
+        if (!is_array($steps) || count($steps) === 0) {
+            $response->getBody()->write(json_encode([
+                'error' => 'No saved RCA steps found. Save RCA first.',
+                'options' => []
+            ]));
+            return $response->withHeader('Content-Type', 'application/json')->withStatus(400);
+        }
+
+        $findingArr = $finding->toArray();
+
+        $findingText =
+            "Reference: " . ($findingArr['reference'] ?? '') . "\n" .
+            "Title: " . ($findingArr['title'] ?? '') . "\n" .
+            "Classification: " . ($findingArr['classification'] ?? '') . "\n" .
+            "Severity: " . ($findingArr['severity'] ?? '') . "\n" .
+            "Regulation ref: " . ($findingArr['regulation_ref'] ?? '') . "\n" .
+            "Description:\n" . ($findingArr['description'] ?? '') . "\n";
+
+        $rcaText = "";
+        foreach ($steps as $s) {
+            $n = (int)($s['whyNumber'] ?? 0);
+            $q = trim((string)($s['question'] ?? ''));
+            $a = trim((string)($s['answer'] ?? ''));
+            if ($n >= 1 && $n <= 5) {
+                $rcaText .= "WHY {$n} QUESTION: {$q}\nWHY {$n} ANSWER (final): {$a}\n\n";
+            }
+        }
+
+        $prompt = <<<TXT
+You are an aviation compliance expert. Create a proposed Corrective Action Plan (CAP) for an audit finding.
+
+You must propose THREE options with increasing robustness:
+- Option A (QUICK): quick and easy, low effort, limited scope.
+- Option B (RECOMMENDED): balanced effort and strong compliance improvement.
+- Option C (BEST): most robust systemic solution, more time and effort.
+
+Rules:
+- Actions must be realistic for an ATO/flight training organisation.
+- Do not blame individuals; focus on process, training, oversight, documentation, tools.
+- Each option must include 2–3 concrete action items ONLY.
+- Each action item must include:
+  - action_type: CORRECTIVE, PREVENTIVE, or CONTAINMENT
+  - description: clear, authority-ready text
+  - due_days: integer (e.g. 7 / 30 / 90)
+
+Output MUST be valid JSON ONLY with:
+{
+  "options": [
+    {
+      "label":"Option A",
+      "effort":"QUICK",
+      "actions":[...]
+    },
+    {
+      "label":"Option B",
+      "effort":"RECOMMENDED",
+      "actions":[...]
+    },
+    {
+      "label":"Option C",
+      "effort":"BEST",
+      "actions":[...]
+    }
+  ]
+}
+
+FINDING CONTEXT:
+{$findingText}
+
+APPROVED RCA (5 Whys):
+{$rcaText}
+TXT;
+
+        $decoded = $this->rcaAi->generateJson($prompt, 'gpt-4o-mini');
+
+        $options = $decoded['options'] ?? [];
+        if (!is_array($options)) $options = [];
+
+        $response->getBody()->write(json_encode(['options' => $options]));
+        return $response->withHeader('Content-Type', 'application/json');
+
+    } catch (\Throwable $e) {
+        $response->getBody()->write(json_encode([
+            'error' => $e->getMessage(),
+            'options' => []
+        ]));
+        return $response->withHeader('Content-Type', 'application/json')->withStatus(500);
+    }
+}
+	
+	
+
+    /**
+     * GET /compliance/mccf
+     * Stub: return empty list unless you already have MCCF table.
+     */
+    public function listMccfItems(Request $request, Response $response): Response
+    {
+        $response->getBody()->write(json_encode([]));
+        return $response->withHeader('Content-Type', 'application/json');
+    }
+
+    /**
+     * POST /compliance/findings/{id}/manual-ref
+     * Stub: accept and return OK (store later).
+     */
+    public function saveManualRef(Request $request, Response $response, array $args): Response
+    {
         $response->getBody()->write(json_encode(['status' => 'ok']));
         return $response->withHeader('Content-Type', 'application/json');
     }
 
     /**
-     * Record RCA (5-Whys) for a finding
+     * POST /compliance/findings/{id}/mccf-link
+     * Stub: accept and return OK (store later).
      */
-    public function recordRca(Request $request, Response $response, array $args): Response
+    public function saveMccfLink(Request $request, Response $response, array $args): Response
     {
-        $findingId = $args['id'];
-        $data      = (array)$request->getParsedBody();
-
-        $createdBy = $data['created_by'] ?? '415712F4-C7D8-11F0-AD9A-84068FBD07E7';
-
-        $rca = $this->recordRcaHandler->handle(
-            findingId:       $findingId,
-            why1:            $data['why1']            ?? '',
-            why2:            $data['why2']            ?? null,
-            why3:            $data['why3']            ?? null,
-            why4:            $data['why4']            ?? null,
-            why5:            $data['why5']            ?? null,
-            rootCause:       $data['root_cause']      ?? null,
-            preventiveTheme: $data['preventive_theme']?? null,
-            createdBy:       $createdBy
-        );
-
-        $response->getBody()->write(json_encode($rca->toArray()));
-        return $response->withHeader('Content-Type', 'application/json')
-                        ->withStatus(201);
+        $response->getBody()->write(json_encode(['status' => 'ok']));
+        return $response->withHeader('Content-Type', 'application/json');
     }
+
+    /**
+     * POST /compliance/findings/{id}/notes
+     * Stub: accept and return OK (store later).
+     */
+    public function saveNotes(Request $request, Response $response, array $args): Response
+    {
+        $response->getBody()->write(json_encode(['status' => 'ok']));
+        return $response->withHeader('Content-Type', 'application/json');
+    }
+	
+	public function getRca(Request $request, Response $response, array $args): Response
+{
+    $findingId = $args['id'];
+    $steps = $this->rcaRepo->findSteps($findingId);
+
+    $response->getBody()->write(json_encode([
+        'steps' => $steps ?? []
+    ]));
+    return $response->withHeader('Content-Type', 'application/json');
+}
+		
+	public function updateAction(Request $request, Response $response, array $args): Response
+{
+    $id = (int)$args['id'];
+    $data = (array)$request->getParsedBody();
+
+    $this->actionRepo->updateById($id, [
+        'action_type'    => $data['action_type'] ?? null,
+        'description'    => $data['description'] ?? null,
+        'due_date'       => $data['due_date'] ?? null,
+        'responsible_id' => $data['responsible_id'] ?? null,
+    ]);
+
+    $response->getBody()->write(json_encode(['status' => 'ok']));
+    return $response->withHeader('Content-Type', 'application/json');
+}
+	
 }

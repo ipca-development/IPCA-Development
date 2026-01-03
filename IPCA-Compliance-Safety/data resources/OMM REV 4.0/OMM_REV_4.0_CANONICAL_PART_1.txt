@@ -1,0 +1,400 @@
+ORGANIZATION MANAGEMENT MANUAL (OMM) – REVISION 4.0
+
+PART 1 – ATO GENERAL INFORMATION
+
+0. OUTLINE
+
+	1.	GENERAL INFORMATION
+ 1.1 Principle Place of Business
+ 1.2 Training Locations
+	2.	LEGAL STATUS OF THE ATO
+	3.	TRAINING COURSES OFFERED
+	4.	ORGANIZATION CHART
+	5.	MANAGEMENT AND STAFF
+	6.	INSTRUCTION STAFF
+	7.	ADMINISTRATIVE STAFF
+	8.	AERODROMES AND OPERATING SITES
+	9.	FLIGHT OPS ACCOMMODATION
+	10.	THEORETICAL INSTRUCTION FACILITIES
+	11.	DESCRIPTION OF TRAINING DEVICES
+	12.	DESCRIPTION OF AIRCRAFT
+	13.	DIDACTIC MATERIAL
+	14.	CONTRACTED TRAINING
+ 14.1 General
+  14.1.1 Organizations certified
+  14.1.2 Organizations not certified
+ 14.2 Procedure to establish a contracted activity
+	15.	ACCESS
+	16.	CHANGES NOT REQUIRING PRIOR APPROVAL OF THE BCAA
+ 16.1 Hiring new Theoretical Knowledge Instructors (TKI’s)
+ 16.2 Hiring new Flight Instructors (FI(A), CRI, IRI, MCCI’s)
+ 16.3 Adding / Removing Aircraft
+ 16.4 Notification of changes to the BCAA
+  16.4.1 Flight / Theoretical Knowledge Instructors
+  16.4.2 Aircraft
+
+
+1. GENERAL INFORMATION
+
+1.1 Principle Place of Business
+
+EuroPilot Center
+Luchthavenlei EPC Building Box 210
+B-2100 Antwerp
+Belgium
+
+1.2 Training Locations
+
+Main Training Location
+EuroPilot Center
+Luchthavenlei EPC Building Box 210
+B-2100 Antwerp
+Belgium
+
+Satellite Training Location (USA)
+SoCal Pilot Center
+Thermal Airport (KTRM)
+Thermal, California
+United States of America
+
+
+
+2. LEGAL STATUS OF THE ATO
+
+The legal status of EuroPilot Center is documented and established in accordance with the applicable Belgian and EASA regulations.
+
+Reference is made to the relevant annexes describing the legal status of the organization and any declarations regarding vested interests.
+
+
+
+3. TRAINING COURSES OFFERED
+
+EuroPilot Center offers approved training courses in accordance with its ATO certificate.
+
+The scope of training includes theoretical knowledge instruction, flight training, and simulator training as applicable.
+
+Details of the courses offered are provided in accordance with the applicable Training Manuals and annexes.
+
+
+
+4. ORGANIZATION CHART
+
+The organization chart defines the management structure, lines of responsibility, and reporting relationships within EuroPilot Center.
+
+Reference is made to the applicable annexes and procedures for the acceptance of nominated persons.
+
+
+
+5. MANAGEMENT AND STAFF
+
+The management and staff structure of EuroPilot Center ensures that sufficient qualified personnel are available to support all approved training activities.
+
+Responsibilities and qualifications of management and staff are defined in accordance with the applicable regulations and internal procedures.
+
+6. INSTRUCTION STAFF
+
+Reference is made to:
+OMM Annex 15 – Theoretical Knowledge Instructors
+OMM Annex 16 – Flight Instructors
+
+Reference is also made to OMM Part 1, Chapter 16 – Changes not requiring prior approval of the BCAA.
+
+
+
+7. ADMINISTRATIVE STAFF
+
+Reference is made to:
+OMM Annex 17 – Administrative Staff
+
+
+
+8. AERODROMES AND OPERATING SITES
+
+Reference is made to:
+OM Part 3 Route, Chapter 5 – Training Area
+
+Reference is also made to the applicable Training Manual (TM) for the relevant training course.
+
+
+
+9. FLIGHT OPS ACCOMMODATION
+
+We refer to OMM Annex 18 – EuroPilot Center’s premises.
+
+We refer to OMM Annex 19 – SoCal Pilot Center’s premises.
+
+
+
+10. THEORETICAL INSTRUCTION FACILITIES
+
+We refer to OMM Annex 18 – EuroPilot Center’s premises.
+
+We refer to OMM Annex 19 – SoCal Pilot Center’s premises.
+
+11. DESCRIPTION OF TRAINING DEVICES
+
+We refer to OMM Annex 20 – EuroPilot Center FSTD’s.
+
+We refer to the BCAA LA/L-TRA/0155EE procedure “Modify ATO FSTD List” which can be found on the BCAA website.
+
+Always consult the latest version of the published BCAA LA/L-TRA/0155EE procedure in order to comply with the latest requirements.
+
+
+
+12. DESCRIPTION OF AIRCRAFT
+
+We refer to OMM Annex 21 – EuroPilot Center’s Training Aircraft.
+
+We refer to OMM Part 1, Chapter 16 – Changes not requiring prior approval of the BCAA.
+
+
+
+13. DIDACTIC MATERIAL
+
+We refer to the Training Manual of the applicable Training Course for a detailed overview of the training materials (Books, CBT’s) used.
+
+A cross reference list can also be found as an annex to the applicable Training Course.
+
+
+
+14. CONTRACTED TRAINING
+
+14.1 General
+
+In accordance with ORA.GEN.205, contracted activities include all activities within EuroPilot Center’s ATO scope of approval that are performed by another organization either:
+
+• itself certified to carry out such activity; or
+• working under the EuroPilot Center’s approval.
+
+EuroPilot Center is responsible to ensure that all contracted activities are subject to hazard identification and risk management as required by ORA.GEN.200(a)(3) and to compliance monitoring as required by ORA.GEN.200(a)(6).
+
+
+
+14.1.1 Organizations certified
+
+A written agreement should exist between the organization and the contracted organization clearly defining the contracted activities and the applicable requirements.
+
+A copy of this agreement must be sent to the BCAA prior to the start of the contracted activities.
+
+EuroPilot Center’s compliance monitoring system will at least check that the approval of the contractor effectively covers the contracted activities and that it is still valid.
+
+
+
+14.1.2 Organizations not certified
+
+When EuroPilot Center contracts any part of its activity to an organization that is not itself certified in accordance with this Part to carry out such activity, the contracted organization shall work under the approval of EuroPilot Center.
+
+A written agreement should exist between the organization and the contracted organization clearly defining the contracted activities and the applicable requirements.
+
+A copy of this agreement must be sent to the BCAA prior to the start of the contracted activities.
+
+In addition, EuroPilot Center shall ensure that the BCAA is given access to the contracted organization, to determine continued compliance with the applicable requirements.
+
+
+
+14.2 Procedure to establish a contracted activity
+
+The requirements as mentioned under the EuroPilot Center OMM must be met prior to the start of the contracted activities:
+
+• Part 2, Compliance Monitoring Management, Chapter 8 – Contractor / Supplier Management; and
+• Part 3, Safety Management Manual, Chapter 7 – Contracted Activities.
+
+The Accountable Manager is responsible to evaluate the financial and safety aspects of the cooperation and send a “Change Request” to the Safety Manager AND Compliance Monitoring Manager in order to trigger a “Management of Change” procedure.
+
+We refer to the procedure in OMM Part 3 – Chapter 5.9 Management of Change.
+
+
+
+15. ACCESS
+
+Access to the EuroPilot Center premises is provided to all Flight Instructors, Theoretical Knowledge Instructors, FSTD maintenance personnel and students enrolled in the training programs.
+
+A badge system restricts the access to the EuroPilot Center building after office hours.
+
+Hangars accessibility is restricted by use of the Antwerp Airport badge.
+
+
+
+16. CHANGES NOT REQUIRING PRIOR APPROVAL OF THE BCAA
+
+In accordance with ORA.GEN.130(c), the following changes do not require prior approval by the BCAA:
+
+• changes in Theoretical Knowledge Personnel;
+• changes in Flight Instruction Personnel;
+• adding or removing aircraft.
+
+The Accountable Manager is authorized to hire new training staff and add or remove aircraft to the training fleet as required by the operational needs of the organization.
+
+We refer to OM Part 4 – Chapter 1, Responsibilities.
+
+For every change, the Accountable Manager is responsible to send a “Change Request” to the Safety Manager AND Compliance Monitoring Manager in order to trigger a “Management of Change” procedure.
+
+We refer to the procedure in OMM Part 3 – Chapter 5.9 Management of Change.
+
+
+
+16.1 Hiring new Theoretical Knowledge Instructors (TKI’s)
+
+Every new Theoretical Knowledge Instructor shall in accordance with AMC1 ORA.ATO.110(c) have a practical background in aviation in the areas relevant for the training provided and have undergone a course of training in instructional techniques, or have previous experience in giving theoretical knowledge instruction and an appropriate theoretical background in the subject on which the candidate will provide theoretical knowledge instruction.
+
+The defined hiring procedure shall be followed.
+
+• Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New TKI + FIRST NAME, LAST NAME” and the content of the e-mail should outline the details of the proposed changes, including the Resume of the applicant and additional relevant data.
+
+• Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+
+• Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+
+• Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+
+• Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+	1.	Verification of relevant experience by the Safety Manager + Deadline.
+	2.	Uploading ID/Passport in the Project.
+	3.	Scheduling and executing a Psychological Assessment: PELICAN Test online.
+	4.	Motivational Interview (in-person or online) by: AM, SM, HT or Chief TKI.
+	5.	Scheduling/executing a supervised Test Lecture, by the HT or Chief TKI.
+	6.	Scheduling/execution “Decision Meeting” with AM, CMM, HT and Chief TKI.
+	7.	Final Verification of the CMM performed.
+
+• Step 6 – The Safety Manager records the minutes of the “Decision Meeting” in the Project Notes and sends an e-mail to the AM, CMM, HT and Chief TKI which must include the final decision on hiring the applicant or not.
+
+Option A - After a positive evaluation of steps 1 to 6 above:
+
+• Step 7a - The Safety Manager creates a “Hiring Task/Event Checklist” containing:
+	1.	Sending an e-mail to applicant notifying about the decision taken.
+	2.	Sending out the Theoretical Knowledge Instructor Contract via Docusign.
+	3.	Scheduling the require standardization training.
+	4.	Sending an e-mail to the applicant outlining the standardization training items.
+	5.	Adding the applicant to the Theoretical Knowledge Instructor Annex.
+	6.	The Accountable Manager notifies the BCAA of the upcoming change via e-mail, at least 10 days before the new Theoretical Knowledge Instructor will start his/her duties. He/she shall attach the updated Theoretical knowledge Instructor Annex.
+	7.	Instructor Data saved in E-gle + FlightCircle by the Operations Manager.
+	8.	Final Verification by the CMM performed.
+
+Option B - After a negative evaluation of steps 1 to 6 above:
+
+• Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+	1.	Sending an e-mail to applicant notifying about the decision taken.
+	2.	Sending an e-mail to the AM, CMM, HT and Chief TKI about the outcome.
+
+• Step 8 - The Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End.
+
+
+
+16.2 Hiring new Flight Instructors (FI(A), CRI, IRI, MCCI’s)
+
+Every new Flight Instructor shall in accordance with ORA.ATO.110(d) hold the qualifications required by Part-FCL for the type of training that the candidate will provide on an aircraft and/or FSTD.
+
+The defined hiring procedure shall be followed.
+
+• Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New FI/CRI/IRI/MCCI + FIRST NAME, LAST NAME” and the content of the e-mail should outline the details of the proposed changes, including the Resume of the applicant and additional relevant data (e.g. Medical, License, Logbook Scan, Additional Certificates).
+
+• Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+
+• Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+
+• Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+
+• Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+	1.	Verification of relevant experience by the Safety Manager + Deadline.
+	2.	Uploading: ID/Passport, Medical Class, Pilot License and the last page of the applicant’s Logbook in the Project.
+	3.	Scheduling and executing a Psychological Assessment: PELICAN Test online.
+	4.	Motivational Interview (in-person or online) by: AM, HT or CFI.
+	5.	Scheduling/executing a 1 hour assessment by the HT or his/her deputy or CFI on the FSTD in order to verify the instructional skills of the applicant.
+	6.	Scheduling/execution of a “Decision Meeting” with the AM, CMM, HT and CFI.
+	7.	Final Verification of the CMM performed.
+
+• Step 6 – The Safety Manager records the minutes of the “Decision Meeting” in the Project Notes and sends an e-mail to the AM, CMM, HT and CFI which must include the final decision on hiring the applicant or not.
+
+Option A - After a positive evaluation of steps 1 to 6 above:
+
+• Step 7a - The Safety Manager creates a “Hiring Task/Event Checklist” containing:
+	1.	Sending an e-mail to applicant notifying about the decision taken.
+	2.	Sending out the Flight Instructor Contract via Docusign.
+	3.	Scheduling the require standardization training.
+	4.	Sending an e-mail to the applicant outlining the standardization training items.
+	5.	Adding the applicant to the Flight Instructor Annex.
+	6.	The Accountable Manager notifies the the BCAA of the upcoming change via e-mail, at least 10 days before the new Flight Instructor will start his/her duties. He/she shall attach the updated Flight Instructor Annex.
+	7.	Instructor Data saved in E-gle + FlightCircle by the Operations Manager.
+	8.	Final Verification by the CMM performed.
+
+Option B - After a negative evaluation of steps 1 to 6 above:
+
+• Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+	1.	Sending an e-mail to applicant notifying about the decision taken.
+	2.	Sending an e-mail to the AM, CMM, HT and CFI about the outcome.
+
+• Step 8 - The Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End.
+
+
+
+16.3 Adding / Removing Aircraft
+
+A new training aircraft shall fulfill the requirements in accordance with ORA.ATO.135 and AMC1 ORA.ATO.135.
+
+The following procedure applies:
+
+• Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New Aircraft + REGISTRATION” and the content of the e-mail should outline the details of the proposed changes, including the relevant data (e.g. Aircraft Documents).
+
+• Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+
+• Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+
+As a guideline, the following items should at least be taken into consideration by the SM:
+	•	Is the new aircraft suitable for the home and alternate bases (are there any limitations)?
+	•	Is the development of new SOP’s required?
+	•	Is an update of the relevant parts of the OM and Training Manuals required?
+	•	Is a refresher/standardization training required for Flight Instructors needed?
+	•	Is there maintenance available?
+
+• Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+
+• Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+	1.	Management of Change Procedure Safety Item(s) + Mitigation Actions added by the Safety Manager.
+	2.	Certificate of Registration checked/uploaded (Pipedrive) by the SM.
+	3.	Certificate of Airworthiness checked/uploaded (Pipedrive) by the SM.
+	4.	Valid Airworthiness Review Certificate checked/uploaded (Pipedrive) by the SM.
+	5.	Noise Certificate checked/uploaded (Pipedrive) by the SM.
+	6.	Aircraft Radio Station License checked/uploaded (Pipedrive) by the SM.
+	7.	Last page of the Journey Log checked/uploaded (Pipedrive) by the SM.
+	8.	MEL/CDL (if applicable) checked/uploaded (Pipedrive) by the SM.
+	9.	Last revision of POH/checklist checked/uploaded (Pipedrive) by the SM.
+	10.	Maintenance (eg. Last 100h/Annual) checked/uploaded (Pipedrive) by the SM.
+	11.	Third Party Liability Insurance checked/uploaded (Pipedrive) by the SM.
+	12.	Copy of CAMO Contract checked/uploaded (Pipedrive) by the SM.
+	13.	Verification of Squawk Items: checked/uploaded (Pipedrive) by the SM.
+	14.	Final Verification of the CMM performed.
+
+• Step 6 – The Safety Manager records possible findings in the Project Notes and sends an e-mail to the AM, CMM, and HT outlining these findings.
+
+
+
+
+16.4 Notification of changes to the BCAA
+
+A notification shall be sent by the Accountable Manager via e-mail at least 10 working days before the date of the proposed change.
+
+• The e-mail address to be used: BCAA.ATO@mobilit.fgov.be
+
+16.4.1 Flight/Theoretical Knowledge Instructors
+The subject of the e-mail to be sent by the Accountable Manager shall be as follows:
+
+• “EuroPilot Center B/ATO-017 (L-TRA/0153)”
+
+For Flight Instructors, the OMM Annex – Flight Instructors, shall be attached in a PDF format with the following file name:
+
+• BE_ATO-017_FI list_Vx.x_yyyy-mm-dd.pdf
+
+For Theoretical Knowledge Instructors, the OMM Annex – Theoretical Knowledge Instructors, shall be attached in a PDF format with the following file name:
+
+• BE_ATO-017_TKI list_Vx.x_yyyy-mm-dd.pdf
+
+Note: The email shall include the request and indicate the date at which the instructor will start his duty.
+
+
+
+16.4.2 Aircraft
+For Aircraft, the OMM Annex – Aircraft List, shall be attached in a PDF format with the following file name:
+
+• BE_ATO-017_AC list_Vx.x_yyyy-mm-dd.pdf
+
+

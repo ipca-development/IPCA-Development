@@ -22,8 +22,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
             'Symfony\\Polyfill\\Php80\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
+            'Svg\\' => 4,
             'Slim\\Psr7\\' => 10,
             'Slim\\' => 5,
+            'Sabberworm\\CSS\\' => 15,
         ),
         'R' =>
         array (
@@ -37,6 +39,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
             'PhpOption\\' => 10,
+        ),
+        'M' =>
+        array (
+            'Masterminds\\' => 12,
         ),
         'L' =>
         array (
@@ -53,12 +59,14 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         ),
         'F' =>
         array (
+            'FontLib\\' => 8,
             'Fig\\Http\\Message\\' => 17,
             'FastRoute\\' => 10,
         ),
         'D' =>
         array (
             'Dotenv\\' => 7,
+            'Dompdf\\' => 7,
             'DI\\' => 3,
         ),
         'B' =>
@@ -80,6 +88,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
+        'Svg\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/dompdf/php-svg-lib/src/Svg',
+        ),
         'Slim\\Psr7\\' =>
         array (
             0 => __DIR__ . '/..' . '/slim/psr7/src',
@@ -87,6 +99,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         'Slim\\' =>
         array (
             0 => __DIR__ . '/..' . '/slim/slim/Slim',
+        ),
+        'Sabberworm\\CSS\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/sabberworm/php-css-parser/src',
         ),
         'Ramsey\\Uuid\\' =>
         array (
@@ -118,6 +134,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
         ),
+        'Masterminds\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/masterminds/html5/src',
+        ),
         'Laravel\\SerializableClosure\\' =>
         array (
             0 => __DIR__ . '/..' . '/laravel/serializable-closure/src',
@@ -134,6 +154,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         array (
             0 => __DIR__ . '/..' . '/graham-campbell/result-type/src',
         ),
+        'FontLib\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/dompdf/php-font-lib/src/FontLib',
+        ),
         'Fig\\Http\\Message\\' =>
         array (
             0 => __DIR__ . '/..' . '/fig/http-message-util/src',
@@ -145,6 +169,10 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
         'Dotenv\\' =>
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
+        ),
+        'Dompdf\\' =>
+        array (
+            0 => __DIR__ . '/..' . '/dompdf/dompdf/src',
         ),
         'DI\\' =>
         array (
@@ -159,6 +187,7 @@ class ComposerStaticInitef36d2ce4aadcd656f8edf306e1c29ff
     public static $classMap = array (
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Dompdf\\Cpdf' => __DIR__ . '/..' . '/dompdf/dompdf/lib/Cpdf.php',
         'PhpToken' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/PhpToken.php',
         'Stringable' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Stringable.php',
         'UnhandledMatchError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php',

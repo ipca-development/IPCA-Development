@@ -1,0 +1,2978 @@
+
+
+
+
+
+
+
+
+
+Revision System
+The EuroPilot Center Organization Management Manual and its amendments are proposed, drafted, issued and after a BCAA spot check, accepted and implemented by the Head of Training. The Compliance Monitoring Manager ensures the content of the Training Manual complies with all applicable regulations and requirements.
+Any amendment proposal by the Head of Training, will be executed by sending an e-mail message to the Compliance Monitoring Manager and the Accountable Manager. The e-mail message should include the revised “draft” of the applicable manual, section or paragraph, attached to the e-mail message, as well as the reason(s) for the amendment. Upon verification of the “draft” by the Compliance Monitoring Manager, the amendment will be sent to the BCAA.
+All amendments are to be accompanied by:
+An updated List of Effective Parts which will enable the holder to check whether his manual is up to date.
+Changes, additions or deletions can be identified by a vertical bar placed in front of the respective text line or paragraph.
+A paragraph: “Highlight of changes” will be published as part of this manual, including a full history of changes between the actual and original revisions.
+Digital password protected Portable Document Format-versions (PDF) of the EuroPilot Center Organization Management Manual (OMM), may be distributed with the annunciation “Uncontrolled Copy” on top of each page. These files will be protected against printing.
+
+
+Note: A Temporary Revision Procedure is not applicable within EuroPilot Center B/ATO-017.
+
+Amendment list
+
+REVISION NR
+REASON
+REVISION DATE
+EFFECTIVE DATE
+DATE INCORP.
+INCORP. BY
+Original
+First issue of the OMM
+1/07/13
+1/08/13
+1/09/13
+KAY
+Rev 1
+Amendement 1
+30/06/17
+15/07/17
+30/06/17
+KAY
+Rev 2
+Addition NQ to ATO
+28/08/18
+10/09/18
+07/09/18
+KAY
+Rev 3
+Audit Find. & Misc Changes
+02/11/19
+20/11/19
+04/11/19
+KAY
+Rev 4
+Audit Find. & Misc Changes
+24/12/22
+19/01/23
+19/01/23
+STEF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RETAIN SHEET UNTIL REPLACED WITH NEW ISSUE
+
+Distribution list
+
+
+COPY NR
+ISSUE TO
+0
+Master Copy
+1
+BCAA - Training Department (Signed Digital PDF file)
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 - 30
+
+
+
+
+
+
+Highlight of changes
+Revision 3 Changes:
+Part 0 – List of Effective Pages, BCAA Acceptance-stamp box removed.
+Part 1 – Chapter 1, Chapter 1.2, address change of USA Training satellite location.
+Part 1 – Addition of the Private Pilot PPL(A) and Theoretical Course PPL(A).
+Part 2 – Chapter 5, Paragraph 5.1.4, text amended: If no action is taken within the extended time limit, it is the responsibility of the Compliance Monitoring Manager to inform the Civil Aviation Authorities according and suggest an acceptable solution.
+Part 2 – Chapter 7.2.3, defect Reporting, added the Alsim Techlog Procedure for BE/FNPT-024
+Part 2 – Chapter 12, Paragraph 12.2.4 added in order to describe the action required in case of a major change, relocation, deactivation, major failure or safety issue with an FSTD.
+Part 2 – Chapter 6, Paragraph 6.1.5 Details for a dossier for recurrent evaluation added.
+Part 3 – Chapter 3, Paragraph 3.2.1 change of nominated persons, Mr. Jasper De Hertog & Compliance Monitoring Manager, Mr. Koen Maes.
+Part 3 – Safety Management Manual, Chapter 5, Paragraph 5.6.1 was changed since the OMM only referred to the 72h timeframe requirement. It is now mentioned that a preliminary report and shall be submitted within 30 days and a final report within 90 days as described in EU 376/2014 Article 13 and BCAA CIRC MAS-01 3.4.3 and 3.4.4.
+Part 3 - Safety Management Manual, Chapter 5, Paragraph 5.6.5, added the anonymous reporting URL to the Manual.
+Annex 20 - FSTD Updated with FNPT-024
+Annex 24 for FNPT- 02 – Difference List
+
+Revision 4 Changes:
+Part 0 – Title page added, based upon remarks of other recently audited manuals.
+Part 0 – Chapter 0.1 Effective Parts, page numbers changed due to insertion of several new paragraphs.
+Part 0 – Chapter 0.2 Updated Revision Procedure: by previous BCAA remarks, the wording “proposed” was added and well as the section “Any amendment proposal by the Head of Training, will be executed by sending an e-mail message to the Compliance Monitoring Manager and the Accountable Manager. The e-mail message should include the revised “draft” of the applicable manual, section or paragraph, attached to the e-mail message, as well as the reason(s) for the amendment. Upon verification of the “draft” by the Compliance Monitoring Manager, the amendment will be sent to the BCAA.”
+Part 0 – Chapter 0.2 Based on previous BCAA remarks, the note: A Temporary Revision Procedure is not applicable within EuroPilot Center B/ATO-017, has been added.
+Part 0 – 0.3 Record of Revision, Revision 4 has been added.
+Part 0 – 0.4 Distribution List: Updated to one hard copy and one BCAA soft copy. BCAA did not require a hard-copy anymore since 2018.
+Part 0 – Addition of 0.5 Highlight of Changes updated reflection revised items.
+Part 1 – Added additional information regarding the satellite base address. The address remained unchanged, but the Hagar location has changed. Additional local phone number added as well.
+Part 1 – 2. Legal Status of the ATO, resignation of Mr. Vereeken as Manager has been added including statement regarding vested interest. In addition a new OMM Annex 25 has been added to demonstrate compliance.
+Part 1 – 3. Training Courses Offered. An up-to-date overview has been provided in-line with the current ATO Certificate.
+Part 1 – 4. Organization Chart. Chart referred to was updated and provided. In addition, an up-to-date reference was made to the online described procedure for “Accepting Nominated Persons of an ATO”.
+
+Part 1 – 9. Flight Ops Accommodation: The OMM Annex 19 has been updated, showing the facilities in the USA.
+Part 1 – 10. Theoretical Instruction Facilities: The OMM Annex 19 has been updated, showing the facilities in the USA.
+Annex 14 renamed: Nominated Persons Contact List + Details Updated accordingly.
+Part 1 – 11. Description of Training Devices, an up-to-date reference was made to the online described procedure for “Modifying the ATO FSTD List ”.
+Part 1 – 14. Contracted Training, the procedure has been described in detail and the note, as agreed in audit finding 165 has been added to cover Compliance Monitoring of Subcontractors in the USA.
+Part 1 – 16. Changes not requiring prior approval of the BCAA, in order to be compliant with audit finding 164 the following note has been added: “For every change, the Accountable Manager is responsible to send a “Change Request” to the Safety Manager AND Compliance Monitoring Manager in order to trigger a “Management of Change” -Procedure.”
+Part 1 – 16.1 Hiring New Instructors process has been described in detail.
+Part 1 – 16.2 Hiring New Flight Instructors process has been described in detail.
+Part 1 – 16.3 Adding Removing Aircraft process has been described in detail, taking into account the audit finding 166, involving compliance with all requirements of the Regulation (EU) 2018/1139 of the training aircraft based in the USA.
+Part 2 – 1.1 Compliance Monitoring Policy by the new AM updated including Annex 3.
+Part 2 – 2.4 Organizational Change updated in accordance with audit finding 164.
+Part 2 – 3.1 Organogram Updated.
+Part 2 – 4.2 Inspection Scopes, Updated with BCAA Remarks to close audit finding 167 and added location USA + Item 10, Regulatory changes, being a monthly check by the CMM as part of the scope.
+Part 2 – 4.2 Inspection Scope, Added Annex 26 - Regulatory Changes Notifications
+Part 2 – 4.2 Inspection Scope, Added Annex 27 - Regulatory Changes Checklist
+Part 2 – 5.3 Annex 1, Audit Scope Plan updated, including the Regulatory Changes.
+Part 2 – 5.5 List of Auditors Updated.
+Part 2 – 8.2 Supervision of Subcontractors / Suppliers updated in accordance with the BCAA remarks.
+Part 2 – 13.0 Added new chapter: Regulatory Changes Follow-up Procedures, outlining the procedure on how the CMM can follow up and be pro-active in changing regulations and policies, affecting the ATO. This should close audit finding 163.
+Part 3 – Chapter 2.2 Safety Policy, updated and signed by the new AM. In addition, Annex 29, Safety Policy Revision 4 has been produced which shall be printed and displayed at the ATO premises.
+Part 3 – Chapter 3.4 Safety Review Board has been updated. The process has been described in depth for each stage, who is responsible for what and how the SRB Meeting Minutes shall be recorded, how an action plan shall be drafted and how it can trigger a Management of Change Procedure. It also outlines how the actions items shall be closed. This should close audit finding 168 and 171.
+Part 3 – Chapter 3.5 Safety Action Group. The procedure has been updated to be consistent.
+Part 3 – Chapter 5.9 Management of Change has been updated, including the phases and responsibilities of each Nominated Person. This should close finding 164 and 171.
+Part 3 – Chapter 7.2.3, added FNPT-028 including associated procedures.
+Part 3 – Chapter 8.2 Communication, outlines the procedure on ensuring that Safety Posters/ Leaflets are displayed, and also describes the reference to the Annex 29 - Visible Mandatory Documents, which can be verified by the CMM. This should close Audit finding 169.
+Part 3 – Chapter 8.3 Safety Committee Airport Meetings, was added including the procedure on who shall attend, how to log, analyze and create an action plan (if required). This should close Audit finding 170.
+After BCAA Remarks, finding 1) Changed the name of the Manual to Organization Management Manual on all pages.
+
+After BCAA Remarks, finding 2) Changed the reference to “all applicable EASA Part FCL, Part ORA and all other relevant Subparts”.
+Added Part ORA reference to OMM Part 2, paragraph 1.2.
+Added Part ORA reference to OMM Part 2, paragraph 2.1.
+After BCAA Remarks, finding 3, Updated Part 0, paragraph 0.2 to reflect the OMM instead of the typo referring to the OM.
+After BCAA Remarks, finding 4, Paragraph 3.2.3 provides the details on the experience requirements for CMM’s and Assistant CMM’s and Auditors. In addition, a theoretical and practical Initial Training plan has been defined under 3.2.4. Also this has been defined for the Auditors, and FSTD CMM’s. Paragraph 3.3.1 has been added to the Safety Management Manual, outlining the experience requirements of the SM. In addition, a theoretical and practical Initial Training plan has been defined under 3.2.3.
+After BCAA Remarks, finding 5, Updated Part 1, Chapter 14 and added the ORA.GEN 205, AMC1 ORA.GEN 205, and GM to this section for clarity. A new Annex 31 enlisting the Contractor has been established.
+After BCAA Remarks, finding 6, Part 2, Paragraph 9 has been updated to reflect the actual situation whereby the CMM has a MONTHLY meeting with the AM to discuss the results of Audit Findings, discuss corrective actions, and follow up on corrective action closures. The meeting will be recorded in the same way through our CRM system.
+After BCAA Remarks, finding 7, Update Part 2, Paragraph 11.3 ensuring electronic back-ups are to be kept for 5 years.
+After BCAA Remarks, finding 8, Paragraph 3.2.3 provides the details on the experience requirements for Compliance Auditors and Assistant Compliance Auditors. In addition, a theoretical and practical Initial Training plan has been defined under 3.2.4. Also this has been defined for FSTD Compliance Monitoring Auditors.
+After BCAA Remarks, finding 9, Updated Part 2, Paragraph 13, the outdated EC 216/2008 has been deleted and reference to ORA.GEN.135 has been maintained.
+Part 1 - ATO General Information	2
+GENERAL INFORMATION	2
+LEGAL STATUS OF THE ATO	3
+TRAINING COURSES OFFERED	4
+ORGANIZATION CHART	5
+MANAGEMENT AND STAFF	6
+INSTRUCTION STAFF	7
+ADMINISTRATIVE STAFF	8
+- AERODROMES AND OPERATING SITES	9
+- FLIGHT OPS ACCOMMODATION	10
+- THEORETICAL INSTRUCTION FACILITIES	11
+DESCRIPTION OF TRAINING DEVICES	12
+DESCRIPTION OF AIRCRAFT	13
+DIDACTIC MATERIAL	14
+CONTRACTED TRAINING	15
+ACCESS	17
+CHANGES NOT REQUIRING PRIOR APPROVAL OF THE BCAA	18
+Part 1 - ATO General Information
+GENERAL INFORMATION
+Principle Place of Business
+EuroPilot Center has its principle place of business at:
+
+EuroPilot Center
+Luchthavenlei EPC Building Box 210 B- 2100 Antwerp - Belgium
+Phone: +32(0) 3 281 84 29
+
+Training Locations
+Main Training Location: Antwerp, Belgium (EBAW)
+
+EuroPilot Center
+Luchthavenlei EPC Building Box 210 B- 2100 Antwerp - Belgium
+Phone: +32(0) 3 281 84 29
+
+Satellite Training Location: Thermal, California USA (KTRM)
+
+EuroPilot Center doing business as SoCal Pilot Center 56-850 Higgins Drive
+(Hangars 026 and 027 along Avenger Blvd) CA 92274 Thermal
+Phone: +1(0) 760 238 0209
+Phone: +1(0) 760 989 4525
+
+LEGAL STATUS OF THE ATO
+We refer to OMM Annex 12 - Legal Status of EuroPilot Center bvba. We refer to OMM Annex 13 - Legal Status of SoCal Pilot Center.
+Note 1: Mr. Kay Vereeken, resigned as Manager (“Zaakvoerder”) of EuroPilot Center BV on
+31-12-2019. In compliance with FCL.1005 (b), BFCL.405 (b), SFCL.405 (b), Article 23 of the Royal Decree of 23 October 2013, and by obtaining formal confirmation in writing from the BCAA on January 25, 2022, it was demonstrated and acknowledged that no vested interest exists.
+Consequently Mr. Kay Vereeken is allowed to act as an EASA Flight Examiner for initial Skill-Tests or Assessment of Competences of applicants trained within EuroPilot Center B/ATO-017.
+We refer to OMM Annex 25 - Manager Resignation.
+
+TRAINING COURSES OFFERED
+Below is an updated overview of all Airplane Training Courses offered by EuroPilot Center:
+
+Id
+Course
+Type
+Category
+Sort
+EASA Ref.
+TM Ref.
+A.
+ATPL(A) – Theoretical knowledge training – including distance learning.
+Modular
+Airplane
+Theory - DL*
+AMC1 App. 3 - B
+TM - ATPL TM - GEN
+B.
+PPL(A) – Including distance learning
+Modular
+Airplane
+Theory - DL* Flight
+AMC1 FCL.210; 215
+TM - PPL(A) TM - GEN
+C.
+CPL(A) – Modular
+Modular
+Airplane
+Flight
+AMC1 App. 3 - E
+TM - CPL(A) TM - GEN
+D.
+Advanced UPRT (A)
+Modular
+Airplane
+Flight
+AMC1 FCL.745.A
+TM - AUPRT(A) TM - GEN
+E.
+MCC(A) - Including APS
+Modular
+Airplane
+Theory Flight
+AMC 1 FLC.735.A
+TM - APS/ MCC
+TM - GEN
+F.
+IR(A) - SE and ME
+Modular
+Airplane
+Theory - DL* Flight
+AMC1 App. 6
+TM - IR(A) TM - GEN
+G
+Class Rating MEP Land
+Modular
+Airplane
+Theory - S Flight
+AMC1 FCL.725A
+TM - MEP TM - GEN
+H
+Additional Rating – Night (A)
+Modular
+Airplane
+Flight
+N/A
+TM - NQ TM - GEN
+I.
+FI(A)
+Modular
+Airplane
+Theory - S Flight
+AMC1 FCL.930.FI
+TM - FI TM - GEN
+J.
+IRI(A)
+Modular
+Airplane
+Theory - S Flight
+AMC1 FLC.930.IRI
+TM - IRI TM - GEN
+K.
+Class Rating Instructor
+Modular
+Airplane
+Theory - S Flight
+AMC1 FCL.930.CRI
+TM - CRI TM - GEN
+
+
+
+*DL	= Distance Learning
+*S	= Standard
+
+ORGANIZATION CHART
+We refer to the OM, Part 1 General, Chapter 2.1.2 - Organigram.
+The official Nominated Persons Acceptance form LA/L-TRA/0152D51E must be sent by e-mail to the BCAA.
+We refer to the BCAA LA/L-TRA/0152EE procedure “Accept a Nominated Person of an ATO” which can be found on the BCAA website.
+Note: Always consult the latest version of the published BCAA LA/L-TRA/0152EE procedure in order to comply with the latest requirements.
+We refer to OMM Annex 14 – Nominated Person Contact Details.
+
+MANAGEMENT AND STAFF
+We refer to the OM, Part 1 General, Chapter 2.1.1 - Management and Staff.
+
+INSTRUCTION STAFF
+We refer to OMM Annex 15 - Theoretical Knowledge Instructors. We refer to OMM Annex 16 - Flight Instructors.
+We refer to OMM Part 1, General, Chapter 16, Changes not requiring prior approval of the BCAA.
+
+ADMINISTRATIVE STAFF
+We refer to OMM Annex 17 - Administrative Staff.
+
+8 - AERODROMES AND OPERATING SITES
+
+We refer to the OM, Part 3 Route, Chapter 5 - Training Area and the applicable TM for that particular Training course.
+
+
+
+DESCRIPTION OF TRAINING DEVICES
+
+We refer to OMM Annex 20 - EuroPilot Center FSTD’s
+We refer to the BCAA LA/L-TRA/0155EE procedure “Modify ATO FSTD List” which can be found on the BCAA website.
+Note: Always consult the latest version of the published BCAA LA/L-TRA/0155EE procedure in order to comply with the latest requirements.
+
+DESCRIPTION OF AIRCRAFT
+We refer to OMM Annex 21 - EuroPilot Center’s Training Aircraft
+We refer to OMM Part 1, General, Chapter 16, Changes not requiring prior approval of the BCAA.
+
+DIDACTIC MATERIAL
+We refer to the Training Manual of the applicable Training Course for a detailed overview of the training materials (Books, CBT’s) used.
+A cross reference list can also be found as an annex to the applicable Training Course.
+
+CONTRACTED TRAINING
+General
+In accordance with ORA.GEN.205, contracted activities include all activities within EuroPilot Center’s ATO scope of approval that are performed by another organization either:
+Itself certified to carry out such activity; or if not certified
+Working under the EuroPilot Center’s approval.
+EuroPilot Center is responsible to ensure that the all contracted activities are subject to hazard identification and risk management as required by ORA.GEN.200(a)(3) and to compliance monitoring as required by ORA.GEN.200(a)(6).
+Organizations certified
+A written agreement should exist between the organization and the contracted organization clearly defining the contracted activities and the applicable requirements.
+Note: A copy of this agreement must be sent to the BCAA prior to the start of the contracted activities.
+EuroPilot Center’s compliance monitoring system, will at least check that if the approval of the contractor effectively covers the contracted activities and that it is still valid.
+Organizations not certified
+When EuroPilot Center contracts any part of its activity to an organization that is not itself certified in accordance with this Part to carry out such activity, the contracted organization shall work under the approval of EuroPilot Center.
+A written agreement should exist between the organization and the contracted organization clearly defining the contracted activities and the applicable requirements.
+Note: A copy of this agreement must be sent to the BCAA prior to the start of the contracted activities.
+In addition, EuroPilot Center shall ensure that the BCAA is given access to the contracted organization, to determine continued compliance with the applicable requirements.
+Procedure to establish a contracted activity
+The requirements as mentioned under the EuroPilot Center OMM must be met:
+Part 2, Compliance Monitoring, Chapter 8, Contractor/Supplier Management; and
+Part 3, Safety Management, Chapter 7, Contracted Activities must be met prior to the start of the contracted activities.
+The Accountable Manager is responsible to evaluate the financial and safety aspects of the cooperation and send a “Change Request” to the Safety Manager AND Compliance Monitoring Manager in order to trigger a “Management of Change” -Procedure.
+We refer to to the procedure in the OMM Part 3 – Chapter 5.9 Management of Change.
+
+The following procedure applies:
+Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New CONTRACTOR, NAME” and the content of the e-mail should outline the details of the proposed changes and additional relevant data.
+Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+In depth evaluation of the contracted activities by the SM.
+In depth evaluation of the contracted activities by the CMM.
+Scheduling/executing the required Initial Physical Inspection/Compliance Audit.
+Scheduling/execution “Decision Meeting” with AM, CMM, SM.
+Step 6 – The Safety Manager records the minutes of the “Decision Meeting” in the Project Notes and sends an e-mail to the AM and CMM which must include the final decision on starting the cooperation with the new contractor or not.
+Note: For contracted Activities at the satellite base in the USA, the CMM will perform a physical site-inspection and verify that the required all required Safety and Compliance Standards in accordance with the applicable EASA and Federal Aviation Regulations are met.
+Option A - After a positive evaluation of steps 1 to 6 above:
+Step 7a - The Safety Manager creates a “Contractor Task/Event Checklist” containing:
+Sending an e-mail to the contractor notifying about the final decision taken.
+Finalizing the Contract between the ATO and the new Contractor.
+Uploading the signed Contract (Pipedrive Project).
+The Accountable Manager sends a copy of the contract via e-mail to the BCAA, in order to request formal approval.
+The Accountable Manager receives BCAA Approval*.
+*If no formal approval is obtained form the BCAA, proceed to Option B below:
+Option B - After a negative evaluation of steps 1 to 6 above or disapproval by the BCAA:
+Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+Sending an e-mail to contractor notifying about the decision taken.
+Sending an e-mail to the AM and CMM about the outcome.
+Step 8 - The Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End
+We refer to OMM Annex 31 – List of Contractors
+
+ACCESS
+
+Access to the EuroPilot Center premises is provided to all Flight Instructors, Theoretical Knowledge Instructors as well as to FSTD maintenance personnel and students enrolled in our Training Programs.
+A badge system restricts the access to the EuroPilot Center building after office hours. Hangars accessibility is restricted by use of the Antwerp Airport Badge.
+
+CHANGES NOT REQUIRING PRIOR APPROVAL OF THE BCAA
+
+In accordance with ORA.GEN.130 (c), the following changes do not require prior approval by the BCAA:
+Changes in Theoretical Knowledge Personnel;
+Changes in Flight Instruction Personnel;
+Adding/Removing Aircraft;
+The Accountable Manager is authorized to hire new training staff, add/remove Aircraft to the training fleet as required by the operational needs of the organization.
+We refer to the OM Part 4 – Chapter 1, Responsibilities.
+Note: For every change, the Accountable Manager is responsible to send a “Change Request” to the Safety Manager AND Compliance Monitoring Manager in order to trigger a “Management of Change” -Procedure.
+We refer to to the procedure in the OMM Part 3 – Chapter 5.9 Management of Change.
+
+Hiring new Theoretical Knowledge Instructors (TKI’s)
+Every new Theoretical Knowledge shall in accordance with AMC1 ORA.ATO.110 (c) have a practical background in aviation in the areas relevant for the training provided and have undergone a course of training in instructional techniques; or have previous experience in giving theoretical knowledge instruction and an appropriate theoretical background in the subject on which the candidate will provide theoretical knowledge instruction. The following hiring procedure applies:
+Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New TKI + FIRST NAME, LAST NAME” and the content of the e-mail should outline the details of the proposed changes, including the Resume of the applicant and additional relevant data.
+Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+Verification of relevant experience by the Safety Manager + Deadline.
+Uploading ID/Passport in the Project.
+Scheduling and executing a Psychological Assessment: PELICAN Test online.
+Motivational Interview (in-person or online) by: AM, SM, HT or Chief TKI.
+Scheduling/executing a supervised Test Lecture, by the HT or Chief TKI.
+Scheduling/execution “Decision Meeting” with AM, CMM, HT and Chief TKI.
+Final Verification of the CMM performed.
+Step 6 – The Safety Manager records the minutes of the “Decision Meeting” in the Project Notes and sends an e-mail to the AM, CMM, HT and Chief TKI which must include the final decision on hiring the applicant or not.
+Option A - After a positive evaluation of steps 1 to 6 above:
+Step 7a - The Safety Manager creates a “Hiring Task/Event Checklist” containing:
+Sending an e-mail to applicant notifying about the decision taken.
+Sending out the Theoretical Knowledge Instructor Contract via Docusign.
+Scheduling the require standardization training.
+Sending an e-mail to the applicant outlining the standardization training items.
+Adding the applicant to the Theoretical Knowledge Instructor Annex.
+The Accountable Manager notifies the the BCAA of the upcoming change via e-mail, at least 10 days before the new Theoretical Knowledge Instructor will start his/ her duties. He/she shall attach the updated Theoretical knowledge Instructor Annex. We refer to the 16.4 below.
+Instructor Data saved in E-gle + FlightCircle by the Operations Manager.
+Final Verification by the CMM performed.
+Option B - After a negative evaluation of steps 1 to 6 above:
+Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+Sending an e-mail to applicant notifying about the decision taken.
+Sending an e-mail to the AM, CMM, HT and Chief TKI about the outcome.
+Step 8 - The Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End.
+
+Hiring new Flight Instructors (FI(A), CRI, IRI MCCI’s)
+Every new Flight Instructor shall in accordance with ORA.ATO.110 (d), hold the qualifications required by the Part-FCL for the type of training that the candidate will provide on an aircraft and/or FSTD. The following procedure applies:
+Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New FI/CRI/IRI/MCCI + FIRST NAME, LAST NAME” and the content of the e-mail should outline the details of the proposed changes, including the Resume of the applicant and additional relevant data (e.g. Medical, License, Logbook Scan, Additional Certificates).
+Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+Verification of relevant experience by the Safety Manager + Deadline.
+Uploading: ID/Passport, Medical Class, Pilot License and the last page of the applicant’s Logbook in the Project.
+Scheduling and executing a Psychological Assessment: PELICAN Test online.
+Motivational Interview (in-person or online) by: AM, HT or CFI.
+Scheduling/executing a 1 hour assessment by the HT or his/her deputy or CFI on the FSTD in order to verify the instructional skills of the applicant.
+Scheduling/execution of a “Decision Meeting” with the AM, CMM, HT and CFI.
+Final Verification of the CMM performed.
+Step 6 – The Safety Manager records the minutes of the “Decision Meeting” in the Project Notes and sends an e-mail to the AM, CMM, HT and CFI which must include the final decision on hiring the applicant or not.
+Option A - After a positive evaluation of steps 1 to 6 above:
+Step 7a - The Safety Manager creates a “Hiring Task/Event Checklist” containing:
+Sending an e-mail to applicant notifying about the decision taken.
+Sending out the Flight Instructor Contract via Docusign.
+Scheduling the require standardization training.
+Sending an e-mail to the applicant outlining the standardization training items.
+Adding the applicant to the Flight Instructor Annex.
+The Accountable Manager notifies the the BCAA of the upcoming change via e-mail, at least 10 days before the new Flight Instructor will start his/her duties. He/she shall attach the updated Flight Instructor Annex. We refer to the 16.4 below.
+Instructor Data saved in E-gle + FlightCircle by the Operations Manager.
+Final Verification by the CMM performed.
+Option B - After a negative evaluation of steps 1 to 6 above:
+Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+Sending an e-mail to applicant notifying about the decision taken.
+Sending an e-mail to the AM, CMM, HT and CFI about the outcome.
+Step 8 - The Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End.
+
+Adding/Removing Aircraft
+A new training aircraft shall fulfill the requirements in accordance with at least the requirements of ORA.ATO.135 and AMC1 ORA.ATO.135. The following procedure applies:
+Step 1 – The Accountable Manager sends a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: New Aircraft + REGISTRATION” and the content of the e-mail should outline the details of the proposed changes, including the relevant data (e.g. Aircraft Documents).
+Step 2 – Upon receiving this e-mail, the Safety Manager creates a new “Change Request Project” in Pipedrive and saves it under Phase 1 of the Project Pipeline in Pipedrive.
+Step 3 – The Safety Manager moves on to Phase 2 of the Project Pipeline in Pipedrive and executes the “Management of Change” procedure as described in the OMM Part 3.
+As a guideline, the following items should at least be taken into consideration by the SM:
+
+Is the new aircraft suitable for the home and alternate bases (are there any limitations)?
+Is the development of new SOP’s required?
+Is an update of the relevant parts of the OM and Training Manuals required?
+Is a refresher/standardization training required for Flight Instructors needed?
+Is there maintenance available?
+
+Step 4 – The Safety Manager drafts his/her findings in the Project Notes and uploads any additional required PDF documents (if required) in the project.
+Step 5 – the Safety Manager moves on to Phase 3 of the Project Pipeline and creates an “Assessment Task/Event Checklist” (this process is monitored by the CMM) containing:
+Management of Change Procedure Safety Item(s) + Mitigation Actions added by the Safety Manager.
+Certificate of Registration checked/uploaded (Pipedrive) by the SM.
+Certificate of Airworthiness checked/uploaded (Pipedrive) by the SM.
+Valid Airworthiness Review Certificate checked/uploaded (Pipedrive) by the SM.
+Noise Certificate checked/uploaded (Pipedrive) by the SM.
+Aircraft Radio Station License checked/uploaded (Pipedrive) by the SM.
+Last page of the Journey Log checked/uploaded (Pipedrive) by the SM.
+MEL/CDL (if applicable) checked/uploaded (Pipedrive) by the SM.
+Last revision of POH/checklist checked/uploaded (Pipedrive) by the SM.
+Maintenance (eg. Last 100h/Annual) checked/uploaded (Pipedrive) by the SM.
+Third Party Liability Insurance checked/uploaded (Pipedrive) by the SM.
+Copy of CAMO Contract checked/uploaded (Pipedrive) by the SM.
+Verification of Squawk Items: checked/uploaded (Pipedrive) by the SM.
+Final Verification of the CMM performed.
+Step 6 – The Safety Manager records possible findings in the Project Notes and sends an e-mail to the AM, CMM, and HT outlining these findings.
+
+Option A - After a positive evaluation of steps 1 to 6 above:
+Step 7a - The Safety Manager creates a “Adding Aircraft Task/Event Checklist” containing:
+Sending out an Aircraft Lease/Rental Agreement via Docusign (if the ATO is not the owner of the Aircraft.
+Uploading the Aircraft into FlightCircle as a new device + uploading all maintenance data (hour log, inspection intervals etc), uploading Certificate of Airworthiness, Certificate of Registration, ARC, Noise Certificate, Radio Station License, MEL/CDL, POH Revision, Checklists, Third Party Liability Insurance Document by the Safety Manager.
+Adding all time-based reminders into FlightCircle.
+Scheduling the require standardization/differences training for Instructors.
+Sending an e-mail to Instructors outlining the standardization/differences training.
+Adding the Aircraft to the Aircraft List Annex.
+The Accountable Manager notifies the the BCAA of the upcoming change via e-mail, at least 10 days before the new Aircraft will be put in service. He/she
+shall attach the updated Aircraft List Annex. We refer to the 16.4 below.
+Final Verification by the CMM performed.
+Option B - After a negative evaluation of steps 1 to 6 above:
+Step 7b - The Safety Manager creates an “End of Project Checklist” containing:
+1. Sending an e-mail to the AM, and CMM about the negative outcome.
+Step 8 - Compliance Monitoring Manager verifies if all steps in the process above are executed as described and moves the Project to Stage 4 of the Project Pipeline: End.
+Note: Training Aircraft used in the USA
+Each training aircraft in the USA must be equipped in accordance with AMC1.ORA.ATO.135 (a) as required in the training specifications concerning the course in which it is used:
+EASA allows for IR training in a Third Country (ORA.ATO.150).
+AMC1.ORA.ATO.135 (a)(c)(1) states that aircraft suitably equipped to simulate instrument meteorological conditions (IMC) and for the instrument flight training required, should be available, which is the case. For flight training for the instrument rating, an adequate number of IFR- certificated aircraft should be available. The SM and CMM shall verify that all Aircraft fulfill all requirements for operating under IFR (both in Europe and in the USA).
+AMC1.ORA.ATO.135 (a)(c)(3) states that for the flight instructor (FI) training courses on airplanes and sailplanes, aircraft suitable for spin recovery at the developed stage are required; hence all Skyhawks Model SP with G1000 and GFC700 are intentionally spin approved.
+In addition, each training aircraft in the USA, must demonstrate compliance with with EU 2018/1139.
+Under Chapter: VIII, AIRCRAFT USED BY A THIRD-COUNTRY OPERATOR INTO, WITHIN OR OUT OF
+THE UNION we have adopted the following process of verification:
+Step 1 - Verification if the Airplanes used are compliant with the applicable ICAO standards (as required per Section VIII, Art 59). This is the case.
+Step 2 - Verification if the requirements in Annex II to (EU) 2018/1139 are met via the EASA TCDS. This includes, but is not limited to: Structure and Materials, Systems and Equipment, Non-Installed Equipment, Continuing Airworthiness and all Airworthiness Aspects of Product Operation. Note that by verifying the EASA TCDS IM.A.051 based on Annex II to (EU) 2018/1139, for the applicable Airplane make and model, all sections are covered in detail, including the Airworthiness Basis and hence clearly demonstrating compliance in all aspects requested.9
+
+Notification of changes to the BCAA
+A notification shall be sent by the Accountable Manager via e-mail at least 10 working days before the date of the proposed change.
+The e-mail address to be used: BCAA.ATO@mobilit.fgov.be
+
+Flight/Theoretical Knowledge Instructors
+The subject of the e-mail to be sent by the Accountable Manager shall be as follows:
+“EuroPilot Center B/ATO-017 (L-TRA/0153)”
+For Flight Instructors, the OMM Annex – Flight Instructors, shall be attached in a PDF format with the following file name:
+BE_ATO-017_FI list_Vx.x_yyyy-mm-dd.pdf (where Vx.x indicates the version).
+For Theoretical Knowledge Instructors, the OMM Annex – Theoretical Knowledge Instructors, shall be attached in a PDF format with the following file name:
+BE_ATO-017_TKI list_Vx.x_yyyy-mm-dd.pdf (where Vx.x indicates the version).
+Note: The email shall include the request and indicate the date at which the instructor will start his duty.
+Aircraft
+For Aircraft, the OMM Annex – Aircraft List, shall be attached in a PDF format with the following file name:
+BE_ATO-017_AC list_Vx.x_yyyy-mm-dd.pdf (where Vx.x indicates the version).
+Part 2 - Compliance Monitoring Management	3
+COMPLIANCE MONITORING POLICY	3
+Compliance Monitoring Policy	3
+Relevant External Standards	4
+Internal Standards and Procedures	4
+Policy Deployment	4
+CONCEPT OF COMPLIANCE MONITORING SYSTEM	5
+Purpose of the Compliance Monitoring System	5
+Overview of the EuroPilot Center Compliance Monitoring System	5
+Core Elements of the Compliance Monitoring System	6
+Organisation Changes	7
+ORGANIZATION, RESPONSIBILITIES AND DUTIES	8
+EuroPilot Center - ATO Organigram	8
+Duties and Responsibilities	9
+COMPLIANCE MONITORING INSPECTIONS	11
+Inspection Procedure	11
+Inspection Scopes (updated)	12
+COMPLIANCE MONITORING AUDITS	13
+Audit Procedure	13
+Qualification of Auditors	16
+Audit Scope	17
+Classification of Audit Findings	17
+List of Auditors	17
+QTG RUNNING, QTG CHECKING AND FLY-OUT PROCEDURES	18
+Procedure	18
+Qualification of FSTD Auditors	21
+Audit Scope	22
+Classification of FSTD Audit Findings	22
+FEEDBACK AND REPORTING	23
+General	23
+Kind of Reports	23
+CONTRACTOR / SUPPLIER MANAGEMENT	24
+Evaluation of contractors / suppliers	24
+Supervision of contractors / suppliers	24
+MANAGEMENT EVALUATION	25
+Purpose of Management Evaluation	25
+Process of Management Evaluation	25
+Data to be evaluated	26
+COMPLIANCE MONITORING SYSTEM TRAINING AND PROMOTION	27
+Initial training	27
+Recurrent Training	27
+Compliance Monitoring System Training Records	27
+DOCUMENT CONTROL	28
+Control of Specifications / Prescriptive Documents	28
+Control of Compliance Monitoring System related Records	28
+EDP Back-up Concept	29
+FSTD COMPLIANCE MONITORING MEASURES	30
+Purpose	30
+FSTD Metrics	30
+REGULATORY CHANGES FOLLOW-UP PROCEDURES	32
+Part 2 - Compliance Monitoring Management
+COMPLIANCE MONITORING POLICY
+Compliance Monitoring Policy
+The Accountable Manager has the overall responsibility for the EuroPilot Center Compliance Monitoring System and states the following Compliance Monitoring Policy:
+“The EuroPilot Center Compliance Monitoring System ensures the continuous aim of providing Personalized Flight Training in the most efficient and economic way possible, with only the most advanced Training Methods and Training Aids available with the ultimate goal of achieving the highest level of safety.”
+By applying the EuroPilot Center Compliance Monitoring System we ensure the continued compliance the applicable Belgian Regulations.
+
+
+
+
+
+Maria A. Paz
+Accountable Manager EuroPilot Center
+
+Relevant External Standards
+The following external standards apply:
+EASA PART FCL
+EASA PART ORA
+EASA CS FSTD
+Belgian Regulations
+AIP
+
+Internal Standards and Procedures
+EuroPilot Center OM
+EuroPilot Center OMM
+EuroPilot Center TM
+FSTD Master Qualification Test Guide
+
+Policy Deployment
+Annual Company Goals
+At latest by December 31, the Accountable Manager publishes the Annual Company Goals based on the Compliance Monitoring policy. It states the budgets, target training figures and milestones for the next year. It forms the basis for the yearly strategy adjustment.
+
+CONCEPT OF COMPLIANCE MONITORING SYSTEM
+Purpose of the Compliance Monitoring System
+The Compliance Monitoring System, as described in this Manual, established by the EuroPilot Center Accountable Manager:
+monitors the compliance, implementation, effectiveness and efficiency of EuroPilot Center’s specific policies, standards and procedures for training and FSTD operations;
+ensures a systematic recording and analysis of non-compliances and occurrences;
+ensures a systematic implementation and monitoring of corrective actions;
+ensures an evaluation of the overall effectiveness of the organization in achieving stated objectives.
+The principles and procedures, stated in this chapter shall be adhered to by all EuroPilot Center involved students and personnel. The Compliance Monitoring System is structured to be in compliance with EASA Part FCL, Part ORA, all other relevant Subparts and CS-FSTD.
+
+Overview of the EuroPilot Center Compliance Monitoring System
+
+Whole operation involved
+Compliance Monitoring Strategy
+Team Work
+Staff Improvement
+Involves Customer and Suppliers
+
+
+Compliance Monitoring System including Audits
+Compliance Monitoring costing
+Problem Solving
+Compliance Monitoring Planning
+
+Error Detection
+Rectification
+Compliance Monitoring Requirements and Standards
+Process Performance
+Statistical Methods
+
+*TCMM Total Compliance Monitoring Management
+
+Core Elements of the Compliance Monitoring System
+
+Elements
+Responsible
+Explanation
+Reference
+Policy
+Accountable Manager
+Commitment Compliance Monitoring
+CMM Chapter 2
+Strategy Resources Annual Goals
+Accountable Manager
+Review of Company Strategy based on Management Evaluation
+Definition of annual budget and goals
+CMM Chapter 2
+Facilities Flight Training Theoretical Knowledge Training Training Procedures Flight Safety
+Flight duty and rest Aircraft Maintenance
+FSTD Operations
+Head of Training
+Chief FlIght Instructor
+Chief TK Instructor
+CAM
+FSTD Manager
+Definition of internal standards
+Ensuring conformity with internal standards and requirements by means of control and supervision (inspections) of the daily activities.
+Analysis of feedback and reports
+Supervision of the relevant subcontractors
+Initiation and monitoring of implemented actions
+OMM
+OM
+TM
+CAME
+CMM Chapter 5
+CMM Chapter 8
+CMM Chapter 9
+FSTD MQTG
+Feedback and Reporting
+All EuroPilot personnel
+Identifies and reports divergences, non-comformities and chances
+CMM Chapter 8
+Audits
+Compliance Monitoring Manager
+Compliance Monitoring Auditor
+Independent Compliance Monitoring Auditors monitor the adherence to standards and requirements by means of Compliance Monitoring Audits
+CMM Chapter 6
+Inspections
+Head of Training
+Chief Flight Instructor
+Chief TK Instructor
+CAM
+FSTD Manager
+Compliance Monitoring Manager
+Ensuring conformity with internal standards and requirements by means of control and supervision (inspections) of the daily activities
+CMM Chapter 5
+Data Evaluation
+Accountable Manager
+Head of Training
+Chief Flight Instructor
+Chief TK Instructor
+CAM
+FSTD Manager
+CMM Manager
+Evaluation of data in the specific field of activity to identify trends and systematic gaps
+Conclusions resulting from the Data Evaluation
+CMM Chapter 10
+
+
+Elements
+Responsible
+Explanation
+Reference
+Controlling/ Management Evaluation
+Accountable Manager in collaboration with all EuroPilot Center personnel.
+Evaluation of overall effectiveness of and organisation and achievement of goals based on data evaluation
+CMM Chapter 10
+
+Organisation Changes
+The following changes affect the terms of approval of the ATO and are subjected to prior approval from the BCAA:
+the name of the organization;
+the organization’s principal place of business;
+the organization’s scope of activities;
+additional locations of the organization;
+the accountable manager;
+any of the persons referred to in ORA.GEN.210 (a) and (b);
+the organization’s documentation as required by this Part, safety policy and procedures;
+the facilities.
+Note: The Accountable Manager is responsible for sending out a “Change Request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. The header of the e-mail must contain: “Change Request: ORGANIZATION, TITLE OF CHANGE” (e.g. Change Request: ORGANIZATION, Principle Place of Business”) and the content of the e-mail should outline the details of the proposed changes.
+We refer to the updated Management of Change Procedure outlined in OMM Part 3, Chapter 5.9.
+
+ORGANIZATION, RESPONSIBILITIES AND DUTIES
+EuroPilot Center - ATO Organigram
+We refer to the OM, Part 1, Chapter 2.1.2
+
+Duties and Responsibilities
+EuroPilot Center’s organizational structure (organogram) and the Compliance Monitoring System related roles, duties, responsibilities, accountabilities and authorities of managing staff are described in the below paragraphs:
+Accountable Manager
+The duties and responsibilities of the Accountable Manager are described in the OM Part 1, Chapter 2.
+The Compliance Monitoring System related duties and responsibilities of the Accountable Manager are:
+having the corporate authority for ensuring that all operations and maintenance activities can be financed and carried out to the standard required by the BCAA;
+establishing a formal written Compliance Monitoring Policy Statement;
+having the overall responsibility for the organization’s Compliance Monitoring System, including the frequency, format and structure of the internal management evaluation activities.
+having the ultimate responsibility to provide for the necessary resources for the implementation of corrective actions.
+HOT, CFI, CTKI, CAM and FSTD Manager
+The duties and responsibilities of the Head of Training, Chief Flight Instructor, Chief Theoretical Knowledge Instructor, Continuous Airworthiness Manager and FSTD Manager are described in the OM, Part 1, Chapter 2.
+The Compliance Monitoring System related duties and responsibilities of these postholders are:
+supervising their respective field of activities and conduct / document inspections;
+implementing corrective actions;
+conducting periodical data evaluations as an input to the management evaluation.
+Compliance Monitoring Manager/Auditor & Assistance Compliance Monitoring Manager/Auditor
+Requirements
+The following experience/qualifications are required for a Compliance Monitoring Manager/Auditor and Assistant Compliance Monitoring Manager/Auditor within EuroPilot Center:
+Has extensive knowledge of Aviation Rules and Regulations (including FSTD’s);
+Preferably hold or have held a Commercial (or Airline Pilot License);
+Has been a Compliance Monitoring Manager for an Aviation Organization for at least 1 year; or
+Has been an Assistance Compliance Monitoring Manager within EuroPilot Center for 1 year; or
+Has extensive experience in auditing techniques; or
+Has attended the Compliance Monitoring Manager/Auditor Course (e.g. Internal Course or through an entity such as JAATO);
+Possesses sound Managerial Skills;
+Speaks/writes and understands the English language;
+
+
+Duties and Responsibilities
+The duties and responsibilities of the Compliance Monitoring Manager/Assistance Compliance Monitoring Manager are:
+Having direct access to the Accountable Manager
+Having access to all parts of the organization and, if required, any subcontractor’s organization.
+Verification performed by independent Compliance Monitoring Assurance Activities in the fields of Training, Maintenance, and FSTD operations that the standards required by the BCAA, and any additional requirements defined by the organization, are adequate and are being carried out under the supervision of the relevant responsible managers. For this purpose the Compliance Monitoring Manager plans and ensures the implementation of the Compliance Monitoring Assurance activities.
+Monitoring the implementation and completion of corrective actions.
+Providing the management with an independent assessment of corrective actions, implementation and completion.
+Evaluation of the effectiveness of corrective actions through the follow-up process.
+Conducting periodical data evaluations as an input to the management evaluation.
+Note: An Assistance Compliance Monitoring Manager shall have the same duties as the Compliance Monitoring Manager and should provide support to the Compliance Monitoring Manager in executing his duties. The final responsibility however lies with the Compliance Monitoring Manager.
+Compliance Monitor/Auditor Training (Initial & Recurrent)
+Has received a course from an experienced Compliance Monitoring Manager in the following topics:
+Basic Aviation Management Systems (Min. 1h00);
+Compliance Monitoring Audits & Audit Techniques (Min 1h00);
+The Audit Planning Process (Min 2h00);
+Interview & Questioning techniques (Min 1h00);
+Evaluation and Reporting of Audit Findings (Min 1h00);
+The Corrective Actions and Close-out Process (Min 1.5h);
+Or has attended the same course through another entity (e.g JAATO) and has provided EPC with an appropriate Certificate of Training.
+In addition, the applicant shall be trained on:
+Compliance monitoring system procedures within EuroPilot Center (Min. 1h00);
+EuroPilot Center’s manuals and document control procedures (Min. 1h00);
+EuroPilot Center’s ATO OMM and OM procedures (Min. 1h00);
+EuroPilot Center’s audit techniques, code of conduct of the compliance auditor (Min. 1h00);
+EuroPilot Center’s Audit reporting and recording (Min. 1h00);
+FSTD Management and FSTD Auditing Techniques (Min. 1h00);
+Practical Training shall consist of conducting at least 3 supervised audits with an experience Compliance Monitoring Manager.
+All training should be logged in the E-gle System by the Compliance Monitoring Manager. Recurrent Training does not apply to Compliance Monitoring Managers/Auditors.
+
+COMPLIANCE MONITORING INSPECTIONS
+The Compliance Monitoring Inspection is an instant inspection to observe a particular event, action or document in order to verify whether the established procedures and requirements are followed during the accomplishment of that event, and whether the required standards are achieved.
+
+Inspection Procedure
+
+Step
+Remarks
+Tool
+Responsibility
+1. Planning and Preparations
+Ad hoc planning
+Study relevant procedures
+Consider feedback and reporting system
+/
+CMM
+Inspector
+2. Execution
+/
+/
+Inspector
+3. Reporting
+Performed inspections are recorded on a list of inspections to ensure coverage of all scopes
+Compliance Monitoring Audit Plan
+CMM
+4. Initiation of measures
+In case of need, preventive and corrective action shall be initiated
+List of pending Items
+AM
+CMM
+5. Monitoring
+Verify implementation of measures
+/
+AM
+CMM
+The Compliance Monitoring Inspector shall fulfill at least the following:
+Being familiar with the type of training conducted
+Having knowledge of FSTD requirements and operation
+Having knowledge of the maintenance of aircraft
+
+Inspection Scopes (updated)
+
+
+Scope
+Main
+US Satellite
+Frequency
+Responsibility
+01
+Actual Flight Training
+Yes
+Yes
+Yearly
+CFI
+02
+Actual Theory Training
+Yes
+Yes
+Yearly
+CGI
+03
+Training Standards
+Yes
+Yes
+Yearly
+HOT
+04
+Maintenance of Aircraft
+Yes
+Yes
+Yearly
+CAM
+05
+Technical Standards
+Yes
+Yes
+Yearly
+CAM
+06
+Maintenance of FSTD
+Yes
+No
+Yearly
+FSTD Manager
+07
+Technical Standards FSTD
+Yes
+No
+Yearly
+FSTD Manager
+08
+Actual FSTD Operation
+Yes
+No
+Yearly
+FSTD Manager
+09
+Safety Features FSTD
+Yes
+No
+Yearly
+FSTD Manager
+10
+Regulatory Changes
+Yes
+Yes
+Monthly
+CMM
+
+Note 1: Please refer to OMM Annex 26 - Regulatory Changes Notifications
+Note 2: Please refer to OMM Annex 27 - Regulatory Changes Checklist
+
+COMPLIANCE MONITORING AUDITS
+The Compliance Monitoring Audit procedure is applied to achieve a systematic and independent revision of the Compliance Monitoring Standards within EuroPilot Center. This is to secure that the level of training, established flight safety standards, instructions and regulations are complied with and that the performance is satisfactory and efficient.
+The Compliance Monitoring Audits are conducted for the following purposes:
+To determine the conformity or non-conformity of the EuroPilot Center Compliance Monitoring System elements with specified requirements;
+To determine the effectiveness of the implemented Compliance Monitoring System in meeting specified Compliance Monitoring objectives;
+To provide the Auditee with an opportunity to improve the Compliance Monitoring System;
+To ensure that the applicable BCAA requirements are met.
+Audit Procedure
+The Compliance Monitoring Assurance Program includes a defined audit schedule and a periodic review cycle. The schedule is flexible and allows unscheduled audits when certain trends are identified. Follow-up audits are scheduled when necessary to verify that corrective actions were carried out and that they were effective.
+All parts of the operation shall be reviewed within 12 months in accordance with the program, unless an extension of the audit period is accepted by the BCAA.
+All requirements as well as company standards shall be reviewed under each part covered by scheduled and unscheduled audits.
+Regulatory Compliance Monitoring System Audits are conducted in accordance with the Compliance Monitoring Audit Schedule, covering the audit periods. The actual time when the audit of an area is performed, shall not differ more than 3 months (one quarter of a year) from the planned date in the Compliance Monitoring Audit Schedule.
+The schedule shall be re-evaluated on a yearly basis. The schedule shall assure that every audit area shall be covered within a period of 12 months.
+The Accountable Manager or the Compliance Monitoring Manager may increase the frequency of the audits, but they are not entitled to decrease the frequency without the acceptance from the BCAA.
+In case of:
+An organization change in a significant way (change of Company Name, Location, Management);
+an audit has to be performed within 45 calendar days after implementation of the new structure.
+In case of:
+Any major change to, any failure of or any major safety issue with a Qualified Flight Training Device;
+Any deactivation or relocation of a Qualified Flight Training Device; the BCAA must be informed.
+The current issue of the Compliance Monitoring Audit Schedule is presented in Annex 1 to this part.
+
+
+Step
+Remarks
+Tool
+Responsibility
+1. Planning
+Establishing the Audit Plan
+Considering former:
+Audit Plan
+Changes in the organisation
+Changes in regulatory requirements
+Changes in the activities
+Trends
+Follow-up Audits when necessary
+Studying the relevant Procedures
+Considering Feedback and Reporting System
+Creating/editing the Audit Checklist
+Assigning Auditors (if applicable)
+The Audit Plan
+Audit Checklists
+List of Pending Items
+List of Auditors
+OMM, OM, TM
+CMM
+2. Execution
+By means of the following techniques:
+Interviews
+Witnessing of activities
+Examination of records
+The Audit Checklists
+CMM
+3. Reporting and Initiating Corrective Actions
+Classifying of Findings
+Producing the Non Conformity Report (NCR)
+Initiating preventive and corrective action if required
+Who, What, Due Date?
+Producing the Compliance Monitoring Audit Report (CMAR)
+The Audit Checklists
+Notes
+The Non Conformity Report (NCR)
+The Compliance Monitoring Audit Report (CMAR)
+AM
+CMM
+4. Follow-up of Corrective Actions
+Verify the implementation of corrective actions
+The Compliance Monitoring Audit Report (CMAR)
+AM
+CMM
+
+Audit Planning
+Each audit shall be planned and may cover one or more areas in the Compliance Monitoring Audit Schedule. The plan shall generally refer to the relevant requirements, standards or procedures stated in the EuroPilot Center Manuals.
+The management of the area due for audit (the Auditee) shall be informed in due time before the audit starts, with a minimum of two weeks. The notice can be given in writing or by e-mail.
+A Compliance Monitoring Audit Plan shall be used and must be issued for each audit element, including specified questions and issues referring to the applicable EuroPilot Center documents.
+The Compliance Monitoring Audit Plan shall cover at least:
+Date
+Place
+Time Schedule
+Scope of the audit
+Audit Areas
+Auditor
+Auditee
+
+
+The Audit Checklist
+The Auditor is responsible to develop checklists prior to each audit. The Checklist shall be developed as a High Level and Low level checklist. The High level checklist will cover all relevant Authorities’ regulations, as required by EASA and the BCAA. The Low level checklist will cover all other requirements such as company regulations, manuals, internal procedures and agreements.
+Performance of the Audit
+The Compliance Monitoring Audit starts with a meeting with the Auditee(s) in order to go deeper into the Compliance Monitoring Audit Plan, organize the time schedule and persons to interview.
+As a general rule, the audit should minimize the disturbance of ongoing training activities.
+Interviews
+The interview shall be performed with the person concerned, as prior agreed upon. Notes can be taken and findings will be recorded, if applicable.
+
+Observation of activities
+Observation of activities and conditions may be included in the audit as deemed necessary by the Compliance Monitoring Auditor.
+Review and Examination
+The review of documentation includes contracts, company manuals, instructions etc. The examination of records contains adequate sample of inspection records, reports etc.
+The Auditor shall use these records to be guided towards problem areas or problems which are caused by a weakness in the system or process itself. Previous audit reports shall be reviewed in order to examine corrective actions.
+Reporting
+All non-conformities shall be analyzed by the Compliance Monitoring Auditor with the purpose to find the root cause of the finding. These shall be specified in the Compliance Monitoring Audit Report (CMAR).
+The Non-Conformity Report (NCR) or a copy of a used Audit Checklist with comments, shall be sent together with the enclosed copy of the CMAR to the Auditee within a maximum period of 7 working days after the audit was completed.
+Reference is made to: Annex 2 - NCR
+Initiating of measures
+Within 7 working days after sending the audit result to the Auditee, the Compliance Monitoring manager shall contact the Auditee with the purpose of discussing the audit results and decide upon the following issues:
+Agreed corrective actions
+The Auditee shall propose the corrective actions to be taken and the Auditor has to agree.
+Compliance date for the corrective actions
+
+
+Note: The Compliance Monitoring Audit Report (CMAR) shall be presented to the Auditee, even when no findings have been filled out.
+The completed CMAR shall include the agreed corrective actions and date of compliance, and be signed by the Auditor as well as the Auditee.
+The Accountable Manager shall be informed about the CMAR release.
+Follow up of corrective actions
+All observations shall be numbered and listed in the Compliance Monitoring Audit Report (CMAR). A time limit for corrective actions shall be stipulated.
+It is the responsibility of the Compliance Monitoring Manager to agree on a time limit for corrective actions.
+It is the responsibility of the Auditee to execute the agreed corrective actions within the stipulated timeframe. The Compliance Monitoring Manager is responsible to follow up that the corrective actions were executed in time and to evaluate the effectiveness of those actions.
+The normal time limit should not exceed two months. If the corrective action includes a comprehensive project or equivalent, the time limit may be extended.
+If for some reason no action is taken within the agreed time limit, it is the responsibility of the Auditee to report this to the Compliance Monitoring Manager, and to ask for agreement of a new time limit. An acceptable reason for the delay should be provided. The Compliance Monitoring Manager has to inform the Accountable Manager who will take the decision about an extension of the time limit.
+If no action is taken within the extended time limit, it is the responsibility of the Compliance Monitoring Manager to inform the Civil Aviation Authorities according and suggest an acceptable solution.
+When an Audit finding has been sufficiently taken care of, the Audit finding shall be declared ‘closed’ by the Compliance Monitoring Manager and this shall be noted in the CMAR.
+
+Qualification of Auditors
+We refer to the qualifications for Compliance Monitoring Managers/Auditors & Assistant Compliance Monitoring Managers/Auditors under 3.2.3.1 above.
+We refer to the Training Requirements under 3.2.4.
+Auditors Independence
+The Auditor shall be independent with regard to functional connection to the area subject of the audit. He shall be given full access to the documentation and any other relevant information to perform the Audit.
+Code of Ethics
+The following rules of ethics apply to all EuroPilot Center audit activities:
+the Auditor shall perform his duties in true confidentiality, sincerity and honesty;
+the Auditor shall have appropriate respect for the Auditee concerned;
+all information regarding the respective Audit shall never be communicated to persons not involved in the Audit;
+
+
+all reported findings must be based on well documented facts. Personal judgements must be clearly separated from facts. Only actual “observations” may be reported.
+Auditors should minimize the disturbance of the ongoing training activities during the performance of the Audit.
+
+Audit Scope
+The audit scopes are defined in the Audit Plan, which is held as a separate document to ensure the flexibility for recording the audits performed and for scheduling additional audits.
+Reference is made to: Annex 1.
+
+Classification of Audit Findings
+Findings resulting from audits have to be classified as follows:
+Level 1: Safety is affected, no further (training) operation / activity allowed until closure of finding
+Level 2: Safety might be affected, finding to be closed within 2 months
+Level 3: Safety not affected, but of importance for the company. Finding to be closed within due date (to be agreed upon)
+The auditor determines the classification of the audit finding.
+
+List of Auditors
+We refer to OMM Annex 23 - List of Auditors
+
+QTG RUNNING, QTG CHECKING AND FLY-OUT PROCEDURES
+The FSTD Audit procedure is applied to monitor and safeguard compliance with CS-FSTD and any other standards specified by the BCAA or EuroPilot Center, and to ensure correct maintenance and performance of the FSTD.
+
+Procedure
+The FSTD Compliance Monitoring Assurance Program includes a defined FSTD audit schedule and a periodic review cycle. The schedule is flexible and allows unscheduled audits when certain trends are identified. FSTD follow-up audits are scheduled when necessary to verify that corrective actions were carried out and that they were effective.
+All parts of the FSTD operation shall be reviewed within 12 months in accordance with the program, unless an extension of the audit period is accepted by the Civil Aviation Authorities.
+All requirements as well as company standards shall be reviewed under each part covered by scheduled and unscheduled audits.
+FSTD Compliance Monitoring System Audits are conducted in accordance with the FSTD Compliance Monitoring Audit Schedule, covering the audit periods. The actual time when the audit of an area is performed, shall not differ more than 3 months (one quarter of a year) from the planned date in the FSTD Compliance Monitoring Audit Schedule.
+The FSTD schedule shall be re-evaluated on a yearly basis. The schedule shall assure that every audit area shall be covered within a period of 12 months.
+The Accountable Manager (or the FSTD Compliance Monitoring Manager) may increase the frequency of the audits, but they are not entitled to decrease the frequency without the acceptance from the BCAA.
+If the FSTD operation changes in a significant way, an audit has to be performed within 45 calendar days after implementation of the new structure.
+The current issue of the FSTD Audit Schedule is presented in Annex 4 to this part.
+
+
+Step
+Remarks
+Tool
+Responsibility
+1. Planning of QTG Tests
+QTG Tests to be scheduled for each FSTD at least every 3 months (“Quarterly Tests”)
+Considering:
+Changes in the configuration
+Changes in regulatory requirements
+Changes in the activities
+Trends
+Follow-up QTG Audits when necessary
+Studying the relevant FSTD procedures
+Considering FSTD Feedback and Reporting System
+Creating/editing the FSTD Audit Checklist
+FSTD Audit Checklists
+Master QTG
+FSTD CMM
+2. Execution
+Establish binder with quarterly FSTD Tests, and FSTD maintenance reports.
+Master QTG
+FSTD Manager
+FSTD Auditor
+3. Reporting and Initiating Corrective Actions
+Classifying of Findings
+Producing the Non Conformity Report (NCR)
+Initiating preventive and corrective action if required
+Who, What, Due Date?
+Producing the FSTD Report
+FSTD Audit Checklists
+The Non Conformity Report (NCR)
+Notes
+The FSTD Report
+AM
+FSTD CMM
+FSTD Auditor
+4. Follow-up of Corrective Actions
+Verify the implementation of corrective actions
+The FSTD Report
+AM
+FSTD CMM
+
+FSTD Audit Planning
+Each FSTD audit shall be planned and may cover one or more areas in the FSTD Compliance Monitoring Audit Schedule. The plan shall generally refer to the relevant requirements, standards or procedures stated in the EuroPilot Center Master QTG.
+The FSTD Manager shall be informed in due time before the audit starts, with a minimum of two weeks. The notice can be given in writing or by e-mail.
+A FSTD Compliance Monitoring Audit Plan shall be used and must be issued for each audit element, including specified questions and issues referring to the applicable EuroPilot Center documents.
+The FSTD Compliance Monitoring Audit Plan shall cover at least:
+Date
+Place
+Time Schedule
+Scope of the FSTD audit
+Applicable QTG Tests to be performed
+FSTD Auditor
+Applicable FSTD
+The FSTD Audit Checklist
+The FSTD Auditor is responsible to develop FSTD Audit checklists prior to each audit. The Checklist shall be developed as a High level and Low level checklist. The High level checklist will cover all relevant Belgian Regulations. The Low level checklist will cover all other requirements such as company regulations, manuals, procedures and agreements (if applicable).
+
+
+Execution of the FSTD Audit
+The Compliance Monitoring Audit starts with a meeting with the FSTD Manager in order to penetrate the FSTD Compliance Monitoring Audit Plan and decide upon the QTG runs.
+As a general rule, the FSTD audit should minimize the disturbance of ongoing FSTD training activities.
+QTG Tests
+The QTG Tests are performed by the FSTD Manager under the supervision of the Compliance Monitoring Auditor in accordance with the procedures stated in the EuroPilot Center Master QTG for that particular FSTD.
+Actual test results will be compared to the Master QTG results for each individual test.
+Reporting
+All non-conformities shall be analyzed by the FSTD Compliance Monitoring Auditor with the purpose to find the real cause of the finding. These shall be specified in the FSTD Report.
+The FSTD Non Conformity Report or a copy of a used FSTD Audit Checklist with comments, shall be sent together with the enclosed copy of the FSTD Report to the FSTD Manager within maximum two weeks after the audit was completed.
+Reference is made to:
+Annex 2 - NCR and;
+Annex 3 - CMAR.
+Initiating of measures
+Within two weeks after sending the audit result to the FSTD Manager, the FSTD Compliance Monitoring Manager shall contact the FSTD Manager with the purpose of discussing the FSTD audit results and decide upon the following issues:
+Agreed corrective actions
+The Auditee shall propose the corrective actions to be taken and the Auditor has to agree.
+Compliance date for the corrective actions
+Note: The FSTD Report shall be presented to the FSTD Manager, even when no findings have been filled out.
+The completed FSTD Report shall include agreed corrective actions and date of compliance and be signed by the Auditor as well as the Auditee.
+The Accountable Manager shall be informed about the FSTD Report release.
+Follow Up of corrective actions
+All observations shall be numbered and listed in the FSTD Report. A time limit for corrective actions shall be stipulated.
+It is the responsibility of the FSTD Compliance Monitoring Manager to agree on a time limit for corrective actions.
+
+
+It is the responsibility of the FSTD Manager to execute the agreed corrective actions within the stipulated timeframe. The FSTD Compliance Monitoring Manager is responsible to follow up that the corrective actions have been executed in time and to evaluate the effectiveness of those actions.
+The normal time limit should not exceed two months. If the corrective action includes a comprehensive project or equivalent, the time limit may be extended.
+If for some reason no action is taken within the agreed time limit, it is the responsibility of the FSTD Manager to report this to the FSTD Compliance Monitoring Manager, and to ask for agreement of a new time limit. An acceptable reason for the delay should be provided. The FSTD Compliance Monitoring manager has to inform the Accountable Manager who will take the decision about an extension of the time limit. Extension of the time limit should not exceed one month.
+If no action is taken within the extended time limit, it’s the responsibility of the FSTD Compliance Monitoring Manager to inform the Accountable Manager. The Accountable Manager shall inform the BCAA according and suggest a acceptable solution.
+When an FSTD Audit finding has been sufficiently taken care of, the FSTD Audit finding shall be declared ‘closed’ by the FSTD Compliance Monitoring Manager and this shall be noted in the FSTD Report.
+
+Dossier for recurrent evaluation
+A soft-copy of the following will be available for recurrent evaluations:
+Master QTG
+Validation Data
+QTG Recurrent Tests
+Service Agreement (If any)
+Navdata Invoices (If any)
+Certificates (Personnel, Maintenance Personnel)
+Configuration Control (Trouble Report/Techlog, Maintenance Log, Backup Logs)
+Initial Certification process (Communication and data)
+Yearly Recurrent Evaluations (Audit Reports)
+Miscellaneous
+
+Qualification of FSTD Auditors
+We refer to the qualifications for Compliance Monitoring Managers/Auditors & Assistant Compliance Monitoring Managers/Auditors under 3.2.3.1 above.
+We refer to the Training Requirements under 3.2.4.
+Auditors Independence
+The FSTD Auditor shall be independent with regard to functional connection to the area subject of the audit. He shall be given full access to the documentation and any other relevant information to perform the FSTD Audit. FSTD Auditors shall report directly to the FSTD Compliance Monitoring Manager.
+
+
+Code of Ethics
+The following rules of ethics apply to all EuroPilot Center audit activities:
+the Auditor shall perform his duties in true confidentiality, sincerity and honesty;
+the Auditor shall have appropriate respect for the Auditee concerned;
+all information regarding the respective Audit shall never be communicated to persons not involved in the Audit;
+all reported findings must be based on well documented facts. Personal judgements must be clearly separated from facts. Only actual “observations” may be reported.
+auditors should minimize the disturbance of the ongoing training activities during the performance of the Audit.
+
+Audit Scope
+The FSTD audit scopes are defined in the Audit Plan, which is held as a separate document to ensure the flexibility for recording the audits performed and for scheduling additional audits.
+Reference is made to Annex 1.
+
+Classification of FSTD Audit Findings
+FSTD Findings resulting from audits have to be classified as follows:
+Level 1: Safety is affected, no further (training) operation / activity allowed until closure of finding
+Level 2: Safety might be affected, finding to be closed within due date (maximum 2 months)
+Level 3: Safety not affected, but of importance for the company. Finding to be closed within due date (to be agreed upon)
+
+FEEDBACK AND REPORTING
+General
+Any hazard having the potential to cause damage or injury, or to threaten the viability of the EuroPilot Center organization has to be reported, in order to get analyzed and eliminated to finally increase the level of safety.
+Hazards and incidents shall be reported in case:
+Something can be done to improve safety
+Other aviation personnel could learn from the report
+The system did not work as expected.
+IF IN DOUBT, REPORT IT!
+
+Kind of Reports
+Flight Training Comment Form
+The Flight Training Comment Form shall be used by the Flight Instructor for the purpose of documenting student training issues/problems with regard to Flight Training.
+Reference is made to Chapter 1.5 of the EuroPilot Center Training Manual.
+Theoretical Training Comment Form
+The Theoretical Training Comment Form shall be used by the Ground Instructor for the purpose of documenting student training issues/problems with regard to Theoretical Training.
+Reference is made to Chapter 1.5 of the EuroPilot Center Training Manual.
+FSTD Defect Reporting System
+The FSTD Defect Report System shall be used to report any FSTD defect.
+The system consists of an online password protected web-application that can be accessed via:
+For the BE/FNPT-014:	http://customers.europilotcenter.be For the BE/FNPT-024:	http://techlog.alsim.com
+For the BE/FNPT-028:	http://techlog.alsim.com
+For the BE/FNPT-014, defects (Squawks) can be reported as:
+Level A, meaning: urgent, no further training possible;
+Level B, urgent, training can be continued;
+Level C, not urgent, training can be continued.
+For the BE/FNPT-024 and BE/FNPT-028, defects can be reported as:
+Blocking, meaning: urgent, no further training possible;
+Unblocking, training can be continued;
+
+CONTRACTOR / SUPPLIER MANAGEMENT
+
+Evaluation of contractors / suppliers
+
+EuroPilot Center has dedicated specific services to contractors. These contractors shall be evaluated on a continuous basis by the respective Manager. Hereto he shall produce a written document where all details concerning Compliance Monitoring are stated.
+These contracting activities can take place in the following areas:
+Training
+Facilities
+Assessments
+Maintenance
+CAMO
+The most important prerequisite for EuroPilot Center contractor’s / Supplier’s evaluation is a clear definition of the relevant Compliance Monitoring / safety requirements and demands. These requirements and demands need to be explicitly stated in the underlying written agreement between EuroPilot Center and the respective contractors / Suppliers.
+In order to achieve reliable control of contracted services agreed upon, the standards and procedures shall be continuously monitored by EuroPilot Center. In addition, a Compliance Monitoring Audit on the contractor / Supplier shall be performed on a two-yearly basis.
+Before the use of a new contractor / Supplier, an initial evaluation audit needs to take place.
+
+Supervision of contractors / suppliers
+Initial Evaluation / Audit
+Before initiating an Evaluation/Audit of a contractor / supplier, the Accountable Manager must be satisfied about the financial and safety aspects of the cooperation.
+If the contractor / Supplier is judged to be reliable, the Evaluation / Audit will be conducted as follows:
+Review of the Compliance Monitoring system Elements such as organization, procedures and relevant documentation including Authority approvals / certificates and manuals;
+Physical inspection of the contractor’s / supplier’s facilities and equipment.
+Recurrent Audit
+Recurrent audits of all contractors / suppliers shall be conducted every 2 years or earlier in case of findings, to monitor if contracted activities are carried out in accordance with the applicable contract.
+Note: The contract should clearly state the responsibilities of both parties.
+Note: A copy of the signed contract must be sent to the BCAA prior to the start of the contracted activities.
+
+MANAGEMENT EVALUATION
+Purpose of Management Evaluation
+The management evaluation is a comprehensive, systematic review by the management to evaluate:
+The overall effectiveness of the organization
+The achievement of stated objectives
+The effectiveness of the Compliance Monitoring System
+The operational policies and procedures
+By means of this data evaluation, negative trends and major weaknesses can be identified and corrected by dealing with their root causes.
+
+Process of Management Evaluation
+
+Step
+Remarks
+Tool
+Responsibility
+1. Perform Data Evaluation
+Monthly*
+Periodical evaluation of received reports
+Identification of trends and systematic deviations
+Suggestion of additional measures
+Data to be evaluated (See 10.3)
+Responsible Managers (see 10.3)
+2. Establish management review report
+Consolidate the results of data evaluation
+Evaluate fulfilment of annual goals
+Evaluate the overall effectiveness of the organisation
+Decide upon measures and necessary resources
+Initiate measures
+List of Pending Items
+AM
+3. Monitor implementation of measures
+Verify completion and success of initiated measures
+List of Pending Items
+AM
+*Note: The Compliance Monitoring Manager has a Compliance Meeting with the Accountable Manager on a monthly basis to discuss the results of Audit Findings, discuss corrective actions, and follow up on corrective action closures. (Ref. ORA.GEN.200 (a)(6)).
+The minutes of the meeting will be recorded in the Pipedrive CRM system, identically to the procedure described for other meetings held.
+
+Data to be evaluated
+The following sources of information and criteria are analyzed and evaluated according to the respective frequency. The reports of the individual responsible managers will be collated into the Management Review Report and discussed during the Management Review Meeting. Corrective and preventive actions are initiated and tracked on the list of Pending Items.
+
+Step
+Criteria / Source data
+Frequency
+Accountable Manager
+Achievement of annual goals
+Overall effectiveness of the organization
+Monthly
+Compliance Monitoring manager
+Status of the implementation and effectiveness
+Audit results
+Inspection results
+6 months
+Head of Training
+Results from Progress checks and Examinations
+Theoretical Training Comment Form
+Flight Training Comment Form
+Customer satisfaction
+6 months
+Chief Flight Instructor
+Trainee Feedback
+Theoretical Training Comment Form
+Flight Training Comment Form
+6 months
+Chief TK Instructor
+Trainee Feedback
+Theoretical Training Comment Form
+Flight Training Comment Form
+6 months
+Continuing Airworthiness Manager
+Technical Logs
+Effectiveness of Maintenance Program
+6 months
+FSTD Manager
+Technical Logs (FSTD)
+Effectiveness of FSTD Maintenance Program
+QTG Test reports
+6 months
+3 months for QTG Test Reports
+
+COMPLIANCE MONITORING SYSTEM TRAINING AND PROMOTION
+The goal of the Compliance Monitoring System is to raise awareness among all EuroPilot Center personnel and students on all levels towards accident prevention, flight safety and Compliance Monitoring. The Compliance Monitoring Manager establishes the necessary training tools and records.
+
+Initial training
+Every new EuroPilot Center employee will - within respect of his function - be introduced to the EuroPilot Center Compliance Monitoring System by the Compliance Monitoring Manager. This will occur by means of a Self Study course.
+The FSTD Compliance Monitoring Manager shall have attended the CS-FSTD Compliance Monitoring Management Course.
+
+Recurrent Training
+Recurrent Training is based on safety and Compliance Monitoring related conclusions, experiences and changes, resulting from evaluation of data gathered by the implemented Compliance Monitoring Assurance Program.
+
+Source
+Responsibility for Training
+Compliance Monitoring System Documentation Changes
+Compliance Monitoring Manager
+Feedback and Reports
+Relevant Manager
+Compliance Monitoring Audits
+Compliance Monitoring Manager
+Management Evaluation
+Accountable Manager
+Compliance Monitoring Goals / Company Goals
+Accountable Manager
+FSTD Audits
+FSTD Compliance Monitoring Manager
+
+The responsible person decides upon the form of training (self-study course, hand-outs, class room training, e-mail, computer based training).
+
+Compliance Monitoring System Training Records
+All Compliance Monitoring Training shall be recorded in the E-Gle Online System by the applicable Manager.
+
+DOCUMENT CONTROL
+Control of Specifications / Prescriptive Documents
+For all internal Standards and Procedures, EuroPilot Center ensures that the current versions are available in the right time at the right place. The amendment procedure of the OM, TM and QTG is specified in the introduction part of the respective manual.
+
+Control of Compliance Monitoring System related Records
+Records are documents or data stating results achieved, or providing evidence of activities performed. To ensure an authorized and quick access to records, they have to be:
+Properly identified
+Systematically stored for the period required
+Destroyed after storage period in a controlled manner
+
+
+Document
+Responsibility
+Place of Storage
+Storage
+Management Evaluation Report
+AM
+EPC Administration Archives
+5 Years
+Individual Feedback Reports
+/
+EPC Administration Archives
+5 Years
+Compliance Monitoring Audit Reports (CMAR)
+CMM
+EPC Administration Archives
+5 Years
+Non Conformity Reports (NCR)
+CMM
+EPC Administration Archives
+5 Years
+List of Inspections Performed
+CMM
+EPC Administration Archives
+5 Years
+Employees Introduction Certificate
+CMM
+EPC Administration Archives
+5 Years
+Compliance Monitoring Training Attendance Record
+CMM
+EPC Administration Archives
+5 Years
+List of Pending Items
+CMM
+EPC Administration Archives
+5 Years
+Audit Checklists
+CMM
+EPC Administration Archives
+5 Years
+QTG Test Reports
+FSTD CMM
+EPC Administration Archives
+5 Years
+
+EDP Back-up Concept
+For all electronic files and documents, if any, EuroPilot Center shall provide a back-up in accordance with EASA ORA.GEN.220 and ORA.ATO.120:
+The responsibility for such back-up lies with the Accountable Manager;
+The back-ups will be taken on a Quarterly basis;
+The back-ups will be stored in a different location from that containing the working data and in an environment that ensures they remain in good condition. The EuroPilot Center Administration archives will satisfy this requirement, currently located at Antwerp Airport Office 2.
+All data should be kept for a period of at least 5 years:
+details of ground, flight, and simulated flight training given to individual students;
+detailed and regular progress reports from instructors including assessments, and regular progress flight tests and ground examinations; and
+information on the licenses and associated ratings and certificates of the students, including the expiry dates of medical certificates and ratings.
+When hardware or software changes take place, special care should be taken that all necessary data continues to be accessible for at least 5 years.
+Other data then the one specified above, should be kept for a period of at least 5 years.
+
+FSTD COMPLIANCE MONITORING MEASURES
+Purpose
+For the purpose of measuring the effectiveness of the FSTD Compliance Monitoring System, EuroPilot Center applies simplified performance measures that can be monitored against the FSTD Compliance Monitoring Objectives. These measures, referred to as Metrics can be reviewed by the BCAA as part of their oversight of Compliance Monitoring System and will be examined for each FSTD on an annual basis.
+The FSTD Compliance Monitoring Objectives are published in the Annual Company Goals by the Accountable Manager.
+
+FSTD Metrics
+All FSTD times must be recorded in the Annual FSTD Logbook. We refer to Annex 5.
+FSTD Actual Operating Time
+The Actual time the FSTD is operational, recorded in the FSTD Logbook under column: “A-TIME” (meaning Actual Operating Time).
+FSTD Defects
+An FSTD defect is any unanticipated occurrence which causes an operationally significant period during which the FSTD cannot be used within the specified tolerances.
+FSTD defects will result in Training Sessions Interruptions and consequently result in a Downtime Period.
+The Downtime Period will be recorded in the FSTD Logbook under the column “D-TIME” (meaning Downtime) in case of a scheduled Training Session Interruption caused by an FSTD Defect.
+The total number of FSTD defects leading to a Training Session Interruption, resulting in a Downtime Period must be recorded at the bottom of each FSTD Logbook page.
+FSTD Availability
+The FSTD availability is determined on a yearly basis by the ratio of Actual Operating Time compared to Specified Operating Time.
+The Specified Operating Time can be calculated by the sum of the total time of column “A-TIME” and the total time of column “D-TIME”
+The FSTD Availability can be calculated by the following formula:
+Annual Actual Operating Time
+FSTD AVAILABILITY =	X 100
+Annual Specified Operating Time
+
+Note: the FSTD Availability is one of the FSTD Compliance Monitoring Objectives.
+
+
+Factors important in providing a high degree of facility availability are:
+FSTD reliability;
+Quick response of maintenance personnel to failures;
+Adequate training of maintenance personnel;
+Equipment designs providing good component accessibility and maintainability;
+Efficient logistic support;
+Provision of adequate test equipment;
+Standby equipment, utilities and spare parts.
+
+Mean Time Between Failures
+The FSTD Mean Time Between Failures is determined on a yearly basis by the ratio of the Actual Operating Time and the number of FSTD Defects.
+It can be calculated by the following formula:
+Actual Operating Time
+FSTD MEAN TIME BETWEEN FAILURES =
+Number of FSTD Defects
+
+
+12.2.3 FSTD Reliability
+The FSTD reliability is the probability that the specific installation operates within the specified tolerances and refers to the probability that the facility will operate for a specified period of time.
+It corresponds to the Mean Time Between Failure value.
+
+Note: the FSTD Reliability is one of the FSTD Compliance Monitoring Objectives. Factors which affect MTBF and hence facility reliability are:
+Inherent equipment reliability;
+Degree and type of redundancy;
+Reliability of the serving utilities such as power and telephone or control lines;
+Degree and Compliance Monitoring of maintenance;
+Environmental factors such as temperature and humidity.
+
+12.2.4 FSTD Major issues
+In case of an FSTD:
+Major change;
+Relocation;
+Deactivation;
+Major failure;
+Major safety issue associated with the installation.
+The BCAA shall be informed by e-mail immediately by the FSTD Compliance Monitoring Manager and discuss the appropriate actions required.
+
+REGULATORY CHANGES FOLLOW-UP PROCEDURES
+The purpose of the below Regulatory follow-up procedure is to maintain compliance with ORA.GEN.135.
+By integrating a monthly Regulatory Change follow-up procedure, the CMM will be required to perform the following tasks:
+Enroll in the official EASA and FAA Online Notification Services (we refer to Annex 26 for more details).
+Daily, receives/collects all Regulatory changes relevant to the ATO (we refer to Annex 26 for a detailed overview of all relevant Regulations pertaining to the organization in Belgium and the USA).
+As part of the Scope, executes a manual verification of the Regulations relevant to the ATO (we refer to Annex 26).
+Publishes a “Regulatory Changes Bulletin” on a monthly basis which should be sent to the AM, HT and SM via e-mail.
+Depending on a) the nature; and/or b) the urgency of a future Regulatory Change, the CMM can call for a “Regulatory Change Meeting“, to be attended by the AM, HT and SM.
+Creation of an “Action Plan Proposal” to the AM, HT and SM. The process consists of 4 phases:
+PHASE 1 – Actively Monitoring Regulatory Changes PHASE 2 – Analyzing Changes
+PHASE 3 – Drafting Bulletin & Action Planning PHASE 4 – Closing
+Phase 1 – Actively Monitoring Regulatory Changes (Week 1 - 3)
+Login to PipeDrive and Click on “Projects”.
+From the Dropdown list on the right, select the “CMM - Regulatory Changes” -Project.
+Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+Select the “Regulator Changes” Template.
+Name the Project as per following convention: “Regulatory Changes: MM/YYYY” (e.g. Regulatory Changes: 02/2023”)
+Enter “Start Date” (Should be the first day of the month).
+Enter “End Date” (Should be the last day of the month).
+Select Label” In Progress”
+Perform the checklist items under the “PLAN” section of the Project.
+When receiving relevant regulatory changes containing a PDF file or other document, the CMM must upload this document via the “FILES” section of the Project.
+Upon receiving relevant regulatory changes via ANY official SOURCE, a note must be made in the “NOTES” Section of the Project, including comments.
+When receiving relevant e-mails from official sources, they should be linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+
+
+PHASE 2 – Analyzing Changes (Week 3 - 4)
+Go to the Project section in Pipedrive to obtain all the data collected during Phase 1.
+Move the Project to Phase 2.
+Start with the Analysis Process based on the PLAN Checklist for this Phase.
+Update the overview of all relevant Regulatory Changes in the “NOTES” section of the Project, already made during Phase 1.
+PHASE 3 – Drafting Bulletin & Action Planning (Week 3 - 4)
+Go to the Project section in Pipedrive.
+Move the Project to Phase 3.
+Execute the PLAN Checklist for this Phase.
+Start drafting the “Regulatory Changes Bulletin” via de “EMAILS” section of the Project by creating a new e-mail via the Template Menu. Select the “Regulatory Change Bulletin” template.
+Create an Action Plan via the “PLAN” Section.
+Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+Allocate the “TASK” to the responsible person within the organization and add a due-date (proposal).
+Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+Once the Regulatory Changes Bulletin (or Minutes of the Regulatory Changes Meeting, if held) has been drafted and the Action Plan is prepared under the PLAN section, send the e-mail to the AM, HT, SM.
+Note: In case a regulatory change is urgent (or requires an in-depth discussion) on the implementation of the upcoming regulatory changes, the CMM shall add an Action List item as an “ACTIVITY”, “MEETING” and schedule an official “Regulatory Changes Meeting” to be attended by the AM, HT and SM. Instead of sending a standard “Regulatory Changes Bulletin” the Minutes of the “Regulatory Changes Meeting” shall be sent via e-mail to the AM, HT and SM. The CMM is responsible for collecting and sending the Minutes of the meeting. If unable the HT, followed by the SM, followed by the AM, will take on this task.
+IMPORTANT! A Regulatory Changes Meeting will always trigger a “Change Request” to be sent to the Safety Manager, hence may initiate a Management of Change Procedure.
+PHASE 4 – Closing (Within the agreed deadline)
+After either the “Regulatory Changes Bulletin” or the Minutes of “Regulatory Changes Meeting” have been reviewed by the AM, HT and SM, feedback obtained shall be used to update the Action Plan via the “PLAN” Section.
+Based on the deadlines for each Action item, the CMM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+The CMM ensures all Task Items are closed and “archives” the Project.
+Part 3 - Safety Management System	4
+GENERAL	4
+Index of abbreviations	4
+Definitions and Terms	5
+SCOPE OF THE SAFETY MANAGEMENT MANUAL	7
+SAFETY POLICY AND OBJECTIVES	8
+Objectives	8
+EuroPilot Center Safety Policy	9
+SAFETY ACCOUNTABILITY AND RESPONSIBILITIES	10
+Safety accountability of the Accountable Manager	10
+Safety responsibility of Key Safety Personnel	10
+Organogram	10
+Safety manager	11
+Requirements	11
+The following experience/qualifications are required for a Safety Manager within EuroPilot Center:	11
+Duties and Responsibilities	11
+3.2.3 Safety Manager Training (Initial & Recurrent)	12
+Has received a course from an experienced Safety Manager in the following topics:	12
+Safety Review Board (SRB)	12
+Safety Action Group (SAG)	15
+Personnel and students	17
+DOCUMENTATION CONTROL PROCEDURE	18
+Control of Specifications / Prescriptive Documents	18
+Control of Records	18
+SAFETY RISK MANAGEMENT	19
+Safety Risk Assessment	19
+Scope of Safety Risk Assessment	19
+Elements that influence the Safety Risk Assessment	19
+Risk Acceptance Criteria and the ALARP Concept	20
+Risk Assessment Process Steps	21
+Preparation	21
+Hazard Identification	21
+Risk Assessment, Description and Evaluation	25
+Risk Control	30
+Conclusion and Documentation	32
+Changes that could Invalidate the Conclusion of a Risk Assessment	33
+Implementation of Risk Mitigation	33
+Monitoring, Review and Improvement	33
+Occurrence Reporting and Internal Safety Investigations	34
+5.6.4 Occurrence Reporting Scheme	35
+5.6.2 Internal Safety Investigation	37
+Safety Performance Monitoring and Measurement	38
+Stepwise Approach to Safety Performance Measurement	38
+Fixing, Safety performance Objectives	39
+Process	39
+Emergency Response Planning	42
+General	42
+Aim of the Emergency Response Plan (ERP)	42
+Events that may activate the ERP	42
+Organization	42
+Reaction to an Emergency Call	43
+Emergency Numbers	43
+The Crisis Management Center	44
+Internal and External Communication	45
+Roles of the Crisis Management Team	45
+Management of Change	48
+Continuous Improvement	51
+Improvement of Safety Performance	51
+Improvement of the SMS	51
+SAFETY PROMOTION	52
+CONTRACTED ACTIVITIES	53
+TRAINING AND COMMUNICATION ON SAFETY	54
+Training	54
+Communication	55
+Safety Committee Airport Meetings	56
+Part 3 - Safety Management System
+GENERAL
+
+Index of abbreviations
+ALARP	As Low as Reasonably Practicable AM	Accountable Manager
+AMC	Acceptable Means of Compliance ASR	Air Safety Report
+ATO	Approved Training Organization
+AU	Audit
+CMM	Compliance Monitoring Manager EASA	European Aviation Safety Agency
+EGAST	European General Aviation Safety Team EHEST	European Helicopter Safety Team
+ERP	Emergency Response Planning or Plan
+ESSI	European Strategic Safety Initiative
+FDM	Flight Data Monitoring
+GM	Guidance Material
+ICAO	International Civil Aviation Organization IHST	International Helicopter Safety Team
+MOC	Management of Change
+OMM	Organization Management Manual SAG	Safety Action Group
+SM	Safety Manager
+SM ICG	Safety Management International Cooperation Group SMM	Safety Management Manual
+SMS	Safety Management System
+SOP	Standard Operating Procedure
+SPI	Safety Performance Indicator
+SPO/SPT	Safety Performance Objective/Target (synonymous terms) SRB	Safety review Board
+SRM	Safety Risk Management
+SURV	Survey
+
+Definitions and Terms
+Accident Precursor: Event(s) which, without appropriate mitigation, can result in Undesirable Events, incidents and accidents.
+Audit: A systematic, independent and documented process for obtaining evidence and evaluating it objectively to determine the extent to which requirements are complied with.
+Hazard: A condition, object, activity or event with the potential of causing injuries to personnel, damage to equipment or structures, loss of material, or reduction of the ability to perform a prescribed function.
+Inspection: An independent documented conformity evaluation by observation and judgement accompanied as appropriate by measurement, testing or gauging, in order to verify compliance with applicable requirements (incl. procedures, work instruction standards, etc.).
+Likelihood: is used in this manual as a synonym of probability. It is a measure of how likely something is to happen. Probability / likelihood varies between 0 and 1 and can be assessed using terminology such as ‘very low, low, medium, high and very high’.
+Note: In the ICAO Doc 9859 AN/474 Safety Management Manual, Third Edition, safety risk probability is defined as the likelihood or frequency that a safety consequence or outcome might occur.
+Management of Change: A documented process to identify external and internal changes that may have an adverse (or positive) effect on safety. This process uses the existing hazard identification, risk assessment and mitigation processes.
+Mitigation Barrier: Risk control mitigating the outcome (severity) of an incident or an accident.
+Prevention Barrier: Risk control aimed at preventing Undesirable Events and Undesirable Operational States.
+Recovery Barrier: Risk control aimed at impeding that Undesirable Operational States result in an accident or, in other words, that incident scenarios escalate into an accident.
+Risk: The combination of occurrence likelihood and severity.
+Risk Analysis, Assessment and Mitigation: A risk management process ensures analysis (in terms of likelihood and severity of occurrence), assessment (in terms of tolerability) and control (in terms of mitigation) of risks to an acceptable level.
+Risk Tolerability Matrix: A matrix (or table) combining Risk Likelihood and Risk Severity.
+Safety: The state in which risks associated with aviation activities are reduced and controlled to an acceptable level (ICAO Annex 19, expected to be published in 2013). The publication of Annex 19 is likely to lead to a revision of the ICAO Doc 9859 AN/474, Safety Management Manual, Third Edition, where safety is defined as the state in which the risk of harm to persons or property damage is reduced to and maintained at or below an acceptable level through a continuing process of hazard identification and risk management.
+Safety Assurance: is the process of assuring safety. In the ICAO Doc 9859 AN/474 Safety Management Manual, Third Edition, Safety Assurance encompasses the processes of Safety Performance Monitoring and Measurement, Management of Change, and Continuous Improvement of the SMS.
+
+Note: The EU regulation on Air Operations, Part ORO.GEN 'Management System' and relevant AMC’s and GM does not use the term Safety Assurance, but addresses the three Safety Assurance processes separately. This approach has been adopted in this Safety Management Manual.
+Safety Management System (SMS): A systematic approach to manage safety, including the necessary organizational structures, accountabilities, policies and procedures (ICAO Doc 9859 AN/ 474 Safety Management Manual, Third Edition).
+Safety Performance: Safety achievement as defined by the safety performance targets and measured by safety performance indicators.
+Safety Performance Indicator (SPI): A data-based safety parameter used for monitoring and assessing performance (ICAO Doc 9859 AN/474 Safety Management Manual, Third Edition).
+Safety Performance Monitoring: The process by which the operator’s safety performance is monitored and assessed against the operator’s safety policy and safety objectives.
+Safety Performance Objective (SPO) or Target (SPT): The planned or intended objective for safety performance indicator(s) over a given period. Objectives and targets are considered synonymous in this SMM.
+Safety Risk Value or Risk Index Value: Values in the cells of a Risk Matrix allowing differentiation of risk level for the purpose of risk analysis, assessment and mitigation.
+Undesirable Event (UE): Event leading to a stage in the escalation of an accident scenario (Undesirable Operational State) where the accident can be avoided only through successful recovery measure(s) or by chance.
+Undesirable Operational State (UOS): The stage in an accident scenario where the scenario has escalated so far that the accident can be avoided only through successful recovery measure(s) or by chance.
+
+SCOPE OF THE SAFETY MANAGEMENT MANUAL
+The Safety Management Manual (SMM) is a reference document describing how safety is managed within EuroPilot Center ATO. The SMM is the key instrument for communicating EuroPilot Center’s Safety Approach to all its personnel and students.
+The SMM documents all aspects of safety management, including the safety policy, objectives, procedures and individual safety responsibilities.
+The content of the SMM includes all of the following:
+Scope of the SMS;
+Safety policy and objectives;
+Safety accountability of the accountable manager;
+Safety responsibilities of key safety personnel;
+Documentation control procedures;
+Hazard identification and risk management schemes;
+Safety action planning;
+Safety performance monitoring;
+Incident investigation and reporting;
+Emergency response planning;
+Management of change (including organizational changes with regard to safety responsibilities);
+Safety promotion.
+The SMM is part of the EuroPilot Center Organization Management Manual (OMM)
+The SMM will be distributed throughout EuroPilot Center to ensure that all personnel and students are fully aware of the system ensuring:
+That safety is a central component in the EuroPilot Center management system;
+That safety is accounted for in all decisions and actions taken within EuroPilot Center;
+That the needs, requirements and expectations of students and other parties are fulfilled.
+
+SAFETY POLICY AND OBJECTIVES
+
+By means of the Safety Policy, EuroPilot Center states its intention to maintain and, where practicable, improve safety levels in all its activities and to minimise the risk of an aircraft accident as far as is reasonably practicable.
+
+Objectives
+The Safety Policy:
+is endorsed by the Accountable Manager;
+reflects the organizational commitments regarding safety and its proactive and systematic management;
+is communicated, with visible endorsement, throughout EuroPilot Center; and
+includes safety reporting principles.
+It includes a commitment:
+to improve towards the highest safety standards;
+to comply with all applicable legislation, meet all applicable standards and consider best practices;
+to provide appropriate resources;
+to enforce safety as a primary responsibility of all managers; and
+not to blame someone for reporting something which would not have been otherwise detected.
+In addition to these general objectives enshrined in the Safety Policy, detailed safety management objectives are addressed in the section Safety Performance Monitoring and Measurement.
+EuroPilot Center will:
+continuously promote the safety policy to all personnel and students, and demonstrate its commitment to it;
+provide necessary human and financial resources for its implementation; and
+establish safety objectives and performance standards.
+
+EuroPilot Center Safety Policy
+EuroPilot Center Safety Policy
+Safety is one of EuroPilot Center’s core values. We are committed to developing, implementing, maintaining and constantly improving strategies and processes to ensure that all our aviation training activities take place under an appropriate allocation of organizational resources, aimed at achieving the highest level of safety performance and meeting regulatory requirements, while delivering our services.
+All levels of management and personnel are accountable for the delivery of this highest level of safety performance, starting with the Accountable Manager.
+
+We are committed to:
+
+Support the management of safety through the provision of all appropriate resources, that will result in an organizational culture that fosters safe practices, encourages effective safety reporting and communication, and actively manages safety with the same attention to results as the attention to the results of the other management systems within the organization;
+Ensure the management of safety is a primary responsibility of all managers and employees;
+Clearly define for all staff, managers and employees alike, their accountabilities and responsibilities for the delivery of the organization‘s safety performance and the performance of our safety management system;
+Establish and operate hazard identification and risk management processes, including a hazard reporting system, in order to eliminate or mitigate the safety risks of the consequences of hazards resulting from our operations or activities to achieve continuous improvement in our safety performance;
+Ensure that no action will be taken against any employee/student who discloses a safety concern through the hazard reporting system, unless such disclosure indicates, beyond any reasonable doubt, gross negligence or a deliberate or willful disregard of regulations or procedures;
+Comply with and, wherever possible, exceed, legislative and regulatory requirements and standards;
+Ensure that sufficient skilled and trained human resources are available to implement safety strategies and processes;
+Ensure that all staff members are provided with adequate and appropriate aviation safety information and training, are competent in safety matters, and are allocated only tasks commensurating with their skills;
+Establish and measure our safety performance against realistic safety performance indicators and safety performance targets;
+Continually improve our safety performance through continuous monitoring and measurement, and regular review and adjustment of safety objectives and targets, and diligent achievement of these; and
+Ensure externally supplied systems and services to support our operations are delivered meeting our safety performance standards.
+
+
+Maria A. Paz
+Accountable Manager EuroPilot Center ATO
+
+SAFETY ACCOUNTABILITY AND RESPONSIBILITIES
+Safety accountability of the Accountable Manager
+
+The Accountable Manager bears the safety accountability which means that he is ultimately accountable for safety within EuroPilot Center.
+He/she endorses the Safety Policy (including the EuroPilot Center statement on the protection of the reporters, OMM Annex 7 - Protection of Reporters).
+Provides the human and material resources necessary for operating the SMS and achieving the safety objectives;
+Nominates the Safety Manager, the Compliance Monitoring Manager and the Safety Review Board.
+The Accountable Manager chairs the Safety Review Board and endorses the safety objectives.
+
+Safety responsibility of Key Safety Personnel
+The safety management organization includes:
+The Accountable Manager (AM)
+The Safety Manager (SM)
+The Compliance Monitoring Manager (CMM)
+A Safety Review Board (SRB)
+Organogram
+We refer to OM Annex 35 – Organogram
+
+Safety manager
+Requirements
+The following experience/qualifications are required for a Safety Manager within EuroPilot Center:
+Has extensive knowledge of Aviation Rules and Regulations (including FSTD’s);
+Preferably hold or have held a Commercial (or Airline Pilot License);
+Has been a Safety Manager for an Aviation Organization for at least 1 year; or
+Has extensive experience in Safety Management Systems; or
+Has attended the Safety Management Course (e.g. Internal Course or through an entity such as JAATO);
+Possesses sound Managerial Skills;
+Speaks/writes and understands the English language;
+Duties and Responsibilities
+The Safety Manager acts as the focal point and is responsible for the development, administration and maintenance of the SMS.
+The duties of the Safety Manager are to:
+facilitate hazard identification, risk analysis and management;
+monitor the implementation of actions taken to mitigate risks as listed in the safety action plan;
+provide periodic reports on safety performance;
+ensure maintenance of safety management documentation;
+ensure that there is safety management training available and that it meets acceptable standards;
+provide advice on safety matters; and
+ensure initiation and follow-up of internal occurrence/accident investigations.
+The Safety Manager is the focal point for:
+collecting and analyzing hazards and maintaining a register of hazards, risks, and risk controls (mitigations); and
+development, administration and maintenance of the SMS.
+
+3.2.3 Safety Manager Training (Initial & Recurrent)
+Has received a course from an experienced Safety Manager in the following topics:
+Basic Safety Management Systems (Min. 2h00);
+Evaluation and Reporting (Min 2h00);
+Or has attended the same course through another entity (e.g JAATO) and has provided EPC with an appropriate Certificate of Training.
+In addition, the applicant shall be trained on:
+Safety Management system procedures within EuroPilot Center (Min. 1h00);
+EuroPilot Center’s manuals and document control procedures (Min. 1h00);
+EuroPilot Center’s ATO OMM and OM procedures (Min. 1h00);
+EuroPilot Center’s Safety Reporting System (Min. 1h00);
+EuroPilot Center’s Safety Management Online System (Min. 2h00)
+Practical Training shall consist of conducting at least 2 months of Safety Management Training under supervision with an experience Safety Manager.
+All training should be logged in the E-gle System by the Safety Manager. Recurrent Training does not apply to Safety Managers.
+
+Safety Review Board (SRB)
+
+The Safety Review Board is high level committee that considers matters of strategic safety in support of the Accountable Manager.
+The Safety Review Board is chaired by the Accountable Manager and is composed of:
+The Compliance Monitoring Manager
+The Head of Training
+The Chief Flight Instructor
+The Chief Theoretical Knowledge Instructor
+The Safety Review Board monitors the safety performance against the safety policy and safety objectives, monitors that any safety action is taken in a timely manner and that the SMS is effective.
+The Accountable Manager ensures that appropriate resources are allocated to achieve the established safety performance and informs the Safety Review Board accordingly.
+The Safety Manager may attend, as appropriate, Safety Review Board meetings. The Safety Manager may communicate to the Accountable Manager all information, as necessary, to allow decision making based on safety data.
+
+Process of the Safety Review Board Meeting
+The yearly safety Review Board meeting will be scheduled, held, recorded and follow-up actions shall be taken, according to the process below, consisting of 4 phases:
+PHASE 1 – Scheduling the Safety Review Board (SRB) Meeting PHASE 2 – Recording the Meeting Minutes
+PHASE 3 – Action Planning PHASE 4 – Closing
+Phase 1 – Scheduling the Safety Review Board (SRB) Meeting
+Login to PipeDrive and Click on “Projects”.
+From the Dropdown list on the right, select the “AM - Safety Review Board Meeting” -Project.
+Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+Select the “Safety Review Board” Template.
+Name the Project as per following convention: “SRB Meeting: MM/YYYY” (e.g. SRB Meeting: 02/2023”)
+Enter “Start Date” (Should be the scheduled day of the SRB Meeting).
+Enter “End Date” (Should be the scheduled day of the SRB Meeting + 90 days).
+Select Label” In Progress”
+Perform the checklist items under the “PLAN” section of the Project.
+If relevant for the SRB Meeting, the AM can upload documents via the “FILES” section of the Project.
+The AM should draft the “Agenda” of the SRB Meeting and use the “NOTES” Section of the Project (this can be performed in close cooperation with the SM).
+When receiving relevant e-mails from official sources, they should be linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+The AM sends the invite for the Meeting to the HT, SM, CFI and CTKI including the SRB Meeting “Agenda”.
+PHASE 2 – Recording the Meeting Minutes
+The Safety Manager will be in charge.
+Go to the Project section in Pipedrive to obtain all the data collected during Phase 1.
+Move the Project to Phase 2.
+During the SRB Meeting, the minutes will be recorded by the SM by updating the “NOTES” section of the Project.
+Note: If the SM is unable to record the SRB Minutes, the CMM will be next, followed by the HT, CFI, CTKI and AM.
+
+PHASE 3 – Action Planning
+The SM will be in charge.
+Go to the Project section in Pipedrive.
+Move the Project to Phase 3.
+Execute the PLAN Checklist for this Phase.
+Start drafting the “SRB Meeting Minutes” via de “EMAILS” section of the Project by creating a new e-mail via the Template Menu. Select the “SRB Meeting Minutes” template.
+Create an Action Plan via the “PLAN” Section.
+Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+Allocate the “TASK” to the responsible person within the organization and add a due-date (proposal).
+Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+Once the SRB Meeting Minutes e-mail has been drafted and the Action Plan is prepared under the PLAN section, the SM sends the e-mail to the AM, CMM, HT, CFI and CTKI.
+IMPORTANT! An SRB Meeting may trigger a “Change Request” which shall be sent to the Safety Manager, hence may initiate a Management of Change Procedure.
+PHASE 4 – Closing
+The SM will be in charge.
+After either the “SRB Meeting Minutes” have been reviewed by the AM, CMM, HT, CFI and CTKI, feedback obtained shall be used to update the Action Plan via the “PLAN” Section by the SM.
+Based on the deadlines for each Action item, the SM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+The SM ensures all Task Items are closed and “archives” the Project.
+
+Safety Action Group (SAG)
+
+The SAG reports to and takes strategic direction from the Safety Review Board. It comprises managers, supervisors and staff from operational areas. The Safety Manager may also be included in the SAG.
+The safety action group:
+Oversees operational safety;
+Resolves identified risks;
+Assesses the impact on safety of operational changes;
+Implements corrective action plans; and
+Ensures that corrective action is achieved within agreed timescales.
+The safety action group reviews:
+The effectiveness of previous safety recommendations; and
+Safety promotion.
+Process of the Safety Action Group Meeting
+A Safety Action Group Meeting will be assembled by the SRB on an ad-hoc basis as deemed required by the Safety Review Board, according to the process below, consisting of 4 phases:
+PHASE 1 – Scheduling the Safety Action Group (SAG) Meeting PHASE 2 – Recording the Meeting Minutes
+PHASE 3 – Action Planning PHASE 4 – Closing
+Phase 1 – Scheduling the Safety Action Group (SAG) Meeting
+The Safety Manager will be in charge.
+Login to PipeDrive and Click on “Projects”.
+From the Dropdown list on the right, select the “SM - Safety Action Group Meeting” -Project.
+Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+Select the “Safety Action Group” Template.
+Name the Project as per following convention: “SAG Meeting: MM/YYYY” (e.g. SAG Meeting: 02/2023”)
+Enter “Start Date” (Should be the scheduled day of the SAG Meeting).
+Enter “End Date” (Should be the scheduled day of the SAG Meeting + 90 days).
+Select Label” In Progress”
+Perform the checklist items under the “PLAN” section of the Project.
+If relevant for the SAG Meeting, the AM can upload documents via the “FILES” section of the Project.
+The SM should draft the “Agenda” of the SAG Meeting and use the “NOTES” Section of the Project.
+When receiving relevant e-mails from official sources, they should be linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+The SM sends the invite for the Meeting to the AM, HT, CFI and CTKI including the SAG Meeting “Agenda”.
+
+PHASE 2 – Recording the Meeting Minutes
+The Safety Manager will be in charge.
+Go to the Project section in Pipedrive to obtain all the data collected during Phase 1.
+Move the Project to Phase 2.
+During the SAG Meeting, the minutes will be recorded by the SM by updating the “NOTES” section of the Project.
+Note: If the SM is unable to record the SAG Minutes, the CMM will be next, followed by the HT, CFI, CTKI and AM.
+PHASE 3 – Action Planning
+The SM will be in charge.
+Go to the Project section in Pipedrive.
+Move the Project to Phase 3.
+Execute the PLAN Checklist for this Phase.
+Start drafting the “SAG Meeting Minutes” via de “EMAILS” section of the Project by creating a new e-mail via the Template Menu. Select the “SAG Meeting Minutes” template.
+Create an Action Plan via the “PLAN” Section.
+Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+Allocate the “TASK” to the responsible person within the organization and add a due-date (proposal).
+Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+Once the SAG Meeting Minutes e-mail has been drafted and the Action Plan is prepared under the PLAN section, the SM sends the e-mail to the AM, CMM, HT, CFI and CTKI.
+IMPORTANT! An SAG Meeting may trigger a “Change Request” which shall be sent to the Safety Manager, hence may initiate a Management of Change Procedure.
+PHASE 4 – Closing
+The SM will be in charge.
+After either the “SAG Meeting Minutes” have been reviewed by the AM, CMM, HT, CFI and CTKI, feedback obtained shall be used to update the Action Plan via the “PLAN” Section by the SM.
+Based on the deadlines for each Action item, the SM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+The SM ensures all Task Items are closed and “archives” the Project.
+
+Personnel and students
+
+All EuroPilot Center personnel in charge of operational tasks and all EuroPilot Center students have the following responsibilities:
+Ensure both their own and the safety of other personnel and/or students.
+Interrupt or discontinue their tasks if their safety or that of others is at risk.
+Perform their tasks in compliance with regulations and EuroPilot Center’s procedures.
+Practice and promote the EuroPilot Center’s safety policy.
+Notify hazards and safety-related events and report any relevant information to the Safety Manager.
+Take note of the lessons learnt from incidents and accidents, be mindful of the risks, and take all appropriate measures to protect themselves and the others from these risks in their daily activity.
+Participate in safety briefings, meetings and events.
+Participate, if applicable, in safety analyses.
+Know their role in the EuroPilot Center’s Emergency Response Plan.
+All personnel and students have a part in implementing the SMS successfully. It’s the responsibility of everyone within EuroPilot Center to identify and report hazards.
+All personnel and students are to inform the Safety Manager of any situation deemed to be hazardous to flight safety and to their own safety or the safety of others both within or out of EuroPilot Center ATO.
+All personnel and students have to be trained in the SMS and have knowledge of their roles and responsibilities.
+For personnel, this takes place during the initial Standardization course.
+For students, this takes place immediately after their course enrollment.
+Self-study of the Safety Manual or a Briefing will be foreseen followed by a short multiple choice questionnaire.
+
+DOCUMENTATION CONTROL PROCEDURE
+Control of Specifications / Prescriptive Documents
+For all internal Standards and Procedures, EuroPilot Center ensures that the current versions are available in the EuroPilot Center Planning and Operations room. The amendment procedure of the OMM, OM, TM and QTG is specified in the introduction part of the respective manual.
+
+Control of Records
+Records are documents or data stating results achieved, or providing evidence of activities performed. To ensure an authorized and quick access to records, they have to be:
+Properly identified
+Systematically stored for the period required
+Destroyed after storage period in a controlled manner
+
+
+Document
+Responsibility
+Place of Storage*
+Storage
+Safety Objectives and Indicators
+Safety Manager
+EPC Administration Archives
+5 Years
+Safety Review Board Reports
+Accountable Manager
+EPC Administration Archives
+5 Years
+Event Reports
+Safety Manager
+EPC Administration Archives
+Permanent
+Audit Reports including the follow-up of corrective actions
+Safety Manager
+EPC Administration Archives
+5 Years
+Hazard and Risk Registers
+Safety Manager
+EPC Administration Archives
+Permanent
+Risk Mitigations
+Safety Manager
+EPC Administration Archives
+Permanent
+Safety Training Reports
+Head of Training
+EPC Administration Archives
+Permanent
+
+
+*Note: Storage can be in an electronic format (cloud-based).
+
+SAFETY RISK MANAGEMENT
+Safety Risk Management combines the following processes and components:
+Hazard identification, risk assessment and mitigation processes
+Internal safety investigation
+Safety performance monitoring and measurement
+Management of change
+Communication (Safety Notes and yearly Safety Bulletin).
+Continuous improvement
+The Emergency Response Plan (ERP)
+A formal risk management process has been developed and is maintained to ensure that:
+analysis, in terms of likelihood and severity of occurrence;
+assessment, in terms of tolerability; and
+control, in terms of mitigation of risks to an acceptable level.
+Additionally, the levels of management that have the authority to make decisions regarding the tolerability of safety risks are specified in the following paragraphs.
+
+Safety Risk Assessment
+Scope of Safety Risk Assessment
+The SMS only addresses the assessment of aviation safety risks. This does not mean that financial, legal, or economic aspects do not need to be considered in the risk assessment process. EuroPilot Center identifies all significant influences that may impact aviation safety, in particular when determining contributing factors for the analysis of consequences of a hazard, and deciding on risk mitigation measures.
+Elements that influence the Safety Risk Assessment
+Communication and Consultation
+Good communication within EuroPilot Center and, where relevant, with external parties, students, partners, or contractors, should help ensure access to all relevant information, and assist in ensuring buy-in from all those that may be affected by the risk assessment conclusions and recommendations.
+Regulatory Requirements - Risk addressed by Regulations
+Regulations are generally developed to control common safety risks that stem from specific or general hazards through prescriptive, technical standards in the areas of technology, training, or task performance.
+Such hazards controlled by regulations do not need to be further addressed in the Organization’s risk assessment unless evidence exists that the regulatory provision is not sufficient.
+If the regulation is not specific, has several options, or directly calls for a risk assessment, the hazard obviously should be assessed, and the appropriate provision implemented.
+
+Regulatory Requirements - Organization’s Resources
+Available resources are relevant with respect to both capacity and competence:
+for the risk assessment process itself; and
+for the activity being assessed (aircraft, equipment, personnel, finances, etc.).
+EuroPilot Center’s current resources in terms of equipment and personnel are normally considered in the risk assessment.
+Risk Acceptance Criteria and the ALARP Concept
+
+Risk Acceptance Criteria are established on the basis of a Safety Policy and Safety Performance Objectives. Furthermore, management responsibility for the acceptability of safety risks is defined as part of the SMS.
+Safety risk acceptance criteria address the following:
+Flight Instructors;
+Theoretical Knowledge Instructors;
+Students;
+The natural environment; and
+The corporate well-being.
+EuroPilot Center employs the ‘As Low As Reasonably Practicable’ (ALARP) risk acceptance criterion.
+This ALARP criterion is not exclusively based on fixed risk level targets but is a systematic and documented process to reduce safety risks below the maximum allowed by regulations or standards or when the risk is otherwise considered unacceptable.
+ALARP means that the safety risk is being managed to as low a level as reasonably practicable whilst at all times staying below the maximum allowed risk.
+
+Risk Assessment Process Steps
+Preparation
+The Safety Risk Assessment should be initiated in time for the results to be available before any decisions regarding the activity concerned have to be made.
+The Safety Manager:
+shall determine the need for a dedicated working group comprised of suitable subject matter experts and personnel involved in EuroPilot Center’s activities.
+shall also decide whether, and what other methods and sources are used to determine hazard causes, likelihood and consequences.
+progressively extend and personalize the data base.
+shall decide whether to use additional data sources.
+The EuroPilot Center database shall contain:
+information resulting from the investigation of internal occurrences and accidents,
+reported deviations and proposals for improvement,
+experience collected from the monitoring of normal operations.
+The EuroPilot Center database may be augmented with similar data exchanged with other operators. Whenever possible, the process of risk assessment should further build upon experience derived from risk assessments carried out previously.
+Hazard Identification
+Hazard Classification
+Hazards can come from different sources, including but not limited to:
+Natural and environmental: weather, earthquake, wind and sand, sea water, rocks, cliffs, ice structures, rough waters, volcano lava and dusts, etc.
+Economic: competition, production pressure, cost pressure, etc.
+Unsafe conditions: use of unofficial documentation or documents not up to date, poor resources.
+Psychological: mood, external pressure, personality issues, etc.
+Physiological: diseases, hypoxia, perceptual illusions, fatigue, sleep deprivation, jet lag, medication, alcohol, intoxication, digestion troubles, etc.
+Technological: design or maintenance related, hazardous material, pollution, explosions, etc.
+Operational or mission specific: obstacles, cables, demanding landing sites (moving platforms/ off airfield sites), degraded visual cuing (brown-out and white-out), demanding/overbearing customers (VIPs), etc.
+Unsafe acts: errors, violations, negligence, sabotage, excessive/uncontrolled performance variations.
+
+Hazard Identification Sources
+Hazards can be identified from different internal and external sources and are elements, in isolation or in combination, which may have contributed or could contribute to an incident or accident.
+
+Internal sources
+
+Safety assessment of systems and operations;
+Voluntary reports, spontaneous identification;
+Safety indicator tendencies;
+Inspections and audits.
+
+External sources
+
+Accident and incident reports;
+Technical publications from manufacturers (for instance Safety Information Bulletins);
+Safety Information Bulletins, safety alerts and other safety publications from EASA, the European Commission, the National Aviation Authorities, ICAO, Eurocontrol, the FAA and other authorities worldwide;
+Websites such as SKYbrary and Wikipedia;
+Safety publications by national or international associations and safety initiatives such as AGAST, EHEST and IHST, the Helicopter Association International (HAI), the Royal Aeronautical Society (RAeS), the Flight Safety Foundation ( FSF), Aircraft Owners and Pilots Association (AOPA) etc.;
+Safety publications by industry, research Organizations and academia;
+Professional journals, conference proceedings, safety campaigns, helicopter safety days;
+Benchmarks between operators, data aggregated at sector level or by the manufacturers, etc.;
+
+Hazard Consequences Identification Sources
+Hazards are distinguished from hazard consequences.
+Consequences can be described based on the hazard information specifying the place, time, extent, nature, etc. of the event as required.
+Hazard identification also provides a systematic overview of all possible consequences.
+For each hazard, the following question should be asked: What were or could have been the possible hazard consequences?
+Where information on the consequence of a hazard has been identified for a specific type of activity it should be available directly from data sources (e.g. from reported accidents and occurrences or from results of analysis already documented).
+It is also worth noting that the absence of past incidents/accidents does not mean absence of risk.
+It is important, therefore, to identify the underlying hazards and to assess the risks. One effective way of doing this is to group similar events to try and identify the underlying hazards.
+Aids to the identification of possible consequences include the following:
+Other risk assessments;
+Occurrence and accident reports;
+Audits/non-compliance reports;
+Internal reviews;
+Instructor Meetings;
+Threat assessments;
+Standard checklists (origin should be identified if used and the lists assessed and revised as required to suit the purpose).
+
+Hazard Identification Process
+Hazards are identified through the application of a hazard identification process. The hazard identification process is the formal means of collecting, recording, analyzing, acting on and generating feedback about hazards and the associated risks that affect the safety of EuroPilot Center’s operational activities.
+The hazards identification process features several components:
+The reactive approach consists of analyzing accidents and incidents that have occurred and trying to understand why. Based on the analysis of reported accidents and incidents, the following questions should be asked:
+What accidents or incidents did happen and why?
+For what reasons did these occur? Because of what causal factors?
+What barriers or risk controls failed and what barriers worked?
+The proactive approach consists of analyzing the conduct of operations to identify potential hazards and assess the associated risks and then to mitigate risks factors before they result in an accident or incident. This approach should trigger the following questions:
+What accidents or incidents could happen and why?
+For what reasons could these occur?
+Do we feel protected enough? Any action we should take now to prevent these from occurring?
+Hazard identification also features a predictive approach. It consists of conducting a predictive analysis using for instance data extrapolation (estimating for instance the future risk level based on the data collected over the past 3 or 5 years) or statistical modeling (a more complex way).
+A predictive approach aims at identifying and mitigating risks before they become evident (addressing today the risks of tomorrow). This approach poses the following question:
+What accidents or incidents could happen in the future and why?
+Do we feel protected enough? Any action we should take now to avoid such future risks and occurrences (addressing today the risks of tomorrow)?
+The predictive and proactive approaches are very effective tools for the management of safety, they should build upon the basis of solid reactive processes.
+Hazard, Risks and Risk Controls
+EuroPilot Center applies the Safety Risk Control Modeling approach.
+The purpose of this approach is to consider “Undesirable Events” as an intermediate step between hazards and risks, and incidents and accidents.
+Hazards can, in isolation or in combination, lead to Undesirable Events.
+They trigger a stage in the escalation of an accident scenario, called the Undesirable Operational State, where the scenario has escalated to the point that the accident can only be avoided through successful recovery measure(s) or by chance.
+Prevention Barriers are risk controls aimed at preventing Undesirable Events and Undesirable Operational States.
+Recovery Barriers are risk controls that prevent these events from resulting in an accident.
+Mitigation barriers are risk controls that mitigate the effect of an incident or an accident
+
+Hazard Recording
+The Safety Manager will maintain a register (or log) of hazards.
+Identification of Undesirable Events and their Consequences
+EuroPilot Center has created a list of Undesirable Events, based on our experience as RF and FTO, as a means to start our SMS. This list will be updated and adapted through the operation of the SMS.
+Risk Assessment, Description and Evaluation
+Risk combines two dimensions: likelihood of hazard consequences and their severity. Both dimensions will be assessed.
+Analysis of Likelihood
+Assessment of likelihood is based on the following two way process:
+hazard consequences are analyzed to establish possible causes, contributing factors and existing barriers.
+causes, contributing factors and barriers are then further analyzed to determine likelihood of an occurrence.
+In the causal analysis of consequence, human and Organizational factors are considered for their possible contributing effects. We normally consider direct causes (‘unsafe acts’), workplace factors and Organizational factors (‘error provoking or latent conditions’).
+The effects of existing likelihood-reducing factors and barriers (See the Section Safety Model) that influence the chain of events are considered and documented, taking into account the following:
+certification requirements;
+maintenance procedures;
+existing normal and abnormal procedures;
+technical measures/equipment;
+training;
+other human and Organizational factors.
+Causal analysis is performed to the level of detail necessary to establish relevant likelihood values.
+
+Likelihood may be expressed using terminology such as:
+very low
+low
+medium
+high
+very high
+Likelihood will be determined by EuroPilot Center as follows:
+
+Risk Likelihood
+Meaning
+Value
+FREQUENT
+Likely to occur many times. Has already occurred within EuroPilot Center (Freq. > 3 times per year ).
+Has occurred frequently in the history of the aviation industry.
+5
+OCCASIONAL
+Likely to occur sometimes. Has already occurred within EuroPilot Center (Freq. < 3 times per year).
+Has occurred infrequently in the history of the aviation industry.
+4
+REMOTE
+Unlikely to occur, but possible. Has already occurred within EuroPilot Center at least once or more.
+Has seldom occurred in the history of the aviation industry.
+3
+IMPROBABLE
+Very unlikely to occur. Not known to have occurred within EuroPilot Center but has already occurred at least once in the history of the aviation industry.
+2
+EXTREMELY IMPROBABLE
+Almost inconceivable that the event will occur. It has never occurred in the history of the aviation industry.
+1
+
+Within EuroPilot Center, a causal and likelihood analysis will be performed by one or a combination of the following methods:
+fault tree analysis;
+FMECA (Failure Mode, Effects and Critical Analysis);
+influence diagrams;
+bow-tie diagrams;
+brainstorming.
+As the risk assessment progresses, an iterative process may help to identify new factors and barriers. These can then be included in the analysis.
+
+Analysis of Severity
+The severity of all hazard consequences is analyzed. The analysis considers both short- term and long-term consequences, such as effects on the natural and work environment.
+Consequences are grouped such as loss or damage of life/health, environment, material values/ assets, functions and reputation.
+The determination of severity is normally of a descriptive (qualitative/ordinal terms) nature, except when relevant calculations (quantitative) can or should be applied. A qualitative analysis describes the chains of events that could follow from the hazard and its possible consequences. Quantitative analysis is used to calculate the extent of damage that could be caused.
+Severity can be expressed using terminology like:
+very small;
+small;
+medium;
+large; and
+very large.
+Severity will be determined by EuroPilot Center as follows:
+
+Severity
+Meaning
+Value
+
+Personnel
+Environment
+Material & Values Assets
+Reputation
+
+CATASTROPHIC
+Multiple fatalities
+Massive effects (pollution, destruction)
+Catastrophic financial loss. Damage > 1M EUR
+International Impact
+E
+HAZARDOUS
+Fatality
+Effects difficult to repair
+Severe financial loss with long term effects.
+Damage < 1M EUR
+National Impact
+D
+MAJOR
+Serious Injuries
+Noteworthy local effects
+Substantial Financial Loss. Damage < 250K EUR
+Considerable Impact
+C
+MINOR
+Light Injuries
+Little impact
+Financial loss with little impact.
+Damage < 50K EUR
+Limited Impact
+B
+NEGLIGIBLE
+Superficial or no injuries
+Negligable or no effects
+Financial loss with negigible impact. Damage < 10K EUR
+Light or no Impact
+A
+
+In the analysis of severity of each consequence, human and Organizational factors are primarily considered for their possible contributing effects.
+The effects of existing recovery controls and barriers that influence the consequence itself or the consequence chain should be considered, as applicable:
+certification requirements (e.g. fire protection);
+existing abnormal and emergency procedures;
+secondary safety measures (e.g. crashworthiness, personal protective equipment);
+technical measures/equipment;
+training;
+human and Organizational factors;
+emergency preparedness.
+As the risk assessment progresses, it is possible that an iterative process may help to identify new factors and barriers. These are then added to the procedure and included in the analysis.
+Risk levels may vary over time depending on the nature of the operation(s) (machines and equipment, procedures and documentation, flight environment, personnel qualification, duration of the tasks, etc.). Comprehensive and up to date data such as risk assessments and risk descriptions help in the task of performing good and effective risk assessments.
+Risk must be re-assessed, in particular when a change is introduced.
+5.2.3.10 Risk Description
+The risk description forms the basis for risk evaluation and mitigation. Based on the results of the likelihood and severity analysis, the risk is described as a combination of the likelihood of occurrence and the associated severity.
+Depending on the analysis method and the risk acceptance criteria, the description is either qualitative and/or quantitative. The level of detail depends on the level of detail in the likelihood and severity analysis.
+The method used for risk description is a risk matrix combining risk likelihood and risk severity. If a hazard has more than one consequence, the risk may be expressed as a combination of the likelihood and severity for each of the consequences.
+Uncertainties in the risk description are to be identified and documented. If the analysis is based on critical assumptions or other conditions that could affect the assessment, these are to be identified and documented (if necessary in the form of a sensitivity analysis).
+Hazards can lead to Undesirable Events (UE’s), which can deteriorate into incidents and accidents. Hazards can contribute to several UE’s and are generally related to several Hazards (many-to-many mapping), which all have an associated risk level. The level of risk associated to an UE is, however, not the average of the risk levels associated to the hazards that contribute to the risk.
+This is why UE’s are also subject to a separate risk rating. Risk rated UE’s are then used as an input to Safety Cases.
+
+Risk Evaluation
+The results of the risk analysis are compared to the criteria for acceptable risk.
+This comparison is documented using a format that can be used by decision makers.
+The method used for this is the Risk Tolerability Matrix combining the analysis results and the risk acceptance criteria.
+
+Risk
+Risk Severity
+Likelihood
+NEGLIGIBLE-A
+MINOR-B
+MAJOR-C
+HAZARDOUS-D
+CATASTROPHIC-E
+FREQUENT-5
+5A
+5B
+5C
+5D
+5E
+OCCASIONAL-4
+4A
+4B
+4C
+4D
+4E
+REMOTE-3
+3A
+3B
+3C
+3D
+3E
+IMPROBABLE-2
+2A
+2B
+2C
+2D
+2E
+EXTREMELY IMPROBABLE-1
+1A
+1B
+1C
+1D
+1E
+
+The red-colored values indicate unacceptable risk levels, the yellow-coded values are tolerable risk levels and the green-coded values establish acceptable risk levels.
+Each risk level calls for a particular action and the levels of management who have the authority to make decisions regarding the tolerability of safety risks need to be specified.
+Unacceptable Risk Level - the red zone in the matrix: risk is too high to continue operating.
+Action required: Prohibit/suspend the operation. Operation may be resumed only when risk level is returned to tolerable or acceptable.
+Management levels who have the authority to make decisions regarding risk tolerability:
+For the risk evaluation validation: The assumptions made for the determination of the risk level and its tolerability are to be validated by the Safety Manager.
+For the authorization of operations: not applicable: operations cannot be authorized.
+Tolerable Risk Level - the yellow zone in the matrix: the risk level can be tolerated for the operation, providing that appropriate mitigation measures are in place.
+Action required: Introduce appropriate mitigation measures.
+Management levels who have the authority to make decisions regarding risk tolerability:
+For the risk evaluation validation: The assumptions made for the determination of the risk level and its tolerability are to be validated by the Safety Manager.
+For the authorization of operations: Management who have the authority to authorize operations at this level of risk: the Accountable Manager.
+
+Acceptable Risk Level - the green zone in the matrix: risk is tolerable and can be accepted for the operation.
+Action required: Monitor. Risk is considered sufficiently controlled and no additional risk mitigation measures are required. However, in line with the ALARP concept, actions may still be taken to further reduce the risk level if feasible and reasonable. Additionally, any assumptions used to make an assessment must be monitored to ensure they remain valid.
+Management levels who have the authority to make decisions regarding risk tolerability:
+For the risk evaluation validation: The assumptions made for the determination of the risk level and its tolerability are to be validated by the Safety Manager.
+For the authorization of operations: not applicable; no special authorization is required; the authorization of activities featuring ‘acceptable risks’ fall within the regular operational control for operations.
+Risk Control
+Identification of Risk Mitigation Measures
+The risk evaluation is the basis for deciding on risk control (mitigating) measures and in assessing the effectiveness of these measures.
+Risk control measures identify the consequences associated with both an unacceptable risk and tolerable risk and determine where further risk reduction measures are feasible and reasonable.
+Identification of possible mitigation is based on the risk description and evaluation, considering in particular any uncertainties identified and critical assumptions made.
+Controls that may eliminate the consequence of a hazard, likelihood-reducing measures and severity-reducing measures are identified. The measures should address the human factors (e.g. training and competence), equipment or Organizational factors (e.g. procedures).
+Within EuroPilot Center, all personnel and students contributes to the definition of risk control measures in particular where they concern personal equipment, by their acceptance and use.
+Risk Mitigation Priorities
+Risk control measures are implemented based on the following priorities:
+eliminate the consequences of the hazard;
+reduce the likelihood of occurrence;
+reduce the severity.
+Risk Control Types
+Examples of risk control include:
+passive technical controls (e.g. system redundancy, firewall);
+active technical controls (e.g. automatic fire extinguishing system).
+
+Risk Control Effect Assessment
+The risk mitigating effect of the controls is assessed with respect to:
+Functionality: does the measure influence the ability to perform the activity?
+Robustness: will the measure be effective under varying conditions and over time?
+Possible other effects such as introduction of new risks.
+When identifying risk control measures, any new risks that may arise from the implementation of such measures (‘substitution risks’) should be identified.
+Risk is re-assessed considering the effects of the proposed risk control effects, as illustrated in the table below:
+
+Risk Assessed
+Initial Risk Level
+Risk Control
+Resulting Risk Level
+Risk 1
+
+
+
+Risk 2
+
+
+
+Risk 3
+
+
+
+
+The measures are not necessarily sufficient to bring the risk level back to an acceptable or tolerable level in a first round. If the risk acceptance criteria require further risk reduction, the comparison (iterative process) describes the optimization process. So new risk controls are added, or existing risk controls are modified, until the risk is as low as reasonably practicable (ALARP).
+Note that the ALARP concept combines the technical feasibility of further reducing the safety risk and the cost; demonstrating that the safety risk is ALARP means that any further risk reduction is either impracticable or grossly outweighed by the cost.
+Cost Benefit Analysis
+The contemplated mitigation measures should be subjected to a Cost Benefit Analysis, which helps determine the most appropriate measures. The mitigation considered appropriate should achieve the safety benefits desired and should be economically acceptable.
+A Cost Benefit Matrix is provided here as an illustration:
+
+
+
+Benefits
+
+
+HIGH
+AVERAGE
+LOW
+
+
+COSTS
+LOW
+1
+2
+3
+AVERAGE
+2
+3
+4
+HIGH
+3
+4
+5
+
+Acceptance criteria with regard to the costs of implementing mitigation measures and the expected benefits, are decided by the Accountable Manager.
+
+Conclusion and Documentation
+Any risk assessment should be documented and contain unambiguous, precise and robust conclusions to enable decision makers to arrive at appropriate control reduction decisions.
+Documentation includes references to other documents (when applicable) and points out any need for further work.
+Scope
+The risk assessment documentation includes or references, as required, descriptions of the following:
+the purpose of the risk assessment;
+the activity/issue analyzed;
+involvement of personnel and other operators with whom we interact;
+context/framework for the activity/issue;
+the assessment of who is affected by the activity/issue and how;
+data used;
+the analysis method;
+the hazard(s);
+the contributing factors and consequences
+uncertainties and assumptions made for the assessment;
+the likelihood and severity;
+the risk mitigation measures;
+the risk evaluation;
+the conclusions.
+Database of Hazards, Risk Assessment and Risk Control
+The Safety Manager shall maintain a database of hazards, and of the corresponding risk assessments and mitigations. This risk database records hazards per activity and indicates how these have been addressed in the past and are currently being addressed.
+Any future risk assessment may then draw upon the information already available.
+The information is both communicated and made available within EuroPilot Center with special attention to the managers in charge, depending on the nature of the risks.
+The database of “Hazards” and “Hazards and Undesirable Events” are updated at each step of the risk management processes. These databases also record the results of the processes and serve as a basis for risk monitoring, review and improvement.
+We refer to the EuroPilot Center Online Safety Management System for this purpose (http://sms.europilotcenter.be)
+
+Changes that could Invalidate the Conclusion of a Risk Assessment
+
+Changes that could invalidate the conclusion of a risk assessment could be:
+significant changes in the preconditions and context;
+new knowledge of risks involved (experience from accidents and occurrences, reporting of safety concerns, research, better risk analysis methods, internal inspections, audits and reviews, hazard reporting);
+significant changes in the underlying data used for the assessment;
+significant organizational changes that could affect the assessment; and
+several smaller changes that together might constitute a significant change.
+Depending on the type of activity affected and the nature of the changes, the Safety Manager may decide to reassess the risk.
+
+Implementation of Risk Mitigation
+
+Implementation of the risk control (mitigation) measures may, depending on the nature of these measures, give rise to an implementation plan identifying who is in charge, the resources needed, the deadline, and the stages of implementation. The implementation plan is periodically reviewed until completion or revision.
+
+Monitoring, Review and Improvement
+
+The risk assessment process is monitored for the purpose of:
+analyzing and learning from events, changes and trends;
+detecting changes in the internal and external context including changes to the risk itself;
+ensuring that the risk mitigation measures remain effective; and
+identifying emerging risks.
+Monitoring and review can be performed through periodic reviews, inspections and audits, risk assessments and the risk management process itself, with the aim to strive for a continuous reduction in the risk level.
+
+Occurrence Reporting and Internal Safety Investigations
+Mandatory Occurrence Reporting
+The mandatory reporting of occurrences to the Belgian Civil Aviation Authority applies to natural persons under Article 4 paragraph 6 of the (EU) Regulation No 376/2014.
+The Safety Manager is the designated person who is responsible for notifying occurrences to the Belgian Civil Aviation Authority.
+The collected information on the occurrences must be reported as soon as possible, and in any case within a period not exceeding 72 hours after becoming aware of the occurrence.
+The preliminary results and any action taken, based on the analysis performed by the Safety Manager, on occurrences collected to identify the safety hazards associated with identified occurrences or groups of occurrences, shall be reported within 30 days from the date of notification of the occurrence.
+The final results of the analysis, where required, shall be reported as soon as they are available and, in principle, no later than three (3) months from the date of notification of the occurrence.
+Note: The European Commission (EC) has established, with the aid of the Implementing Regulation (EU) No 2015/1018, a list classifying the occurrences which should be referred to in the mandatory occurrence reporting under Article 4 paragraph 1 of the Regulation (EU) No 376/2014.
+We refer to the BCAA Circular MAS-01 and (EU) 2015/1018
+Voluntary Occurrence Reporting
+A system of voluntary occurrence reporting is used to collect information on occurrences:
+Reported by persons who are not mentioned in Article 4 paragraph 6 of the Regulation (EU) No 376/2014;
+Which are not included in the list found in the Implementing Regulation (EU) No 2015/1018 classifying occurrences into categories, which must be referred to in case of mandatory occurrence reporting under Article 4 paragraph 1 of the (EU) Regulation No 376/2014.
+Only the occurrences mentioned in paragraph presenting a real or potential risk for safety, should be reported to the Belgian Civil Aviation Authority. This requires that the aviation organization carries out an analysis to establish the risk of these occurrences for safety.
+Exchange of Information
+In order to allow the exchange of information, mandatory and voluntarily occurrence reports are sent to the Belgian Civil Aviation Authority using a format compatible with the ECCAIRS software and ADREP system.
+EuroPilot Center has opted to use the European reporting portal which intended for small and medium-sized aviation organizations that produce few monthly reports.
+The mandatory and voluntary reporting of occurrences to the Belgian Civil Aviation Authority is done via the European reporting portal at the following address:
+http://www.aviationreporting.eu
+
+Occurrence Reporting Scheme
+The overall purpose of the scheme is to make best use of reported information to improve the level of safety performance and not to attribute blame.
+The scope of this scheme also includes occurrences not reportable to the authorities. The objectives of the occurrence reporting scheme are to:
+Enable an assessment to be made of the safety implications of each relevant incident and accident, including previous occurrences of a similar nature, so that any necessary action can be initiated; and
+Ensure that knowledge of relevant incidents and accidents is disseminated, so that other persons and operators may learn from them.
+The scheme is an essential part of the overall monitoring function and it is complementary to the normal day-to-day procedures and ‘control’ systems and is not intended to duplicate or supersede any of them. The scheme is a tool to identify and analyse those instances where procedures appear to have failed or where there was a failure to apply the procedures.
+All occurrence reports judged reportable by the person submitting the report should be retained as the significance of such reports may only become obvious at a later date.
+The EuroPilot Center’s approach is described as follows:
+Every occurrence identified through occurrence reports, voluntary reports or other sources provides the opportunity to draw safety lessons. Learning from experience is only possible if all events are reported and analyzed and their causes and factors (technical, operational, or environmental) are determined and analyzed.
+On a daily basis, occurrences (down to simple malfunctions) may affect any process. Some of these occurrences are defined as accident precursors. Accident precursors are occurrences which, without appropriate mitigation, can result in Undesirable Events or accidents.
+The Safety Manager is to record, analyse and monitor these occurrences via the Online Safety Management System.
+Occurrences are reported via the E-Occurrence Reporting System (E-OR) and recorded in the Online Safety Management System database. The database is analyzed to identify trends and define recommendations to correct possible deviations and avoid accidents (proactive approach).
+An occurrence is classified as:
+Technical: when its cause is mainly technical: for instance an in-flight engine failure or any other equipment failure.
+Operational: when it is mainly due to one or several “unsafe acts” (unintentional error or voluntary deviation from a procedure) or by one or more “unsafe conditions” (deficiencies in the EuroPilot Center’s organization) or by a combination of these.
+It should be recognized, however, that occurrences can feature more than one of these components.
+
+E-Occurence Report (E-OR)
+An occurrence report shall be filed immediately by any person within EuroPilot Center via the Online E-OR System.
+The system can be accessed via the following link: http://safety.europilotcenter.be
+Through an online form, all required data will be sent to the Safety Manager in a discrete way.
+Note: Reports can be filed anonymously via http://anoymous.europilotcenter.be
+Reporting occurrences is essential for improving safety and is strongly encouraged. In return, EuroPilot Center guarantees that the reporter(s) will not be punished for reporting safety concerns except in the case of illegal act, gross negligence, or a deliberate disregard for regulations and applicable procedures.
+See the Section Safety Policy and Objectives of this SMM.
+Each occurrence report is analyzed, processed and saved by the Safety Manager in the Online Safety Management System.
+The analysis should focus on assessing the potential impact on flight safety. In addition, it should also include the safety of personnel and of third parties. The analysis can also be expanded to assessing the impact on material, the environment, and EuroPilot Center’s reputation.
+
+5.6.2 Internal Safety Investigation
+The scope of internal safety investigations should extend beyond the scope of occurrences required to be reported to the competent authority.
+Investigations consist of collecting and analyzing events, determining causal and contributing factors, drawing up conclusions and making safety recommendations as applicable.
+Investigations are carried out in particular in the case of:
+accidents and incidents,
+discovery of new hazards and risks,
+recurrent safety risks.
+Moreover, the Safety Manager may at any time decide to launch an investigation procedure on an opportune basis. The investigation procedure is detailed in the table shown on the next page.
+
+
+Stage
+Remarks
+Decision to launch an investigation
+Put together an investigation team.
+Activity Planning
+Define and breakdown the activities.
+Define the investigation needs.
+Data collection
+Collect evidence about the event. The following relevant sources can be used:
+Physical examination;
+Documentation and files;
+Interviews with the persons involved;
+Observation of actions;
+Simulations;
+Expert consultancy;
+Safety database.
+Scenario Identification
+Identify/reconstruct the scenario
+Scenario Analysis
+Analyse the facts, determine the causes and identify the associated hazards.
+Integrate all investigation elements.
+Risk Assessment
+Determine the risk level and assess risk acceptability.
+Risk Control/Mitigation Analysis
+Determine Corrective/Preventive Action.
+Safety Communication
+Communicate the investigation results to everyone in the organization by means of Safety Notes and the yearly Safety Bulletin.
+Completion of the investigation
+Close and archive the file.
+
+Safety Performance Monitoring and Measurement
+Safety performance monitoring and measurement is the process by which the EuroPilot Center’s safety performance is verified in comparison to the overall safety policy and objectives.
+Safety performance is defined as the level of safety achievement against the Safety Performance Objectives (SPO’s), using specific Safety Performance Indicators (SPI’s). Safety performance reflects the ability of EuroPilot Center to effectively manage risks.
+Stepwise Approach to Safety Performance Measurement
+At different levels of maturity of the SMS, the amount of quality safety data available and the issues and actions that are most important for improving safety performance and actions will differ.
+EuroPilot Center has, therefore, adopted a step-wise approach to safety performance measurement, based on three levels of SMS maturity
+LEVEL 1 of SMS implementation - Present and Suitable
+At the first level, the SMS will have achieved compliance with the applicable requirements. SPI’s should focus on the activities required to maintain basic compliance with the SMS regulatory framework. These can be of a quantitative (numerical) or qualitative (non-numerical) nature:
+Quantitative indicators (examples):
+the number of safety reviews performed;
+the number of staff that received training in SMS;
+the number of internal audits performed versus the number of audits planned;
+Qualitative indicators (examples):
+feedback received from staff on the safety policy;
+feedback received from staff on new procedures implemented in the area of internal occurrence reporting or hazard identification.
+Once the SMS is in place and compliance with requirements has been achieved, new level 2 indicators will need to be introduced to achieve improvement of safety performance.
+LEVEL 2 of SMS implementation - Operating and Effective
+At this level, EuroPilot Center will start to define more specific SPI’s on the basis of safety data collected through the hazard identification and internal occurrence reporting processes.
+More specific, objective and reliable leading performance indicators and precursor event indicators are introduced to identify any weaknesses and areas where improvement is required. These can include:
+the number of risk assessments performed following Organizational changes;
+the percentage of standard operating procedures that have been subject to hazard identification;
+average lead time for completing corrective actions following internal audit;
+number of additional procedural controls implemented;
+At this level of SMS maturity, EuroPilot Center will be getting a better picture of the risks affecting the operations and the solidity of the risk controls in place.
+
+LEVEL 3 of SMS Implementation - Best Practice
+Level 3 is the level where EuroPilot Center will have achieved continuous learning and improvement for all parts of the SMS.
+At this maturity level, effective hazard identification and risk assessment processes are established that will allow it to derive a more sophisticated mix of safety performance indicators.
+SPI’s are focused around local issues identified from the safety data already collected, and from key safety areas identified by the regulator or identified at an aggregate level from within the industry sector.
+SPI’s allow the risk levels related to occurrences to be monitored, the solidity of any barriers and relationship to any accidents.
+Risk mitigation actions focus on those issues that present the greatest risks or offer the greatest potential for improvement.
+Quantitative indicators
+number of high risk occurrences (coded amber and red);
+mean value of risk ratings (over a reference period, e.g. 1 year);
+sum of risk ratings (over a reference period, e.g. 1 year);
+solidity of risk controls (defences) (rated from 0 to 5; over a reference period, e.g. 1 year).
+Following the implementation of risk mitigation actions, risks are monitored to ensure that risk controls are effective and are indicative of how these controls could be improved.
+Fixing, Safety performance Objectives
+The process for determining quantitative safety performance objectives for a given period consists of:
+Measuring the baseline against which safety improvements are to be assessed;
+Fixing reasonable, yet ambitious targets; and
+Monitoring target achievement over time and reviewing targets as necessary.
+The Safety Manager shall ensure that both the SPO’s and the SPI’s are pertinent and documented.
+Process
+The Safety Manager shall ensure that the process for safety performance measurement is established and implemented.
+SPO’s are monitored over time by the Safety Manager and reviewed by the Safety Review Board or by the Accountable Manager with the Safety Manager.
+SPI’s are also reviewed following the implementation of a change.
+A report is provided annually to the Safety Review Board and the Accountable Manager. The process of safety performance monitoring and measurement shall include the following:
+
+SAFETY REPORTING
+The Safety Manager collects and centralizes EuroPilot Center’s safety reports and monitors the type and number of reported events over time. Additionally, he/she addresses the status of compliance with the applicable requirements.
+SAFETY STUDIES
+Safety studies consist of a detailed analysis which is used to target broad safety concerns. The Safety Manager shall, whenever appropriate, initiate safety studies addressing subjects of safety relevant to EuroPilot Center.
+Safety studies are aimed at gathering additional information on selected topics that has been identified by safety reports or other means. Safety studies are by their nature larger in scope than the analysis of specific hazards. Safety surveys, for example, belong in this category.
+Safety studies can address a variety of subjects such as compliance with Standard Operating Procedures, mission preparation and risk assessment of specific operations such as dealing with deteriorating weather, resisting customer pressure, etc.
+Safety studies can make use of information published in technical publications from manufacturers, OEM’s, the regulatory authorities, Helicopter Associations and national, European or international Helicopter Safety Initiatives such as EHEST and IHST. This can also include a review of journal articles, accident and incident reports, conference proceedings, press releases and other safety information often available on the internet.
+Safety Studies are saved as PDF files and stored in the Safety Study Folder.
+SAFETY REVIEWS
+Safety reviews, including trend reviews, are conducted during the introduction and deployment of new technologies, change or implementation of procedures, or in situations of structural change to operations.
+A safety review should be performed at least once each year by the Safety Review Board and/or by the Safety Manager and Accountable Manager.
+The aim of the safety review is to assess:
+safety performance against the safety indicators and objectives,
+the effectiveness of Safety Management System, including through an assessment of the effect of the corrective and/or preventive actions,
+procedures and policies,
+Health and Safety.
+Possible negative trends and deficiencies may be identified, as well as actions taken to correct these deficiencies by targeting their causes. Corrective actions are to be recorded. A Model is provided under OMM Annex 9 - Corrective Action Follow Up.
+SAFETY AUDITS
+Safety audits focus on the integrity of the management system and periodically assess the status of safety risk controls.
+An audit schedule can be found in Annex 12 - Safety Audit Schedule.
+
+
+EuroPilot Center addresses all audit findings through appropriate corrective actions in an effort to restore and/or improve the effectiveness of the SMS and safety performance. A Model of is provided under OMM Annex 9 - Corrective Action Follow Up.
+Internal Audits
+The Safety Manager shall have the responsibility for the internal Safety Audits but may be assisted by another internal or external auditor.
+
+SAFETY SURVEYS
+Safety surveys are dedicated qualitative or quantitative (statistical) studies targeting specific safety subjects.
+Safety surveys allow particular elements or procedures of a given operation to be evaluated, such as problem areas in daily operations, perceptions, opinions, satisfaction levels and areas of dissent or confusion. Safety surveys can also be used to gather comments and suggestions.
+
+Emergency Response Planning
+
+General
+The EuroPilot Center Emergency Response Plan complies with ORO.GEN.200 and AMC1 ORO.GEN,200(a)(1);(2);(3)(5) point (f) and is designed to help the Organization respond in the case of accidents, serious incidents or any other abnormal events triggering a crisis.
+The number of phases that need to be implemented need to be established in order to prevent the confusion which may result when emergency situations arise.
+The management must:
+identify the responsibilities;
+respond to the needs of the applicable Flight Instructor and/or student;
+provide assistance to the emergency services, and
+inform the authority in charge of any investigation.
+Aim of the Emergency Response Plan (ERP)
+The EuroPilot Center ERP is designed to cover safety situations which cannot be specifically or precisely defined. An Organizational framework of the actions and policies required to be implemented is presented.
+However, it is unlikely that an actual emergency situation will adapt to a precise framework. Adaptability and flexibility should therefore be demonstrated when handling such events.
+Events that may activate the ERP
+The following events may result in a crisis situation and activate the Emergency Response Plan:
+Aviation accident/serious incident;
+Disaster in the EuroPilot Center premises: fire, explosion, pollution, flood, etc.;
+Loss of the working resource: offices, hangar, aircraft;
+Impact of a disaster that happened within the vicinity of the establishment;
+Climatic event: snow, storm, flood, lightning, etc.;
+Natural disaster: earthquake, etc.;
+Food poisoning, epidemic;
+Death, suicide at the workplace;
+Multiple victims connected to a disaster, illness or contagion;
+Accident during the public transportation of the personnel;
+Social movements: strike, blocking of the accesses;
+Internal or external threat: attack, bomb alert, sabotage, terrorism;
+Loss of energy: electricity, gas;
+Loss of communication means: internet, landlines or mobile telephones;
+Major media event;
+Accident during missions: business trip abroad.
+Organization
+It is vitally important that EuroPilot Center is thoroughly prepared in how to react effectively in the case of an emergency. The progress of events will depend on how the Organization initiates an alert (or relays an alert message).
+
+The EuroPilot Center Head of Training is the single point of contact that any member of staff may alert in the case of an emergency. His cellphone number is distributed so this person can be reached out of normal working hours.
+This single point of contact will be responsible for disseminating the alert to the Organization’s managers and the relevant official authorities.
+In order to prevent unnecessary delay, the nominated contact must have immediate access to the following:
+Emergency checklists to cover the nature of the event.
+An up to date list of managers to be contacted and their deputies in the case of absence (a schedule of 'on-call' executives to be contacted should be created).
+A list of emergency services and official Organizations to be contacted in the event of an emergency.
+All employees should know their role in case a serious event occurs, including how to raise the alert, what immediate actions to take to try and resolve the crisis or to prevent the situation deteriorating. EuroPilot Center will carry out an emergency training exercise once a year to practice and refine the procedures and to train personnel.
+Wherever possible the normal activity of the Organization must be maintained. To this end, employees whose activity is not affected by the situation should continue to carry out their normal duties. Personnel should, however, contact their family and friends to reassure them in an attempt to prevent congest of external communications.
+If the presence of an employee is not required at the accident/incident site, or at the location of the Crisis Management Team, they should be discouraged from going to these locations so as not to hinder the emergency services and/or any investigation team(s).
+It is important that personnel not involved in the management of the situation does not contact the Crisis Management Team or speak to the media.
+Reaction to an Emergency Call
+Whenever EuroPilot Center is made aware of an accident or incident, the person or department that receives the alert must endeavor to establish the following information points:
+Date and time of the call.
+Name and contact details of the informant.
+The authenticity of the call (where possible).
+In the event that the call is made anonymously, try and obtain information concerning the other party and their position (where possible, try to record the conversation and listen to background noise).
+Initiate the alert process both in-house and externally.
+Emergency Numbers
+The direct contact details for the members of the Crisis Management Team and the Emergency Services must be readily accessible and up to date.
+We refer to OMM Annex 10 - Emergency Contact List
+
+The Crisis Management Center
+Personnel in charge
+The Crisis Management Team consists of:
+the Accountable Manager
+the Head of Training
+the Chief Operations Officer
+the respective Chief Flight Instructor or Chief Theoretical Knowledge Instructor (depending on the situation)
+the Safety Manager
+Modes of Activating the Crisis Management Team
+Accidents occurring within EuroPilot Center Premises
+Any person who witnesses an accident on the EuroPilot Center premises should comply with the following fundamental safety rules:
+Alert the Head of Training
+Alert the emergency services (where appropriate)
+Protect any victims/casualties
+If qualified, apply basic first aid while awaiting the arrival of the emergency services.
+Accidents occurring outside of the EuroPilot Center Premises
+If the call is received by the Head of Training:
+The On-call Manager informs the Accountable Manager who decides whether or not to activate the Crisis Management Center.
+The Chief Operations Officer contacts the members of the Crisis Management Team.
+If the call is received by a Flight Instructor or Theoretical Knowledge Instructor, or a Student, he/she contacts the Head of Training or, if he is unavailable, the Accountable Manager.
+Activation Levels
+Level 1: Event with potentially hazardous impact but without immediate consequences
+The members of the Crisis Management Team are placed on alert in order to reduce the response time should the situation deteriorate. At this level of preparedness, the Crisis Management Team members should be contactable and available at all times.
+Level 2: Event that may have one or several significant impacts on the safety of people or property and on the normal state of operation of the company.
+The members of the Crisis Management Team should be called to the Crisis Management Center in order to have a preparatory decision and thereby be in a position to react immediately.
+
+Activation
+Members of the Crisis Management Team should report to the crisis cell equipped with the following:
+Cellphone;
+Crisis management file containing the Emergency Checklists to be followed and the actions to be taken;
+Laptop computer, if required;
+An adequate supply of writing material such as notebooks, pencils, pens, etc.;
+Crisis Log
+Once the Crisis Management Center has been activated, all events, decisions and subsequent actions must be recorded in a Crisis Log. This will ensure that an accurate record of actions taken in response to the emergency situation is retained.
+Internal and External Communication
+External Communication
+In the situation where a major event has occurred, it is essential that the Organization implements a detailed communication plan.
+Once an emergency call has been received and the Crisis Management Center has been manned, an initial press release should be disseminated in an attempt to prevent the saturation of lines of communication.
+Press releases should not contain the name(s) of the persons involved in the accident/incident unless they have been definitively established.
+Additionally, the names of senior or departmental managers should not be released unless authorized.
+Internal Communication
+In responding to an emergency situation, all or part of the Organizations personnel may be affected by the event.
+The management must make a concerted effort, by whatever means appropriate, to inform all personnel and students regarding the event.
+The management must in a timely manner inform the personnel of the steps to be taken in accordance with the Crisis Management Manual.
+EuroPilot Center has a strict policy to utilize a ban on disclosing any information outside of the Organization and with the media.
+Additionally, it is prohibited to all personnel and students to be at the accident/location or at the Crisis Management Center unless required to do so within the scope of their duties.
+Roles of the Crisis Management Team
+The following paragraphs describe the roles and responsibilities required to be carried out by the Crisis Management Team.
+
+The Accountable Manager
+Manage internal operations by relying on the members of the Crisis Management Team.
+Draws up in conjunction with the Chief Operations Officer press releases to the media.
+Appoints or be a spokesperson to communicate with the media.
+Ensure that the activities of the company are maintained if not affected by the event.
+Be at the disposal of the relevant official Organizations.
+The Head of Training
+Gathers any information about the the flight and the nature of the accident.
+Compiles a list of all documents about the flight and have them available for the authorities including:
+Copies of weather reports (PIB’s etc.);
+Copies of pre-flight planning documents;
+Copies of Mass and Balance planning;
+Copies of fuel planning and fuel uplift receipts.
+Compiles a list of the administrative documents pertaining to the crew member(s) involved including as a minimum:
+Individual Training File(s)
+Flight Time and Duty Records
+Logbook (if available)
+Copy of medical certificates
+Copy of flight crew licenses
+In co-operation with the Maintenance Organization, gathers the technical documents relating to the aircraft involved in the accident.
+Contacts the customer(s) affected by the accident in accordance with any contractual agreements in place.
+Contacts any sub-contracted companies affected by the accident, where appropriate.
+Carries out a short briefing to advise the personnel and students about the situation and the actions to be taken.
+Assists in establishing a list of casualties involved in the accident.
+Compiles a list of all HR documents relating to the personnel and/or students involved in the accident and have them available for the authorities.
+Ensures that any personnel assigned to carry out any duty at the accident location is provided with the necessary logistics and equipment.
+If necessary, contacts the medical professionals for dealing with emotional trauma.
+Contacts employees who have volunteered to assist in dealing with the families of victims.
+Contacts any consultant/lawyer deemed necessary, dependent on the event.
+Informs the Insurance Companies, depending on the event.
+
+The Safety Manager
+Draws up conclusions from the EuroPilot Center SMS and safety database(s) regarding previous occurrences and risk assessments, mitigation and control (various risk controls in place) concerning the safety risk(s) revealed by the event at hand.
+Provides these conclusions on previous occurrences and risk assessments to the Accountable Manager to enable them to answer any questions correctly to support the protection of company’s reputation.
+Assists the Accountable Manager in any other way.
+Remains at the disposal of the relevant official organizations.
+Updates SMS information (after the crisis).
+
+Management of Change
+
+EuroPilot Center will manage safety risks related to a change. Management of change is a documented process to identify external and internal change that may have an adverse effect on safety. It makes use of existing hazard identification, risk assessment and mitigation processes.
+Changes may have various positive or negative safety impacts. Any change that may have an adverse effect on safety shall be identified and managed through EuroPilot Center’s existing processes for hazard identification, risk assessment and mitigation.
+The EuroPilot Center Online Safety Management System (http://sms.europilotcenter.be), contains a database of “Hazards” and “Undesirable Events” that needs to be updated for each internal or external change.
+Different changes can be grouped in a common Safety Impact Assessment, especially if they are introduced together or if they are inter-related.
+EuroPilot Center’s change impact assessment procedure is described as follows:
+Management of Change Procedure
+The accountable Manager will initiate a “change request” to the Safety Manager AND Compliance Monitoring Manager via e-mail. These could be caused by: e.g. a consequence of a “Regulatory Change Meeting”, changes to the Organization not requiring prior BCAA Approval (e.g Changes in TKI’s FI’s etc), changes to the Organization requiring prior BCAA Approval (e.g change of name, principle place of business etc.).
+The Management of Change Procedure, to be executed and managed by the Safety Manager, consists of 4 phases:
+PHASE 1 – Receiving the Change Request PHASE 2 – Analyzing Changes
+PHASE 3 – Drafting MoC & Action Planning PHASE 4 – Closing
+
+Phase 1 – Receiving the Change Request
+Login to PipeDrive and Click on “Projects”.
+From the Dropdown list on the right, select the “SM - Regulatory Changes” -Project.
+Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+Select the “Management of Change” Template.
+Name the Project as per following convention: “Management of Change: MM/YYYY/NR” (e.g. Regulatory Changes: 02/2023/001”)
+Enter “Start Date” (Should be the date upon receiving the “Change Request” e-mail from the Accountable Manager).
+Enter “End Date” (Should be the anticipated date on when the change should be implemented).
+Select Label” In Progress”
+Perform the checklist items under the “PLAN” section of the Project.
+When receiving relevant PDF files or other documents, the SM must upload this document via the “FILES” section of the Project.
+The SM should make any notes necessary under the “NOTES” Section of the Project.
+When receiving relevant e-mails from official sources, they should be linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+Phase 2 – Analyzing Changes
+Go to the Project section in Pipedrive to obtain all the data collected during Phase 1.
+Move the Project to Phase 2.
+Start with the Analysis Process based on the PLAN Checklist for this Phase and use the foreseen Management of Change Worksheet (OMM Annex 28):
+Identify the nature and scope of the change(s).
+Perform the basic initial Impact Assessment study covering:
+EuroPilot Center’s operational procedures (Operations Manual)
+Work organization (staffing, composition of the teams, scheduling, additional training, etc.)
+Infrastructure (relocation, parking base, etc.)
+Maintenance of equipment or the aircraft.
+Perform a Safety Risk Analysis (See the Risk Management section
+Identify hazards related to implementing the proposed change
+Identify existing risk controls and define, as appropriate, additional mitigation measures.
+Identify key personnel who will assist in implementing the change
+
+Phase 3 – Drafting MoC & Action Planning
+Go to the Project section in Pipedrive.
+Move the Project to Phase 3.
+Execute the PLAN Checklist for this Phase.
+Start drafting the “MoC Worksheet”.
+Start drafting the Action Plan.
+Start assessing the financial cost of the proposed Action Plan
+Export the “MoC Worksheet” into a PDF file and upload this document via the “FILES” section of the Project.
+Create an Action Plan via the “PLAN” Section.
+Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+Allocate the “TASK” to the responsible person within the organization and add a due-date (proposal).
+Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+Once all of the above items have been completed and the Action Plan is prepared under the PLAN section, send the “Management of Change Action Plan” e-mail to the AM, HT, CMM.
+Phase 4 – Obtaining BCAA Approval
+After the “Management of Change Action Plan” has been reviewed by the AM, HT and CMM, feedback obtained shall be used to update the Action Plan via the “PLAN” Section.
+The AM sends an e-mail to the BCAA, clearly outlining the proposed changes, including a signed copy of the Management of Change procedure and Action Plann, in order to obtain prior approval to implement the changes.
+Once Approval has been obtained, continue with Phase 5. If unsuccessful, return to Phase 2.
+Phase 5 – Closing
+When receiving the formal Approval E-mail from the BCAA, it should be immediately linked to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+Based on the deadlines for each Action item, the SM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+The SM ensures all Task Items are closed and “archives” the Project.
+
+Continuous Improvement
+EuroPilot Center shall continuously seek to improve its SMS and safety performance.
+Improvement of Safety Performance
+The Safety Manager shall provide a report on safety performance (risk levels, incident and accident figures, etc.) annually to the Accountable Manager.
+The report should include a comparison with the levels of safety achieved in previous years. This report can be merged with the one mentioned in the previous paragraph.
+Continuous improvement of safety performance should be achieved through:
+proactive and reactive evaluations of facilities, equipment, documentation and procedures through safety audits and surveys;
+proactive evaluation of each individuals performance to verify the fulfillment of their safety responsibilities; and
+a reactive evaluation in order to verify the effectiveness of the system for control and mitigation of risk.
+Improvement of the SMS
+Continuous improvement of the SMS is achieved through:
+Assessment of how the SMS is functioning;
+Identification and analysis of possible issues/challenges associated with the running of the SMS;
+Implementing changes aimed at improving the SMS;
+Monitoring and reviewing the effects of any changes;
+Continuous improvement can also be achieved when the SMS is functioning well, performance of the SMS can always be improved.
+Measures that can improve the SMS include:
+Leaner procedures;
+Improved safety reviews, studies and audits;
+Improved reporting and analysis tools;
+Improved hazards identification and risk assessment processes and improved awareness of risks within EuroPilot Center;
+Improved relations with the subcontractors, suppliers and customers regarding safety;
+Improved communication processes, including feedback from the personnel and students.
+Continuous improvement of the SMS may target any component of the SMS, in other words any subject addressed in this SMM which has the objective of increasing the effectiveness of the system over time.
+The Safety Manager performs a review of the SMS (how effectively goals and objectives were met) and he/she provides a report on the SMS (how effectively the SMS works, the stage of implementation, results of audits and review of actions, any issues/challenges and proposals for improvement) annually to the Accountable Manager.
+
+SAFETY PROMOTION
+
+Safety Promotion is a process aimed at promoting a culture of safety by ensuring that all personnel in an Organization is aware that, at their level and in their day-to-day activity, they are key players in safety and that everyone, therefore, contributes to an effective SMS.
+Managers are important actors of the EuroPilot Center’s Safety Management System. In all the activities they manage, they demonstrate commitment to safety and take care of safety aspects.
+They lead by example and have an essential role to play for safety promotion.
+Training and effective communication on safety are two important processes supporting safety promotion.
+
+CONTRACTED ACTIVITIES
+
+EuroPilot Center may contract certain activities to external Organizations for the provision of services related to areas.
+The ultimate responsibility for contracted activities, i.e. for the product or service provided by external Organizations always remains with EuroPilot Center.
+A written agreement signed between the EuroPilot Center and the contracted Organization shall clearly define the contracted activities and the applicable requirements.
+Activities performed by sub-contractors may have an impact on safety, therefore, the contracted safety related activities need to be addressed through the EuroPilot Center’s Safety Management and Compliance Monitoring program.
+As part of the SMS, a risk analysis is to be carried out on any newly contracted activity as part of the Change Management process.
+If corrective and/or preventive actions need to be implemented, they are to be submitted in writing to the sub-contractors or suppliers. Effective application of these measures needs to be checked and monitored under the supervision of the Safety Manager.
+
+TRAINING AND COMMUNICATION ON SAFETY
+Safety training is an integral part of the EuroPilot Center Training Manuals.
+
+Training
+All personnel receives safety training as appropriate for their safety responsibilities. All the records of the safety training provided must be stored in the EuroPilot Center archives.
+All personnel receive training to maintain their competences. This includes notification of any changes to applicable regulations and rules, EuroPilot Center’s procedures, and safety-relevant technical matters. This will be communicated through Safety Notes and the yearly Safety Bulletin.
+There is a link between training and safety risk management as training and competence development is one of the means through which identified risks can be reduced. Other types of risk controls concern equipment or Organizational factors (e.g. procedures), which in turn can also be addressed in training.
+The safety training program may consist of self-study via a Computer Based Training Course, organized by the Safety Manager.
+
+Contents
+Training objectives
+Safety Policy
+Understand the main elements of the Safety Policy.
+Organization, roles and responisbilities
+Understand the Organization, roles and responsibilities concerning the SMS. Everyone is to know his or her own role in the SMS.
+Safety Objectives
+Understand the EuroPilot Center’s safety objectives.
+Emergency Response Planning (ERP)
+Understand the various roles and responsibilities in the EuroPilot Center’s ERP. Everyone is to know his or her own role in the ERP.
+Occurence and hazards reporting
+Know the means and procedures for reporting occurrences and hazards.
+Safety Risk Management (SRM) process including roles and responsibilities
+Understand the Safety Risk Management process. Everyone is to know his or her own role in the SRM.
+Continuous improvement of Safety Performance
+Understand the principles of continuous improvement of safety performance.
+Responsibility when contracting activities
+Understand EuroPilot Center’s responsibilities when contracting activities. Everyone is to know his or her own roles and responsibilities regarding this subject.
+
+Communication
+EuroPilot Center has established an effective communication system regarding safety related matters that:
+ensures that all personnel is aware of safety management activities as appropriate to their safety responsibilities;
+conveys safety critical information, especially related to assessed risks and analyzed hazards;
+explains why particular actions are taken; and
+explains why safety procedures are introduced or changed.
+Communication also reinforces the commitment of everyone to report hazards and occurrences and provides feedback to the reporters (an essential condition for sustained reporting).
+Regular meetings are organized with the personnel to communicate safety matters and discuss information, actions and procedures.
+Communication is kept simple and appropriate to maximize effect, involve all personnel, and reinforce personal and team commitment to safety.
+Communication is open. It encourages discussion, develops EuroPilot Center’s safety culture and makes the most of the lessons learned from running the SMS.
+Different communication means can be used:
+Safety meetings;
+Safety briefings;
+Safety Notes via e-mail;
+Safety campaigns, safety posters;
+The Yearly Safety Bulletin;
+Flight safety digests, digest of accidents and incidents (appropriately de-identified), from within and outside EuroPilot Center;
+Digest of safety studies, audit reports, survey reports, and safety reviews;
+Company forum(s) or professional networks (e.g. LinkedIn, Facebook, Twitter, etc.);
+Subscription to publications and journals.
+Safety Committee Airport Meetings (including Local Runway Safety Team - LRST)
+Note that communication is a two way process, meetings, e-mails and other interactive methods allow for the provision of feedback from the personnel and can generate discussion.
+
+IMPORTANT: The Safety Manager shall ensure that Safety Campaigns/Posters are up-to-date and published at all training locations. In order to achieve this, the CMM is required to verify this during the yearly Compliance Audits via the document below. A picture and a short description including the location of the Safety Campaign/Poster, shall be included.
+We refer to OMM Annex 30 - Visible Mandatory Documents
+
+Safety Committee Airport Meetings
+EuroPilot Center is invited at both training locations for Safety Committee Airport Meetings.
+When informed by the local Airport Authorities that a Safety Meeting will be held, the SM is the first in line to attend the meeting, followed by the CMM, HT and AM.
+If no in-person attendance is possible, the e-mail sent by the local Airport Authorities, containing the Safety Meeting Agenda and Minutes, will be used by the SM to execute the following process, consisting of 4 phases:
+PHASE 1 – Preparing for the Safety Committee Airport Meeting PHASE 2 – Attending the Meeting and Meeting Minutes
+PHASE 3 – Action Planning PHASE 4 – Closing
+Phase 1 – Preparing for the Safety Committee Airport Meeting
+The Safety Manager receives an invite for a Safety Committee Airport Meeting via e-mail.
+He/she logs into PipeDrive and Click on “Projects”.
+From the Dropdown list on the right, select the “SM - Safety Committee Airport Meeting”
+-Project.
+Click on “plus symbol” located inside the first Phase of the Project (or the Green “+ Project” button on the left).
+Select the “Safety Committee Airport Meeting” Template.
+Name the Project as per following convention: “Safety Committee Airport Meeting ICAO IDENT: MM/YYYY” (e.g. Safety Committee Airport Meeting EBAW: 02/2023”)
+Enter “Start Date” (Should be the scheduled day of the Safety Meeting).
+Enter “End Date” (Should be the scheduled day of the Safety Meeting + 90 days).
+Select Label” In Progress”
+Perform the checklist items under the “PLAN” section of the Project.
+Link the e-mail received from the Airport Authorities to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/ lead/project” -box.
+If relevant for the Meeting, the SM can upload documents via the “FILES” section of the Project.
+The SM should briefly analyse the received “Agenda” of the Meeting and use the “NOTES” Section of the Project to provide comments or questions to ask during the meeting.
+If the SM cannot attend the Meeting, he/she sends an invite to the CMM, HT and AM including the Meeting “Agenda” and his/her notes. I no person can attend the meeting, proceed to Phase 2.
+PHASE 2 – Attending the Meeting and Meeting Minutes
+The person attending the meeting should open the Project section in Pipedrive in order to obtain all the data collected during Phase 1 and move the Project to Phase 2.
+If no person was able to attend the meeting, the SM moves the Project to Phase 2.
+During the Meeting (if attended), notes should be updated via the “NOTES” section of the Project.
+After the meeting has been held, the Safety Committee Airport Meeting Minutes are received via e-mail, usually in a PDF format.
+The Safety Manager is in charge of Linking the e-mail received from the Airport Authorities containing the Meeting Minutes to the Project by opening the e-mail in PipeDrive, on the right, enter the Project Name in the textfield underneath the “Link to a deal/lead/project” -box.
+The Safety Manager shall upload the PDF file via the “FILES” section of the Project.
+
+PHASE 3 – Action Planning
+The SM will be in charge.
+Go to the Project section in Pipedrive.
+Move the Project to Phase 3.
+Analyse the content of the meeting minutes and evaluate if the organization is affected.
+Execute the PLAN Checklist for this Phase.
+Create an Action Plan via the “PLAN” Section.
+Select a “TASK” for each Action Item requiring a Task to be fulfilled, add sub-tasks if required.
+Allocate the “TASK” to the responsible person within the organization and add a due-date.
+Only select “ACTIVITY” when a certain Action requires a Calendar event such as a Meeting etc.
+Once the Action Plan is prepared under the PLAN section, the SM sends the e-mail to the CMM, HT and AM.
+IMPORTANT! A Safety Committee Airport Meeting may trigger a “Change Request” handled by the Safety Manager, hence may initiate a Management of Change Procedure.
+PHASE 4 – Closing
+The SM will be in charge.
+Based on the deadlines for each Action item, the SM shall follow-up with the person to whom the Task was allocated. Pipedrive will generate automatic triggers if required.
+The SM ensures all Task Items are closed and “archives” the Project.
