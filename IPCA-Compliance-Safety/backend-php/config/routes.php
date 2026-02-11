@@ -14,28 +14,6 @@ return function (App $app): void {
         return $response->withHeader('Content-Type', 'application/json');
     });
 
-// TEMP: env debug (remove after fixing)
-$app->get('/_env', function ($request, $response) {
-    $keys = [
-        'DB_HOST','DB_PORT','DB_DATABASE','DB_USERNAME','DB_PASSWORD','DB_SSLMODE',
-        'DB_NAME','DB_USER','DB_PASS'
-    ];
-
-    $out = [];
-    foreach ($keys as $k) {
-        $v = $_ENV[$k] ?? getenv($k) ?? null;
-        if ($v === null) {
-            $out[$k] = null;
-        } else {
-            // don't leak secrets
-            $out[$k] = ($k === 'DB_PASSWORD') ? '***set***' : $v;
-        }
-    }
-
-    $response->getBody()->write(json_encode($out));
-    return $response->withHeader('Content-Type', 'application/json');
-});
-
 	
     // Compliance
     $app->group('/compliance', function (RouteCollectorProxy $group): void {
