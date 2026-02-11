@@ -4,9 +4,13 @@ RUN docker-php-ext-install pdo pdo_mysql mysqli
 RUN a2enmod rewrite
 
 WORKDIR /var/www/html
-COPY backend-php/ /var/www/html
+
+# Copy ONLY the backend-php contents into the container web root
+COPY backend-php/ /var/www/html/
+
 RUN chown -R www-data:www-data /var/www/html
 
+# Force Apache to serve /public
 RUN printf '%s\n' \
 '<VirtualHost *:80>' \
 '  ServerName localhost' \
