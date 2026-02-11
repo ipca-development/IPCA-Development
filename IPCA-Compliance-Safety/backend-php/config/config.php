@@ -20,7 +20,6 @@ use IPCA\SafetyCompliance\Infrastructure\Ai\OpenAiClient;
 use IPCA\SafetyCompliance\Infrastructure\Ai\RcaAiService;
 
 use Psr\Container\ContainerInterface;
-use PDO;
 
 return [
 
@@ -30,20 +29,38 @@ return [
      * -------------------------------------------------------
      */
     PDO::class => function (ContainerInterface $c): PDO {
-        $host = $_ENV['DB_HOST'] ?? '127.0.0.1';
-        $db   = $_ENV['DB_NAME'] ?? 'IPCA';
-        $port = $_ENV['DB_PORT'] ?? '8889';
-        $user = $_ENV['DB_USER'] ?? 'root';
-        $pass = $_ENV['DB_PASS'] ?? 'root';
 
-        $dsn = "mysql:host=$host;dbname=$db;port=$port;charset=utf8mb4";
+        // Read App Platform environment variables first
+        $host = $_ENV['DB_HOST'] ?? getenv('DB_HOST') ?: '127.0.0.1';
 
-        $pdo = new PDO($dsn, $user, $pass, [
+        $db = $_ENV['DB_DATABASE'] ?? getenv('DB_DATABASE')
+            ?: ($_ENV['DB_NAME'] ?? getenv('DB_NAME') ?: 'IPCA');
+
+        $port = $_ENV['DB_PORT'] ?? getenv('DB_PORT')
+            ?: '3306';
+
+        $user = $_ENV['DB_USERNAME'] ?? getenv('DB_USERNAME')
+            ?: ($_ENV['DB_USER'] ?? getenv('DB_USER') ?: 'root');
+
+        $pass = $_ENV['DB_PASSWORD'] ?? getenv('DB_PASSWORD')
+            ?: ($_ENV['DB_PASS'] ?? getenv('DB_PASS') ?: '');
+
+        $dsn = "mysql:host={$host};dbname={$db};port={$port};charset=utf8mb4";
+
+        $options = [
             PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
             PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-        ]);
+        ];
 
-        return $pdo;
+        // DigitalOcean Managed MySQL SSL handling
+        $sslmode = strtolower($_ENV['DB_SSLMODE'] ?? getenv('DB_SSLMODE') ?: '');
+
+        if ($sslmode === 'required') {
+            // DO requires TLS but does not require client cert authentication
+            $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = false;
+        }
+
+        return new PDO($dsn, $user, $pass, $options);
     },
 
     /**
@@ -55,10 +72,7 @@ return [
     FindingRepositoryInterface::class       => DI\autowire(PdoFindingRepository::class),
     FindingActionRepositoryInterface::class => DI\autowire(PdoFindingActionRepository::class),
 
-    // Existing RCA repository (if you still use it)
     PdoRcaRepository::class => DI\autowire(PdoRcaRepository::class),
-
-    // New: Finding RCA storage repository (stores steps_json per finding)
     PdoFindingRcaRepository::class => DI\autowire(PdoFindingRcaRepository::class),
 
     /**
@@ -67,11 +81,14 @@ return [
      * -------------------------------------------------------
      */
     OpenAiClient::class => function () {
-        $key = $_ENV['OPENAI_API_KEY'] ?? '';
+        $key = $_ENV['OPENAI_API_KEY'] ?? getenv('OPENAI_API_KEY') ?: '';
+
         if ($key === '') {
-            throw new RuntimeException('OPENAI_API_KEY missing in backend-php/.env');
+            throw new RuntimeException('OPENAI_API_KEY missing in environment variables');
         }
-        $model = $_ENV['OPENAI_MODEL'] ?? 'gpt-5';
+
+        $model = $_ENV['OPENAI_MODEL'] ?? getenv('OPENAI_MODEL') ?: 'gpt-5';
+
         return new OpenAiClient($key, $model);
     },
 
