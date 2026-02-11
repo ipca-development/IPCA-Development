@@ -7,7 +7,7 @@ WORKDIR /var/www/html
 COPY . /var/www/html
 RUN chown -R www-data:www-data /var/www/html
 
-# Force Apache to serve /public (where your index.php is)
+# Force Apache to serve /public (where index.php is)
 RUN printf '%s\n' \
 '<VirtualHost *:80>' \
 '  ServerName localhost' \
@@ -15,7 +15,7 @@ RUN printf '%s\n' \
 '  DirectoryIndex index.php index.html' \
 '  <Directory /var/www/html/public>' \
 '    Options FollowSymLinks' \
-'    AllowOverride None' \
+'    AllowOverride All' \
 '    Require all granted' \
 '  </Directory>' \
 '</VirtualHost>' \
