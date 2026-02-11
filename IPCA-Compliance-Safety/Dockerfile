@@ -5,8 +5,8 @@ RUN a2enmod rewrite
 
 WORKDIR /var/www/html
 
-# Copy ONLY the backend-php contents into the container web root
-COPY backend-php/ /var/www/html/
+# Build context IS already backend-php, so copy everything from "."
+COPY . /var/www/html/
 
 RUN chown -R www-data:www-data /var/www/html
 
