@@ -40,6 +40,9 @@ $container = $containerBuilder->build();
 AppFactory::setContainer($container);
 $app = AppFactory::create();
 
+// IMPORTANT: since backend is mounted under /api
+$app->setBasePath('/api');
+
 /**
  * Middleware
  */
